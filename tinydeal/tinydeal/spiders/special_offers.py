@@ -8,7 +8,7 @@ class SpecialOffersSpider(scrapy.Spider):
 
     def start_requests(self):
         yield scrapy.Request(url='https://web.archive.org/web/20190324163700/http://www.tinydeal.com/specials.html', callback=self.parse, headers={
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
         })
 
     def parse(self, response):
@@ -25,5 +25,5 @@ class SpecialOffersSpider(scrapy.Spider):
 
         if next_page:
             yield scrapy.Request(url=next_page, callback=self.parse, headers={
-                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36'
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
             })
