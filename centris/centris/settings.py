@@ -1,4 +1,4 @@
-# Scrapy settings for worldometers project
+# Scrapy settings for centris project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,21 +7,26 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-from centris.centris.settings import FEED_EXPORT_ENCODGING
+BOT_NAME = "centris"
 
-
-BOT_NAME = "worldometers"
-
-SPIDER_MODULES = ["worldometers.spiders"]
-NEWSPIDER_MODULE = "worldometers.spiders"
+SPIDER_MODULES = ["centris.spiders"]
+NEWSPIDER_MODULE = "centris.spiders"
 
 FEED_EXPORT_ENCODGING = "utf-8"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-# USER_AGENT = 'worldometers (+http://www.yourdomain.com)'
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
+
+SPIDER_MIDDLEWARES = {
+    "scrapy_splash.SplashDeduplicateArgsMiddleware": 100,
+}
+
+DUPEFILTER_CLASS = "scrapy_splash.SplashAwareDupeFilter"
+
+SPLASH_URL = "http://0.0.0.0:8050"
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 # CONCURRENT_REQUESTS = 32
@@ -48,15 +53,19 @@ ROBOTSTXT_OBEY = True
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-# SPIDER_MIDDLEWARES = {
-#    'worldometers.middlewares.WorldometersSpiderMiddleware': 543,
-# }
+SPIDER_MIDDLEWARES = {
+    "scrapy_splash.SplashDeduplicateArgsMiddleware": 100,
+}
+
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-# DOWNLOADER_MIDDLEWARES = {
-#    'worldometers.middlewares.WorldometersDownloaderMiddleware': 543,
-# }
+
+DOWNLOADER_MIDDLEWARES = {
+    "scrapy_splash.SplashCookiesMiddleware": 723,
+    "scrapy_splash.SplashMiddleware": 725,
+    "scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware": 810,
+}
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
@@ -67,7 +76,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 # ITEM_PIPELINES = {
-#    'worldometers.pipelines.WorldometersPipeline': 300,
+#    'centris.pipelines.CentrisPipeline': 300,
 # }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
