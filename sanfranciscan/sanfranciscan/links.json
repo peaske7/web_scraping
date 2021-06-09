@@ -1,0 +1,77 @@
+[
+  {
+    "model": "All",
+    "description": "How to clean the roaster's burners",
+    "link": "http://37742.hs-sites.com/knowledge/why-does-the-flame-look-orange"
+  },
+  {
+    "model": "All",
+    "description": "Links to the user manuals",
+    "link": "http://37742.hs-sites.com/knowledge/does-sfr-have-online-versions-of-the-user-manual-for-my-roaster"
+  },
+  {
+    "model": "All",
+    "description": "How to download SerialComm drivers",
+    "link": "http://37742.hs-sites.com/knowledge/how-do-i-install-serialcomm-drivers-on-my-pc-or-mac"
+  },
+  {
+    "model": "SF10, SF-25, SF-75",
+    "description": "How to adjust the drum spacing on SF-10, SF-25, or SF-75",
+    "link": "http://37742.hs-sites.com/knowledge/how-to-adjust-drum-spacing-on-sf-"
+  },
+  {
+    "model": "SF-6",
+    "description": "Airflow Cleaning for SF-6",
+    "link": "http://37742.hs-sites.com/en/knowledge/what-components-on-my-sf-6-should-i-clean-regularly"
+  },
+  {
+    "model": "All",
+    "description": "Venting Information",
+    "link": "http://37742.hs-sites.com/knowledge/where-can-i-get-more-information-on-venting-systems"
+  },
+  {
+    "model": "All",
+    "description": "How to set up a Hot Air Combo",
+    "link": "http://37742.hs-sites.com/knowledge/how-do-i-set-up-my-hot-air-combo"
+  },
+  {
+    "model": "SF-10, SF-25",
+    "description": "How to clean the crossover pipe",
+    "link": "http://37742.hs-sites.com/knowledge/how-do-i-clean-my-roasters-crossover-pipe"
+  },
+  {
+    "model": "SF-6",
+    "description": "Electrical box troubleshooting",
+    "link": "http://37742.hs-sites.com/en/knowledge/how-can-i-check-if-my-electrical-box-components-are-working-properly-on-my-sf-6 "
+  },
+  {
+    "model": "SF-1",
+    "description": "How to replace a bean probe",
+    "link": "http://37742.hs-sites.com/knowledge/how-do-i-replace-a-bean-probe-on-my-sf-1"
+  },
+  {
+    "model": "SF-10, SF-25",
+    "description": "How to reset the cooling sweep motor",
+    "link": "http://37742.hs-sites.com/knowledge/why-isnt-the-cooling-sweep-moving"
+  },
+  {
+    "model": "SF10, SF-25, SF-75",
+    "description": "How to calibrate the Magnehelic",
+    "link": "http://37742.hs-sites.com/en/knowledge/how-do-i-calibrate-my-roasters-magnehelic"
+  },
+  {
+    "model": "SF-6",
+    "description": "How to adjust the drum spacing on SF-6",
+    "link": "http://37742.hs-sites.com/knowledge/how-do-i-adjust-the-drum-spacing-on-my-sf-7"
+  },
+  {
+    "model": "SF-10",
+    "description": "How to install the drop chute stopper on SF-10",
+    "link": "http://37742.hs-sites.com/en/knowledge/how-do-i-install-my-sf-10-cooling-tray-drop-chute-retrofit"
+  },
+  {
+    "model": "SF-10, SF-25, SF-75",
+    "description": "Reprogram the hot air fan to move more air",
+    "link": "http://37742.hs-sites.com/knowledge/can-i-reprogram-my-hot-air-fan-to-move-more-air"
+  }
+]
