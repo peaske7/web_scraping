@@ -1,0 +1,15 @@
+{
+  "school_name": "adelphi university",
+  "school_forbes_uri": "adelphi-university",
+  "school_forbes_abs_uri": "https://www.forbes.com/colleges/adelphi-university",
+  "rankings": [
+    { "category_name": "Top Colleges 2019", "category_ranking": "353" },
+    { "category_name": "In Private Colleges", "category_ranking": "234" },
+    { "category_name": "In Research Universities", "category_ranking": "158" },
+    { "category_name": "In The Northeast", "category_ranking": "136" },
+    {
+      "category_name": "America's Best Midsize Employers 2019",
+      "category_ranking": "451"
+    }
+  ]
+}

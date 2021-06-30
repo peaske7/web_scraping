@@ -1,0 +1,137 @@
+[
+  {
+    "rankings_category": "world_university_rankings",
+    "rankings_by_year": [
+      {
+        "year": "2019",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/397863.txt?1625009603?v=1625018924236"
+      },
+      {
+        "year": "2020",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/914824.txt?1625018950?v=1625018964695"
+      },
+      {
+        "year": "2021",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2057712.txt?1625010596?v=1625018995864"
+      }
+    ]
+  },
+  {
+    "rankings_category": "us_rankings",
+    "rankings_by_year": [
+      {
+        "year": "2020",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2055940.txt?1625018870?v=1625018881053"
+      },
+      {
+        "year": "2021",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3738856.txt?1625018650?v=1625018717544"
+      }
+    ]
+  },
+  {
+    "rankings_category": "arts_and_humanities",
+    "rankings_by_year": [
+      {
+        "year": "2018",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379677.txt?1625019036?v=1625019049448"
+      },
+      {
+        "year": "2019",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894231.txt?1625019064?v=1625019078658"
+      },
+      {
+        "year": "2020",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005415.txt?1625019094?v=1625019106189"
+      },
+      {
+        "year": "2021",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518694.txt?1625013961?v=1625018714660"
+      }
+    ]
+  },
+  {
+    "rankings_category": "life_sciences_and_medicine",
+    "rankings_by_year": [
+      {
+        "year": "2018",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379679.txt?1625019213?v=1625019225313"
+      },
+      {
+        "year": "2019",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894233.txt?1625019172?v=1625019196141"
+      },
+      {
+        "year": "2020",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005417.txt?1625019138?v=1625019151312"
+      },
+      {
+        "year": "2021",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518596.txt?1624891888?v=1625018717339"
+      }
+    ]
+  },
+  {
+    "rankings_category": "social_sciences_and_management",
+    "rankings_by_year": [
+      {
+        "year": "2018",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379681.txt?1625019272?v=1625019296184"
+      },
+      {
+        "year": "2019",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894235.txt?1625019397?v=1625019415049"
+      },
+      {
+        "year": "2020",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005419.txt?1625019445?v=1625019467182"
+      },
+      {
+        "year": "2021",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518490.txt?1624946112?v=1625019553334"
+      }
+    ]
+  },
+  {
+    "rankings_category": "natural_sciences",
+    "rankings_by_year": [
+      {
+        "year": "2018",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379680.txt?1625019258?v=1625019278792"
+      },
+      {
+        "year": "2019",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894234.txt?1625019319?v=1625019359287"
+      },
+      {
+        "year": "2020",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005418.txt?1625019387?v=1625019405172"
+      },
+      {
+        "year": "2021",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518540.txt?1625018650?v=1625018720746"
+      }
+    ]
+  },
+  {
+    "rankings_category": "engineering_and_technology",
+    "rankings_by_year": [
+      {
+        "year": "2018",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379678.txt?1625019614?v=1625019633672"
+      },
+      {
+        "year": "2019",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894232.txt?1625019583?v=1625019599868"
+      },
+      {
+        "year": "2020",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005416.txt?1625019493?v=1625019513902"
+      },
+      {
+        "year": "2021",
+        "endpoint": "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518640.txt?1625018647?v=1625019569873"
+      }
+    ]
+  }
+]

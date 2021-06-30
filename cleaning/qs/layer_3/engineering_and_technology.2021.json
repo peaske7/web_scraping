@@ -1,0 +1,4178 @@
+[
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "1",
+    "name": "Massachusetts Institute of Technology (MIT) ",
+    "country": "United States",
+    "score": "97.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "2",
+    "name": "Stanford University",
+    "country": "United States",
+    "score": "96"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "3",
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "score": "93.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "4",
+    "name": "ETH Zurich - Swiss Federal Institute of Technology",
+    "country": "Switzerland",
+    "score": "93.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "4",
+    "name": "Nanyang Technological University, Singapore (NTU)",
+    "country": "Singapore",
+    "score": "93.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "6",
+    "name": "University of Oxford",
+    "country": "United Kingdom",
+    "score": "92.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "7",
+    "name": "University of California, Berkeley (UCB)",
+    "country": "United States",
+    "score": "92.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "8",
+    "name": "Imperial College London",
+    "country": "United Kingdom",
+    "score": "92.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "9",
+    "name": "National University of Singapore (NUS)",
+    "country": "Singapore",
+    "score": "91.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "10",
+    "name": "Tsinghua University",
+    "country": "China (Mainland)",
+    "score": "91.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "11",
+    "name": "Harvard University",
+    "country": "United States",
+    "score": "90.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "12",
+    "name": "EPFL",
+    "country": "Switzerland",
+    "score": "90.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "13",
+    "name": "Georgia Institute of Technology",
+    "country": "United States",
+    "score": "89.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "14",
+    "name": "California Institute of Technology (Caltech)",
+    "country": "United States",
+    "score": "89"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "15",
+    "name": "Delft University of Technology",
+    "country": "Netherlands",
+    "score": "87.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "16",
+    "name": "KAIST - Korea Advanced Institute of Science & Technology",
+    "country": "South Korea",
+    "score": "87"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "17",
+    "name": "Carnegie Mellon University",
+    "country": "United States",
+    "score": "86.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "18",
+    "name": "University of Toronto",
+    "country": "Canada",
+    "score": "85.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "19",
+    "name": "University of California, Los Angeles (UCLA)",
+    "country": "United States",
+    "score": "85.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "20",
+    "name": "Politecnico di Milano",
+    "country": "Italy",
+    "score": "85.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "20",
+    "name": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong SAR",
+    "score": "85.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "20",
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "score": "85.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "23",
+    "name": "Shanghai Jiao Tong University",
+    "country": "China (Mainland)",
+    "score": "85"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "24",
+    "name": "Peking University",
+    "country": "China (Mainland)",
+    "score": "84.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "25",
+    "name": "University of Texas at Austin",
+    "country": "United States",
+    "score": "84.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "26",
+    "name": "University of Illinois at Urbana-Champaign",
+    "country": "United States",
+    "score": "84.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "27",
+    "name": "Seoul National University",
+    "country": "South Korea",
+    "score": "83.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "27",
+    "name": "Zhejiang University",
+    "country": "China (Mainland)",
+    "score": "83.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "29",
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "score": "83.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "30",
+    "name": "Princeton University",
+    "country": "United States",
+    "score": "83.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "31",
+    "name": "KTH Royal Institute of Technology ",
+    "country": "Sweden",
+    "score": "83.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "32",
+    "name": "University of British Columbia",
+    "country": "Canada",
+    "score": "83.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "33",
+    "name": "University of Michigan-Ann Arbor",
+    "country": "United States",
+    "score": "83.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "34",
+    "name": "Purdue University",
+    "country": "United States",
+    "score": "82.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "34",
+    "name": "Tokyo Institute of Technology (Tokyo Tech)",
+    "country": "Japan",
+    "score": "82.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "36",
+    "name": "Cornell University",
+    "country": "United States",
+    "score": "81.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "36",
+    "name": "The University of New South Wales (UNSW Sydney)",
+    "country": "Australia",
+    "score": "81.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "38",
+    "name": "University of Waterloo",
+    "country": "Canada",
+    "score": "81.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "39",
+    "name": "Politecnico di Torino",
+    "country": "Italy",
+    "score": "81"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "40",
+    "name": "McGill University",
+    "country": "Canada",
+    "score": "80.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "40",
+    "name": "National Taiwan University (NTU)",
+    "country": "Taiwan",
+    "score": "80.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "40",
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "80.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "43",
+    "name": "Fudan University",
+    "country": "China (Mainland)",
+    "score": "80.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "43",
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "score": "80.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "43",
+    "name": "The University of Manchester",
+    "country": "United Kingdom",
+    "score": "80.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "43",
+    "name": "Yale University",
+    "country": "United States",
+    "score": "80.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "47",
+    "name": "Columbia University",
+    "country": "United States",
+    "score": "80.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "48",
+    "name": "UCL",
+    "country": "United Kingdom",
+    "score": "80.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "49",
+    "name": "Indian Institute of Technology Bombay (IITB)",
+    "country": "India",
+    "score": "79.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "50",
+    "name": "Eindhoven University of Technology",
+    "country": "Netherlands",
+    "score": "79.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "50",
+    "name": "The University of Melbourne",
+    "country": "Australia",
+    "score": "79.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "52",
+    "name": "Ecole Polytechnique",
+    "country": "France",
+    "score": "79.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "52",
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "score": "79.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "54",
+    "name": "Indian Institute of Technology Delhi (IITD)",
+    "country": "India",
+    "score": "79.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "54",
+    "name": "Universiti Malaya (UM)",
+    "country": "Malaysia",
+    "score": "79.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "54",
+    "name": "University of Washington",
+    "country": "United States",
+    "score": "79.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "57",
+    "name": "Kyoto University",
+    "country": "Japan",
+    "score": "79.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "58",
+    "name": "Monash University",
+    "country": "Australia",
+    "score": "79.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "58",
+    "name": "Pohang University of Science And Technology (POSTECH)",
+    "country": "South Korea",
+    "score": "79.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "60",
+    "name": "Northwestern University",
+    "country": "United States",
+    "score": "79"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "60",
+    "name": "Technische Universit\u00e4t Berlin (TU Berlin)",
+    "country": "Germany",
+    "score": "79"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "60",
+    "name": "University of California, San Diego (UCSD)",
+    "country": "United States",
+    "score": "79"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "63",
+    "name": "Korea University",
+    "country": "South Korea",
+    "score": "78.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "63",
+    "name": "Technical University of Denmark",
+    "country": "Denmark",
+    "score": "78.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "65",
+    "name": "The University of Sydney",
+    "country": "Australia",
+    "score": "78.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "66",
+    "name": "Sungkyunkwan University(SKKU)",
+    "country": "South Korea",
+    "score": "78.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "67",
+    "name": "Lomonosov Moscow State University",
+    "country": "Russia",
+    "score": "78.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "67",
+    "name": "Universitat Polit\u00e8cnica de Catalunya \u00b7 BarcelonaTech (UPC)",
+    "country": "Spain",
+    "score": "78.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "67",
+    "name": "Xi\u2019an Jiaotong University",
+    "country": "China (Mainland)",
+    "score": "78.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "70",
+    "name": "KIT, Karlsruhe Institute of Technology",
+    "country": "Germany",
+    "score": "78.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "70",
+    "name": "Texas A&M University",
+    "country": "United States",
+    "score": "78.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "72",
+    "name": "CentraleSup\u00e9lec",
+    "country": "France",
+    "score": "77.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "72",
+    "name": "King Abdulaziz University (KAU)",
+    "country": "Saudi Arabia",
+    "score": "77.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "72",
+    "name": "Pennsylvania State University",
+    "country": "United States",
+    "score": "77.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "75",
+    "name": "Universidad Polit\u00e9cnica de Madrid (UPM)",
+    "country": "Spain",
+    "score": "77.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "75",
+    "name": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "score": "77.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "77",
+    "name": "University of Science and Technology of China",
+    "country": "China (Mainland)",
+    "score": "77.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "78",
+    "name": "University of Chicago",
+    "country": "United States",
+    "score": "77.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "79",
+    "name": "The Australian National University",
+    "country": "Australia",
+    "score": "77.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "79",
+    "name": "Chalmers University of Technology",
+    "country": "Sweden",
+    "score": "77.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "79",
+    "name": "Hanyang University",
+    "country": "South Korea",
+    "score": "77.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "82",
+    "name": "Huazhong University of Science and Technology",
+    "country": "China (Mainland)",
+    "score": "77.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "82",
+    "name": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong SAR",
+    "score": "77.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "84",
+    "name": "University of Pennsylvania",
+    "country": "United States",
+    "score": "77.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "85",
+    "name": "The University of Queensland",
+    "country": "Australia",
+    "score": "77"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "86",
+    "name": "The Chinese University of Hong Kong (CUHK)",
+    "country": "Hong Kong SAR",
+    "score": "76.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "86",
+    "name": "Universidade de S\u00e3o Paulo",
+    "country": "Brazil",
+    "score": "76.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "88",
+    "name": "Aalborg University",
+    "country": "Denmark",
+    "score": "76.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "88",
+    "name": "National Tsing Hua University",
+    "country": "Taiwan",
+    "score": "76.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "88",
+    "name": "Yonsei University",
+    "country": "South Korea",
+    "score": "76.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "91",
+    "name": "University of Wisconsin-Madison",
+    "country": "United States",
+    "score": "76.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "92",
+    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico  (UNAM)",
+    "country": "Mexico",
+    "score": "76.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "93",
+    "name": "Virginia Polytechnic Institute and State University",
+    "country": "United States",
+    "score": "76"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "94",
+    "name": "Indian Institute of Technology Madras (IITM)",
+    "country": "India",
+    "score": "75.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "94",
+    "name": "New York University (NYU)",
+    "country": "United States",
+    "score": "75.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "96",
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "75.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "96",
+    "name": "Harbin Institute of Technology",
+    "country": "China (Mainland)",
+    "score": "75.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "96",
+    "name": "Sorbonne University",
+    "country": "France",
+    "score": "75.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "96",
+    "name": "Tohoku University",
+    "country": "Japan",
+    "score": "75.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "100",
+    "name": "National Technical University of Athens",
+    "country": "Greece",
+    "score": "75.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "101",
+    "name": "Indian Institute of Technology Kharagpur (IIT-KGP)",
+    "country": "India",
+    "score": "75.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "102",
+    "name": "University of Southampton",
+    "country": "United Kingdom",
+    "score": "75.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "103",
+    "name": "Indian Institute of Science",
+    "country": "India",
+    "score": "75.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "104",
+    "name": "Universiti Teknologi Malaysia ",
+    "country": "Malaysia",
+    "score": "75"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "105",
+    "name": "University of Maryland, College Park",
+    "country": "United States",
+    "score": "74.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "106",
+    "name": "Osaka University",
+    "country": "Japan",
+    "score": "74.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "107",
+    "name": "Indian Institute of Technology Kanpur (IITK)",
+    "country": "India",
+    "score": "74.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "107",
+    "name": "University of Southern California",
+    "country": "United States",
+    "score": "74.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "109",
+    "name": "Pontificia Universidad Cat\u00f3lica de Chile (UC)",
+    "country": "Chile",
+    "score": "74.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "109",
+    "name": "Universit\u00e9 de Montr\u00e9al ",
+    "country": "Canada",
+    "score": "74.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "111",
+    "name": "The University of Sheffield",
+    "country": "United Kingdom",
+    "score": "74.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "111",
+    "name": "University of Alberta",
+    "country": "Canada",
+    "score": "74.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "111",
+    "name": "University of Bristol",
+    "country": "United Kingdom",
+    "score": "74.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "111",
+    "name": "University of California, Santa Barbara (UCSB)",
+    "country": "United States",
+    "score": "74.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "115",
+    "name": "Alma Mater Studiorum - University of Bologna",
+    "country": "Italy",
+    "score": "74"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "116",
+    "name": "Aalto University",
+    "country": "Finland",
+    "score": "73.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "116",
+    "name": "Duke University",
+    "country": "United States",
+    "score": "73.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "116",
+    "name": "Technische Universit\u00e4t Wien",
+    "country": "Austria",
+    "score": "73.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "116",
+    "name": "Universit\u00e9 PSL",
+    "country": "France",
+    "score": "73.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "120",
+    "name": "King Fahd University of Petroleum & Minerals",
+    "country": "Saudi Arabia",
+    "score": "73.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "120",
+    "name": "Nanjing University",
+    "country": "China (Mainland)",
+    "score": "73.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "120",
+    "name": "University of Technology Sydney",
+    "country": "Australia",
+    "score": "73.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "123",
+    "name": "Johns Hopkins University",
+    "country": "United States",
+    "score": "73.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "123",
+    "name": "Rice University",
+    "country": "United States",
+    "score": "73.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "123",
+    "name": "The University of Auckland",
+    "country": "New Zealand",
+    "score": "73.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "126",
+    "name": "Sapienza University of Rome",
+    "country": "Italy",
+    "score": "73.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "126",
+    "name": "Universidad de Chile",
+    "country": "Chile",
+    "score": "73.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "126",
+    "name": "Universit\u00e0 di Padova",
+    "country": "Italy",
+    "score": "73.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "129",
+    "name": "Technische Universit\u00e4t Dresden",
+    "country": "Germany",
+    "score": "73.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "129",
+    "name": "Tecnol\u00f3gico de Monterrey",
+    "country": "Mexico",
+    "score": "73.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "129",
+    "name": "University of Leeds",
+    "country": "United Kingdom",
+    "score": "73.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "132",
+    "name": "Beijing Institute of Technology",
+    "country": "China (Mainland)",
+    "score": "73.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "133",
+    "name": "The Ohio State University",
+    "country": "United States",
+    "score": "73.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "134",
+    "name": "The University of Adelaide",
+    "country": "Australia",
+    "score": "73.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "134",
+    "name": "Universidade Estadual de Campinas (Unicamp)",
+    "country": "Brazil",
+    "score": "73.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "136",
+    "name": "University of Twente",
+    "country": "Netherlands",
+    "score": "73"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "137",
+    "name": "University of Nottingham",
+    "country": "United Kingdom",
+    "score": "72.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "137",
+    "name": "University of California, Davis",
+    "country": "United States",
+    "score": "72.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "139",
+    "name": "National Chiao Tung University",
+    "country": "Taiwan",
+    "score": "72.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "139",
+    "name": "University of Minnesota Twin Cities",
+    "country": "United States",
+    "score": "72.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "141",
+    "name": "Michigan State University",
+    "country": "United States",
+    "score": "72.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "142",
+    "name": "Trinity College Dublin, The University of Dublin",
+    "country": "Ireland",
+    "score": "72.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "143",
+    "name": "Lund University",
+    "country": "Sweden",
+    "score": "72.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "144",
+    "name": "National Taipei University of Technology",
+    "country": "Taiwan",
+    "score": "72.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "144",
+    "name": "RMIT University",
+    "country": "Australia",
+    "score": "72.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "146",
+    "name": "Queen's University at Kingston",
+    "country": "Canada",
+    "score": "71.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "146",
+    "name": "University of Wollongong",
+    "country": "Australia",
+    "score": "71.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "146",
+    "name": "Wuhan University",
+    "country": "China (Mainland)",
+    "score": "71.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "149",
+    "name": "Universitat de Barcelona",
+    "country": "Spain",
+    "score": "71.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "150",
+    "name": "Brown University",
+    "country": "United States",
+    "score": "71.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "150",
+    "name": "Newcastle University",
+    "country": "United Kingdom",
+    "score": "71.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "150",
+    "name": "Norwegian University of Science And Technology",
+    "country": "Norway",
+    "score": "71.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "150",
+    "name": "University of Birmingham",
+    "country": "United Kingdom",
+    "score": "71.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "154",
+    "name": "Universit\u00e9 catholique de Louvain (UCLouvain)",
+    "country": "Belgium",
+    "score": "71.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "155",
+    "name": "Boston University",
+    "country": "United States",
+    "score": "71.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "156",
+    "name": "King's College London",
+    "country": "United Kingdom",
+    "score": "71.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "156",
+    "name": "Kyushu University",
+    "country": "Japan",
+    "score": "71.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "158",
+    "name": "Arizona State University",
+    "country": "United States",
+    "score": "71.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "158",
+    "name": "National Cheng Kung University (NCKU)",
+    "country": "Taiwan",
+    "score": "71.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "160",
+    "name": "ITMO University",
+    "country": "Russia",
+    "score": "71.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "160",
+    "name": "Technical University of Darmstadt",
+    "country": "Germany",
+    "score": "71.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "160",
+    "name": "Tongji University",
+    "country": "China (Mainland)",
+    "score": "71.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "163",
+    "name": "The University of Western Australia",
+    "country": "Australia",
+    "score": "71.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "164",
+    "name": "The University of Warwick",
+    "country": "United Kingdom",
+    "score": "71"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "164",
+    "name": "University of Florida",
+    "country": "United States",
+    "score": "71"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "166",
+    "name": "Cairo University",
+    "country": "Egypt",
+    "score": "70.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "166",
+    "name": "National Taiwan University of Science and Technology (Taiwan Tech)",
+    "country": "Taiwan",
+    "score": "70.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "166",
+    "name": "Universidad de Buenos Aires (UBA)",
+    "country": "Argentina",
+    "score": "70.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "169",
+    "name": "North Carolina State University",
+    "country": "United States",
+    "score": "70.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "169",
+    "name": "Queensland University of Technology (QUT)",
+    "country": "Australia",
+    "score": "70.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "169",
+    "name": "University of Strathclyde",
+    "country": "United Kingdom",
+    "score": "70.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "172",
+    "name": "Curtin University",
+    "country": "Australia",
+    "score": "70.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "173",
+    "name": "King Abdullah University of Science & Technology (KAUST)",
+    "country": "Saudi Arabia",
+    "score": "70.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "174",
+    "name": "Bauman Moscow State Technical University",
+    "country": "Russia",
+    "score": "70.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "174",
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "score": "70.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "176",
+    "name": "Indian Institute of Technology Roorkee (IITR)",
+    "country": "India",
+    "score": "70.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "176",
+    "name": "University of Calgary",
+    "country": "Canada",
+    "score": "70.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "178",
+    "name": "Sharif University of Technology",
+    "country": "Iran, Islamic Republic of",
+    "score": "70.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "178",
+    "name": "University of Porto",
+    "country": "Portugal",
+    "score": "70.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "180",
+    "name": "Peter the Great St. Petersburg Polytechnic University",
+    "country": "Russia",
+    "score": "70.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "180",
+    "name": "Universitat Polit\u00e8cnica de Val\u00e8ncia",
+    "country": "Spain",
+    "score": "70.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "180",
+    "name": "University of Bath",
+    "country": "United Kingdom",
+    "score": "70.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "183",
+    "name": "Middle East Technical University",
+    "country": "Turkey",
+    "score": "70"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "183",
+    "name": "Universit\u00e4t Stuttgart",
+    "country": "Germany",
+    "score": "70"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "183",
+    "name": "University of California, Irvine",
+    "country": "United States",
+    "score": "70"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "186",
+    "name": "Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)",
+    "country": "Russia",
+    "score": "69.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "186",
+    "name": "Waseda University",
+    "country": "Japan",
+    "score": "69.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "188",
+    "name": "Loughborough University",
+    "country": "United Kingdom",
+    "score": "69.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "188",
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "country": "Germany",
+    "score": "69.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "188",
+    "name": "Technion - Israel Institute of Technology",
+    "country": "Israel",
+    "score": "69.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "188",
+    "name": "Universidade Federal do Rio de Janeiro",
+    "country": "Brazil",
+    "score": "69.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "188",
+    "name": "University of Glasgow",
+    "country": "United Kingdom",
+    "score": "69.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "188",
+    "name": "University of Massachusetts Amherst",
+    "country": "United States",
+    "score": "69.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "194",
+    "name": "McMaster University",
+    "country": "Canada",
+    "score": "69.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "194",
+    "name": "Nagoya University",
+    "country": "Japan",
+    "score": "69.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "194",
+    "name": "Universidad Nacional de Colombia",
+    "country": "Colombia",
+    "score": "69.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "194",
+    "name": "Universiti Kebangsaan Malaysia (UKM)",
+    "country": "Malaysia",
+    "score": "69.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "194",
+    "name": "University of Lisbon ",
+    "country": "Portugal",
+    "score": "69.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "199",
+    "name": "Universiti Sains Malaysia (USM)",
+    "country": "Malaysia",
+    "score": "69.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "199",
+    "name": "University of Colorado Boulder",
+    "country": "United States",
+    "score": "69.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "199",
+    "name": "University of North Carolina, Chapel Hill",
+    "country": "United States",
+    "score": "69.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "202",
+    "name": "Istanbul Technical University",
+    "country": "Turkey",
+    "score": "69.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "202",
+    "name": "Queen Mary University of London",
+    "country": "United Kingdom",
+    "score": "69.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "202",
+    "name": "Sun Yat-sen University",
+    "country": "China (Mainland)",
+    "score": "69.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "202",
+    "name": "Ghent University",
+    "country": "Belgium",
+    "score": "69.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "206",
+    "name": "Aarhus University",
+    "country": "Denmark",
+    "score": "69.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "206",
+    "name": "Cranfield University",
+    "country": "United Kingdom",
+    "score": "69.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "206",
+    "name": "Novosibirsk State University",
+    "country": "Russia",
+    "score": "69.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "206",
+    "name": "Universit\u00e9 Grenoble Alpes",
+    "country": "France",
+    "score": "69.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "206",
+    "name": "University College Dublin",
+    "country": "Ireland",
+    "score": "69.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "206",
+    "name": "University of Amsterdam",
+    "country": "Netherlands",
+    "score": "69.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "212",
+    "name": "Aristotle University of Thessaloniki",
+    "country": "Greece",
+    "score": "69.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "212",
+    "name": "Humboldt-Universit\u00e4t zu Berlin",
+    "country": "Germany",
+    "score": "69.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "214",
+    "name": "Beihang University (former BUAA)",
+    "country": "China (Mainland)",
+    "score": "69.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "214",
+    "name": "Khalifa University",
+    "country": "United Arab Emirates",
+    "score": "69.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "214",
+    "name": "National University of Sciences And Technology (NUST) Islamabad",
+    "country": "Pakistan",
+    "score": "69.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "217",
+    "name": "Universitat Aut\u00f2noma de Barcelona",
+    "country": "Spain",
+    "score": "69.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "218",
+    "name": "Saint Petersburg State University",
+    "country": "Russia",
+    "score": "68.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "218",
+    "name": "TELECOM Paris",
+    "country": "France",
+    "score": "68.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "220",
+    "name": "Heriot-Watt University",
+    "country": "United Kingdom",
+    "score": "68.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "221",
+    "name": "Czech Technical University in Prague",
+    "country": "Czech Republic",
+    "score": "68.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "221",
+    "name": "Universidad Carlos III de Madrid (UC3M)",
+    "country": "Spain",
+    "score": "68.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "223",
+    "name": "King Saud University",
+    "country": "Saudi Arabia",
+    "score": "68.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "224",
+    "name": "Universiti Putra Malaysia (UPM)",
+    "country": "Malaysia",
+    "score": "68.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "224",
+    "name": "University of Illinois at Chicago (UIC)",
+    "country": "United States",
+    "score": "68.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "226",
+    "name": "Jilin University",
+    "country": "China (Mainland)",
+    "score": "68.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "226",
+    "name": "University of Naples - Federico II",
+    "country": "Italy",
+    "score": "68.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "228",
+    "name": "Instituto Polit\u00e9cnico Nacional (IPN)",
+    "country": "Mexico",
+    "score": "68.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "228",
+    "name": "Western University",
+    "country": "Canada",
+    "score": "68.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "230",
+    "name": "Keio University",
+    "country": "Japan",
+    "score": "68.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "230",
+    "name": "Tianjin University",
+    "country": "China (Mainland)",
+    "score": "68.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "230",
+    "name": "Universiti Teknologi PETRONAS (UTP)",
+    "country": "Malaysia",
+    "score": "68.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "230",
+    "name": "Warsaw University of Technology",
+    "country": "Poland",
+    "score": "68.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "234",
+    "name": "Universidad de los Andes",
+    "country": "Colombia",
+    "score": "68.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "234",
+    "name": "University of Pisa",
+    "country": "Italy",
+    "score": "68.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "234",
+    "name": "University of Surrey",
+    "country": "United Kingdom",
+    "score": "68.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "234",
+    "name": "Uppsala University",
+    "country": "Sweden",
+    "score": "68.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "234",
+    "name": "Utrecht University",
+    "country": "Netherlands",
+    "score": "68.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "239",
+    "name": "Qatar University",
+    "country": "Qatar",
+    "score": "68"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "239",
+    "name": "The University of Newcastle, Australia (UON)",
+    "country": "Australia",
+    "score": "68"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "239",
+    "name": "University of Zurich",
+    "country": "Switzerland",
+    "score": "68"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "242",
+    "name": "Queen's University Belfast",
+    "country": "United Kingdom",
+    "score": "67.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "242",
+    "name": "Complutense University of Madrid",
+    "country": "Spain",
+    "score": "67.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "244",
+    "name": "Chulalongkorn University",
+    "country": "Thailand",
+    "score": "67.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "245",
+    "name": "University of Helsinki",
+    "country": "Finland",
+    "score": "67.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "245",
+    "name": "University of Liverpool",
+    "country": "United Kingdom",
+    "score": "67.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "247",
+    "name": "Deakin University",
+    "country": "Australia",
+    "score": "67.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "247",
+    "name": "Kyung Hee University",
+    "country": "South Korea",
+    "score": "67.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "247",
+    "name": "Link\u00f6ping University",
+    "country": "Sweden",
+    "score": "67.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "247",
+    "name": "Northeastern University",
+    "country": "United States",
+    "score": "67.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "247",
+    "name": "University of Trento",
+    "country": "Italy",
+    "score": "67.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "252",
+    "name": "University of Copenhagen",
+    "country": "Denmark",
+    "score": "67.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "253",
+    "name": "Indian Institute of Technology Guwahati (IITG)",
+    "country": "India",
+    "score": "67.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "253",
+    "name": "Shandong University",
+    "country": "China (Mainland)",
+    "score": "67.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "253",
+    "name": "University of Notre Dame",
+    "country": "United States",
+    "score": "67.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "256",
+    "name": "Bandung Institute of Technology (ITB)",
+    "country": "Indonesia",
+    "score": "67.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "256",
+    "name": "Cardiff University",
+    "country": "United Kingdom",
+    "score": "67.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "258",
+    "name": "Colorado School of Mines",
+    "country": "United States",
+    "score": "67"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "258",
+    "name": "Universidad Aut\u00f3noma de Madrid",
+    "country": "Spain",
+    "score": "67"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "258",
+    "name": "University of Patras",
+    "country": "Greece",
+    "score": "67"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "261",
+    "name": "Rutgers University\u2013New Brunswick",
+    "country": "United States",
+    "score": "66.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "262",
+    "name": "Southeast University",
+    "country": "China (Mainland)",
+    "score": "66.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "263",
+    "name": "Durham University",
+    "country": "United Kingdom",
+    "score": "66.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "263",
+    "name": "Washington State University",
+    "country": "United States",
+    "score": "66.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "265",
+    "name": "The University of Arizona",
+    "country": "United States",
+    "score": "66.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "266",
+    "name": "American University of Beirut (AUB)",
+    "country": "Lebanon",
+    "score": "66.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "266",
+    "name": "Graz University of Technology",
+    "country": "Austria",
+    "score": "66.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "268",
+    "name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+    "country": "Germany",
+    "score": "66.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "268",
+    "name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "country": "Germany",
+    "score": "66.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "268",
+    "name": "The University of Exeter",
+    "country": "United Kingdom",
+    "score": "66.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "268",
+    "name": "University of Ottawa",
+    "country": "Canada",
+    "score": "66.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "272",
+    "name": "Institut polytechnique de Grenoble - Grenoble Institute of Technology",
+    "country": "France",
+    "score": "66.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "273",
+    "name": "Budapest University of Technology and Economics",
+    "country": "Hungary",
+    "score": "66.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "273",
+    "name": "Florida State University",
+    "country": "United States",
+    "score": "66.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "275",
+    "name": "Case Western Reserve University",
+    "country": "United States",
+    "score": "66"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "275",
+    "name": "COMSATS University Islamabad",
+    "country": "Pakistan",
+    "score": "66"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "275",
+    "name": "Lancaster University",
+    "country": "United Kingdom",
+    "score": "66"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "275",
+    "name": "Rensselaer Polytechnic Institute",
+    "country": "United States",
+    "score": "66"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "275",
+    "name": "University of Pittsburgh",
+    "country": "United States",
+    "score": "66"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "275",
+    "name": "University of Virginia",
+    "country": "United States",
+    "score": "66"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "281",
+    "name": "Concordia University",
+    "country": "Canada",
+    "score": "65.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "282",
+    "name": "Tampere University",
+    "country": "Finland",
+    "score": "65.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "282",
+    "name": "University of Tehran",
+    "country": "Iran, Islamic Republic of",
+    "score": "65.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "282",
+    "name": "The University of Tennessee, Knoxville",
+    "country": "United States",
+    "score": "65.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "285",
+    "name": "The National University of Science and Technology MISIS",
+    "country": "Russia",
+    "score": "65.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "285",
+    "name": "University of Canterbury | Te Whare W\u0101nanga o Waitaha",
+    "country": "New Zealand",
+    "score": "65.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "287",
+    "name": "Universit\u00e9 Paris-Saclay",
+    "country": "France",
+    "score": "65.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "288",
+    "name": "National Research Tomsk Polytechnic University",
+    "country": "Russia",
+    "score": "65.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "289",
+    "name": "Bilkent University",
+    "country": "Turkey",
+    "score": "65.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "290",
+    "name": "Bogazi\u00e7i \u00dcniversitesi",
+    "country": "Turkey",
+    "score": "65.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "290",
+    "name": "South China University of Technology",
+    "country": "China (Mainland)",
+    "score": "65.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "290",
+    "name": "Universidad T\u00e9cnica Federico Santa Mar\u00eda (USM)",
+    "country": "Chile",
+    "score": "65.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "293",
+    "name": "Alexandria University ",
+    "country": "Egypt",
+    "score": "65.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "293",
+    "name": "Institut National des Sciences Appliqu\u00e9es de Lyon (INSA)",
+    "country": "France",
+    "score": "65.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "293",
+    "name": "University of Houston",
+    "country": "United States",
+    "score": "65.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "293",
+    "name": "Xiamen University",
+    "country": "China (Mainland)",
+    "score": "65.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "297",
+    "name": "Stockholm University",
+    "country": "Sweden",
+    "score": "65.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "297",
+    "name": "United Arab Emirates University",
+    "country": "United Arab Emirates",
+    "score": "65.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "297",
+    "name": "University College Cork",
+    "country": "Ireland",
+    "score": "65.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "297",
+    "name": "University of Texas Dallas",
+    "country": "United States",
+    "score": "65.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "301",
+    "name": "Ecole des Ponts ParisTech",
+    "country": "France",
+    "score": "65"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "301",
+    "name": "Illinois Institute of Technology",
+    "country": "United States",
+    "score": "65"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "301",
+    "name": "Universite libre de Bruxelles",
+    "country": "Belgium",
+    "score": "65"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "304",
+    "name": "UNESP",
+    "country": "Brazil",
+    "score": "64.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "305",
+    "name": "Ain Shams University ",
+    "country": "Egypt",
+    "score": "64.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "305",
+    "name": "University of South Australia",
+    "country": "Australia",
+    "score": "64.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "307",
+    "name": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+    "country": "Russia",
+    "score": "64.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "307",
+    "name": "University at Buffalo SUNY",
+    "country": "United States",
+    "score": "64.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "307",
+    "name": "University of Coimbra",
+    "country": "Portugal",
+    "score": "64.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "307",
+    "name": "University of Groningen",
+    "country": "Netherlands",
+    "score": "64.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "311",
+    "name": "Brno University of Technology",
+    "country": "Czech Republic",
+    "score": "64.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "311",
+    "name": "Ulsan National Institute of Science and Technology (UNIST)",
+    "country": "South Korea",
+    "score": "64.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "311",
+    "name": "University of Vienna",
+    "country": "Austria",
+    "score": "64.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "311",
+    "name": "University of Central Florida",
+    "country": "United States",
+    "score": "64.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "311",
+    "name": "University of Science and Technology Beijing",
+    "country": "China (Mainland)",
+    "score": "64.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "316",
+    "name": "Gwangju Institute of Science and Technology (GIST)",
+    "country": "South Korea",
+    "score": "64.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "316",
+    "name": "Universidade Federal de Minas Gerais      ",
+    "country": "Brazil",
+    "score": "64.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "318",
+    "name": "Dalian University of Technology",
+    "country": "China (Mainland)",
+    "score": "64.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "318",
+    "name": "\u00c9cole Centrale de Lyon",
+    "country": "France",
+    "score": "64.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "318",
+    "name": "Freie Universitaet Berlin",
+    "country": "Germany",
+    "score": "64.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "321",
+    "name": "Jordan University of Science & Technology",
+    "country": "Jordan",
+    "score": "64.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "321",
+    "name": "National Central University",
+    "country": "Taiwan",
+    "score": "64.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "321",
+    "name": "Universidad de Sevilla",
+    "country": "Spain",
+    "score": "64.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "321",
+    "name": "Vilnius Gediminas Technical University",
+    "country": "Lithuania",
+    "score": "64.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "321",
+    "name": "Washington University in St. Louis",
+    "country": "United States",
+    "score": "64.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "326",
+    "name": "IMT Atlantique",
+    "country": "France",
+    "score": "64.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "326",
+    "name": "University of Milan",
+    "country": "Italy",
+    "score": "64.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "326",
+    "name": "University of Cape Town",
+    "country": "South Africa",
+    "score": "64.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "326",
+    "name": "Universitas Indonesia",
+    "country": "Indonesia",
+    "score": "64.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "330",
+    "name": "Iowa State University",
+    "country": "United States",
+    "score": "64.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "330",
+    "name": "Leibniz University Hannover",
+    "country": "Germany",
+    "score": "64.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "332",
+    "name": "Universit\u00e9 du Qu\u00e9bec",
+    "country": "Canada",
+    "score": "64"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "333",
+    "name": "Universit\u00e4t Hamburg",
+    "country": "Germany",
+    "score": "63.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "333",
+    "name": "Universit\u00e9 de Li\u00e8ge",
+    "country": "Belgium",
+    "score": "63.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "335",
+    "name": "National Sun Yat-sen University",
+    "country": "Taiwan",
+    "score": "63.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "335",
+    "name": "Gadjah Mada University",
+    "country": "Indonesia",
+    "score": "63.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "337",
+    "name": "Universit\u00e9 Laval",
+    "country": "Canada",
+    "score": "63.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "337",
+    "name": "Pusan National University",
+    "country": "South Korea",
+    "score": "63.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "337",
+    "name": "Albert-Ludwigs-Universitaet Freiburg",
+    "country": "Germany",
+    "score": "63.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "340",
+    "name": "Leiden University",
+    "country": "Netherlands",
+    "score": "63.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "340",
+    "name": "Macquarie University",
+    "country": "Australia",
+    "score": "63.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "340",
+    "name": "Shanghai University",
+    "country": "China (Mainland)",
+    "score": "63.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "340",
+    "name": "Simon Fraser University",
+    "country": "Canada",
+    "score": "63.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "340",
+    "name": "University of Oslo",
+    "country": "Norway",
+    "score": "63.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "345",
+    "name": "Amirkabir University of Technology",
+    "country": "Iran, Islamic Republic of",
+    "score": "63.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "345",
+    "name": "Beijing Normal University ",
+    "country": "China (Mainland)",
+    "score": "63.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "347",
+    "name": "Bangladesh University of Engineering and Technology",
+    "country": "Bangladesh",
+    "score": "63.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "347",
+    "name": "University of Rome Tor Vergata",
+    "country": "Italy",
+    "score": "63.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "347",
+    "name": "Vrije Universiteit Amsterdam",
+    "country": "Netherlands",
+    "score": "63.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "347",
+    "name": "Vrije Universiteit Brussel (VUB)",
+    "country": "Belgium",
+    "score": "63.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "351",
+    "name": "National and Kapodistrian University of Athens",
+    "country": "Greece",
+    "score": "63.3"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "352",
+    "name": "Brunel University London",
+    "country": "United Kingdom",
+    "score": "63.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "352",
+    "name": "Swinburne University of Technology",
+    "country": "Australia",
+    "score": "63.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "352",
+    "name": "Universit\u00e9 de Technologie de Compi\u00e8gne (UTC)",
+    "country": "France",
+    "score": "63.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "352",
+    "name": "University of Delaware",
+    "country": "United States",
+    "score": "63.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "356",
+    "name": "Tomsk State University",
+    "country": "Russia",
+    "score": "63.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "356",
+    "name": "University of Pretoria",
+    "country": "South Africa",
+    "score": "63.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "358",
+    "name": "Universiti Malaysia Pahang",
+    "country": "Malaysia",
+    "score": "63"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "358",
+    "name": "University of York",
+    "country": "United Kingdom",
+    "score": "63"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "360",
+    "name": "National University of Ireland Galway",
+    "country": "Ireland",
+    "score": "62.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "360",
+    "name": "Universit\u00e9 de Montpellier",
+    "country": "France",
+    "score": "62.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "360",
+    "name": "University of Jordan",
+    "country": "Jordan",
+    "score": "62.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "363",
+    "name": "American University of Sharjah",
+    "country": "United Arab Emirates",
+    "score": "62.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "363",
+    "name": "Technische Universit\u00e4t Braunschweig",
+    "country": "Germany",
+    "score": "62.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "363",
+    "name": "University of Granada",
+    "country": "Spain",
+    "score": "62.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "363",
+    "name": "Universidade Nova de Lisboa",
+    "country": "Portugal",
+    "score": "62.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "363",
+    "name": "University of Geneva",
+    "country": "Switzerland",
+    "score": "62.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "368",
+    "name": "Tel Aviv University",
+    "country": "Israel",
+    "score": "62.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "368",
+    "name": "Universidade Federal de Santa Catarina ",
+    "country": "Brazil",
+    "score": "62.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "368",
+    "name": "University of Reading",
+    "country": "United Kingdom",
+    "score": "62.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "368",
+    "name": "University of South Carolina",
+    "country": "United States",
+    "score": "62.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "368",
+    "name": "University of St Andrews",
+    "country": "United Kingdom",
+    "score": "62.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "373",
+    "name": "Chung-Ang University (CAU)",
+    "country": "South Korea",
+    "score": "62.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "373",
+    "name": "Sejong University ",
+    "country": "South Korea",
+    "score": "62.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "373",
+    "name": "University of Tsukuba",
+    "country": "Japan",
+    "score": "62.6"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "376",
+    "name": "Hunan University ",
+    "country": "China (Mainland)",
+    "score": "62.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "376",
+    "name": "University of Engineering & Technology (UET) Lahore",
+    "country": "Pakistan",
+    "score": "62.5"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "378",
+    "name": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro",
+    "country": "Brazil",
+    "score": "62.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "378",
+    "name": "University of Rochester",
+    "country": "United States",
+    "score": "62.4"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "380",
+    "name": "East China University of Science and Technology",
+    "country": "China (Mainland)",
+    "score": "62.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "380",
+    "name": "Florida International University",
+    "country": "United States",
+    "score": "62.2"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "382",
+    "name": "Lahore University of Management Sciences (LUMS)",
+    "country": "Pakistan",
+    "score": "62.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "382",
+    "name": "Texas A&M University at Qatar",
+    "country": "Qatar",
+    "score": "62.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "382",
+    "name": "Universitat Pompeu Fabra (Barcelona)",
+    "country": "Spain",
+    "score": "62.1"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "385",
+    "name": "Oregon State University",
+    "country": "United States",
+    "score": "62"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "385",
+    "name": "Singapore Management University",
+    "country": "Singapore",
+    "score": "62"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "385",
+    "name": "University of Oulu",
+    "country": "Finland",
+    "score": "62"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "388",
+    "name": "Anna University",
+    "country": "India",
+    "score": "61.9"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "389",
+    "name": "Beijing University of Technology",
+    "country": "China (Mainland)",
+    "score": "61.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "389",
+    "name": "Clemson University",
+    "country": "United States",
+    "score": "61.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "389",
+    "name": "Colorado State University",
+    "country": "United States",
+    "score": "61.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "389",
+    "name": "Quaid-i-Azam University",
+    "country": "Pakistan",
+    "score": "61.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "389",
+    "name": "Ryerson University",
+    "country": "Canada",
+    "score": "61.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "389",
+    "name": "University of Aberdeen",
+    "country": "United Kingdom",
+    "score": "61.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "389",
+    "name": "University of Cincinnati",
+    "country": "United States",
+    "score": "61.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "389",
+    "name": "University of Manitoba",
+    "country": "Canada",
+    "score": "61.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "389",
+    "name": "University of South Florida",
+    "country": "United States",
+    "score": "61.8"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "398",
+    "name": "Singapore University of Technology and Design",
+    "country": "Singapore",
+    "score": "61.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "398",
+    "name": "Universidad de Concepci\u00f3n",
+    "country": "Chile",
+    "score": "61.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "398",
+    "name": "Universidad de Santiago de Chile (USACH)",
+    "country": "Chile",
+    "score": "61.7"
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Beijing Jiaotong University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Birla Institute of Technology and Science, Pilani",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Carleton University",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Charles University",
+    "country": "Czech Republic",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "ENS Paris-Saclay",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of G\u00f6ttingen",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "George Washington University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Indiana University Bloomington",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Inha University",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Ko\u00e7 University",
+    "country": "Turkey",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Kyungpook National University",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Lulea University",
+    "country": "Sweden",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Nanjing University of Aeronautics and Astronautics",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Nankai University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "National Chung Hsing University",
+    "country": "Taiwan",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Northwestern Polytechnical University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Renmin (People's) University of China",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Rheinische Friedrich-Wilhelms-Universit\u00e4t Bonn",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Riga Technical University",
+    "country": "Latvia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Ruhr-Universit\u00e4t Bochum",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Sabanci University",
+    "country": "Turkey",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Institut Teknologi Sepuluh Nopember (ITS Surabaya)",
+    "country": "Indonesia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Sogang University",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Sogang University",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Stellenbosch University",
+    "country": "South Africa",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Stellenbosch University",
+    "country": "South Africa",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Swansea University",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "TU Dortmund University",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Texas Tech University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "The University of Georgia",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Tokyo University of Science",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Universidad de Zaragoza",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Universidade Federal do Rio Grande Do Sul ",
+    "country": "Brazil",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Genoa",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Universit\u00e0 degli Studi di Pavia",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Turin",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Universit\u00e9 de Strasbourg",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Aveiro",
+    "country": "Portugal",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Delhi",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Electronic Science and Technology of China",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Limerick",
+    "country": "Ireland",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Ljubljana",
+    "country": "Slovenia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Miami",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Minho",
+    "country": "Portugal",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Witwatersrand",
+    "country": "South Africa",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Utah",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University of Victoria (UVic)",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "University POLITEHNICA of Bucharest",
+    "country": "Romania",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Ural Federal University - UrFU",
+    "country": "Russia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Vanderbilt University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Vellore Institute of Technology (VIT)",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "401-450",
+    "name": "Wroclaw University of Science and Technology (WRUST)",
+    "country": "Poland",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Ajou University ",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Asian Institute of Technology, Thailand",
+    "country": "Thailand",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Beijing University of Chemical Technology",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Ben-Gurion University of The Negev",
+    "country": "Israel",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Dalhousie University",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Dartmouth College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Drexel University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Dublin City University",
+    "country": "Ireland",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "\u00c9cole Centrale de Nantes",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Griffith University",
+    "country": "Australia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "The Hebrew University of Jerusalem",
+    "country": "Israel",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Hiroshima University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Iran University of Science and Technology",
+    "country": "Iran, Islamic Republic of",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Jeonbuk National University",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "King Mongkut's University of Technology Thonburi ",
+    "country": "Thailand",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Kobe University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Lappeenranta-Lahti University of Technology LUT",
+    "country": "Finland",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Lehigh University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "HSE University",
+    "country": "Russia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Northumbria University at Newcastle",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Sant'Anna - Scuola Universitaria Superiore Pisa",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Sichuan University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Stony Brook University, State University of New York",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Technical University of Cluj-Napoca",
+    "country": "Romania",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Technische Universit\u00e4t Hamburg",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Technological University Dublin",
+    "country": "Ireland",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "The American University in Cairo",
+    "country": "Egypt",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Tufts University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Universidad de Antioquia",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "University of the Basque Country",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Universidade Federal de S\u00e3o Carlos (UFSCar)",
+    "country": "Brazil",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "University of Florence",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Universitat de Valencia",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Goethe-University Frankfurt am Main",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "University of Bordeaux",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Universit\u00e9 de Lorraine",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Universit\u00e9 de Rennes 1",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Universiti Teknologi MARA - UiTM",
+    "country": "Malaysia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "The University of Alabama",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "University of Antwerp",
+    "country": "Belgium",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "University of Basel",
+    "country": "Switzerland",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "University of California, Riverside",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "University of Gothenburg",
+    "country": "Sweden",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "University of New Mexico",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "University of Oklahoma",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Yildiz Technical University",
+    "country": "Turkey",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "York University",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "451-500",
+    "name": "Zhengzhou University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "Aston University",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "Central South University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "City, University of London",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "Pontificia Universidad Javeriana",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "South Ural State University (National Research University)",
+    "country": "Russia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "Universidad Pontificia Comillas",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "Universit\u00e9 Claude Bernard Lyon 1",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "Universit\u00e9 de Lille",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "Universit\u00e9 de Sherbrooke",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "Universit\u00e9 Paul Sabatier Toulouse III",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "University of Connecticut",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "University of Kent",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "University of Navarra",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "University of Otago",
+    "country": "New Zealand",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "University of Southern Denmark (SDU)",
+    "country": "Denmark",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "University of Tartu",
+    "country": "Estonia",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "The University of Texas at Arlington",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "University of the Philippines",
+    "country": "Philippines",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": "University of Warsaw ",
+    "country": "Poland",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "engineering_and_technology",
+    "rank": "501-520",
+    "name": " Western Sydney University",
+    "country": "Australia",
+    "score": ""
+  }
+]

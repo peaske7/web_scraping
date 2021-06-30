@@ -1,0 +1,102 @@
+World Rank	Institution	Location	National Rank	Quality of Education	Alumni Employment	Quality of Faculty	Publications	Influence	Citations	Patents	Score
+1	Harvard University	USA	1	1	1	1	1	1	1	7	100.00
+2	Stanford University	USA	2	11	2	4	6	2	2	11	93.94
+3	University of Oxford	United Kingdom	1	7	12	10	11	7	13	15	92.54
+4	Massachusetts Institute of Technology	USA	3	2	16	2	16	3	3	1	91.45
+5	University of Cambridge	United Kingdom	2	3	15	5	9	11	10	39	90.24
+6	Columbia University	USA	4	13	8	9	13	9	11	10	88.21
+7	University of California, Berkeley	USA	5	6	28	6	8	6	4	19	85.07
+8	Princeton University	USA	6	4	14	3	58	35	27	101+	82.17
+9	University of Chicago	USA	7	9	19	8	37	21	30	101+	79.16
+10	Yale University	USA	8	10	25	13	20	12	22	42	78.83
+11	California Institute of Technology	USA	9	5	101+	7	38	24	25	17	77.59
+12	University of Pennsylvania	USA	10	22	5	25	10	10	9	14	77.24
+13	Cornell University	USA	11	12	23	18	21	19	15	7	76.99
+14	University of Tokyo	Japan	1	17	3	32	14	23	29	5	76.23
+15	Kyoto University	Japan	2	32	17	14	28	46	58	13	69.46
+16	University of California, Los Angeles	USA	12	38	35	12	5	15	6	12	67.84
+17	Johns Hopkins University	USA	13	23	96	21	4	5	7	2	65.64
+18	Swiss Federal Institute of Technology in Zurich	Switzerland	1	16	60	11	40	53	55	60	64.99
+19	New York University	USA	14	37	31	16	41	25	33	51	63.99
+20	University of California, San Diego	USA	15	33	101+	19	15	14	14	22	63.12
+21	Hebrew University of Jerusalem	Israel	1	15	101+	15	101+	96	101+	24	59.98
+22	University of California, San Francisco	USA	16	101+	101+	22	23	4	18	63	59.38
+23	University of Wisconsin–Madison	USA	17	31	55	33	19	29	20	30	58.94
+24	University of Illinois at Urbana–Champaign	USA	18	65	101+	20	33	66	34	67	58.33
+25	Duke University	USA	19	89	42	46	22	17	17	24	57.72
+26	University of Texas at Austin	USA	20	101+	56	24	46	84	37	20	57.71
+27	Imperial College London	United Kingdom	3	101+	92	35	17	22	19	48	56.75
+28	Northwestern University	USA	21	101+	21	101+	27	26	24	30	56.12
+29	University of Toronto	Canada	1	91	81	34	2	13	12	101+	56.11
+30	University College London	United Kingdom	4	24	101+	49	12	16	21	73	56.00
+31	University of Washington - Seattle	USA	22	101+	101+	41	7	8	5	51	55.79
+32	University of Michigan, Ann Arbor	USA	23	35	27	101+	3	18	8	6	55.77
+33	Weizmann Institute of Science	Israel	2	18	101+	23	101+	85	101+	48	54.34
+34	University of North Carolina at Chapel Hill	USA	24	101+	101+	60	30	27	26	42	52.87
+35	Osaka University	Japan	3	77	91	44	55	56	72	17	52.79
+36	University of Paris-Sud	France	1	26	101+	26	73	101+	101+	101+	51.72
+37	University of California, Santa Barbara	USA	25	101+	101+	28	89	91	38	101+	51.67
+38	Purdue University, West Lafayette	USA	26	95	39	52	71	101+	65	36	51.59
+39	University of Southern California	USA	27	101+	99	56	56	52	36	40	51.56
+40	Seoul National University	South Korea	1	101+	13	101+	48	101+	76	4	51.31
+41	University of Colorado Boulder	USA	28	82	84	38	75	68	54	101+	51.16
+42	University of Utah	USA	29	101+	101+	42	93	61	85	27	51.14
+43	Rutgers University-New Brunswick	USA	30	101+	101+	48	43	58	45	96	51.09
+44	University of Minnesota, Twin Cities	USA	31	101+	101+	87	18	31	16	67	50.98
+45	University of Edinburgh	United Kingdom	5	47	101+	45	52	36	63	101+	50.98
+46	University of Texas Southwestern Medical Center	USA	32	46	101+	29	101+	28	82	101+	50.79
+47	McGill University	Canada	2	54	62	59	34	42	48	101+	50.77
+48	Pierre-and-Marie-Curie University	France	2	19	101+	84	31	50	78	81	50.58
+49	Rockefeller University	USA	33	55	101+	17	101+	34	101+	101+	50.43
+50	Pennsylvania State University, University Park	USA	34	101+	72	101+	29	54	23	67	49.84
+51	Carnegie Mellon University	USA	35	30	101+	27	101+	101+	74	101+	49.56
+52	Ohio State University, Columbus	USA	36	101+	101+	86	32	55	35	60	49.41
+53	University of California, Davis	USA	37	60	101+	94	26	47	31	90	49.16
+54	Boston University	USA	38	101+	69	88	54	37	41	100	48.96
+55	University of Florida	USA	39	101+	101+	98	35	92	42	9	48.93
+56	University of Geneva	Switzerland	2	52	101+	30	101+	78	101+	101+	48.83
+57	Tel Aviv University	Israel	3	84	101+	54	83	101+	101+	32	48.72
+58	University of British Columbia	Canada	3	101+	101+	95	25	39	39	100	48.51
+59	University of Maryland, College Park	USA	40	79	101+	53	49	77	40	101+	48.39
+60	Karolinska Institute	Sweden	1	101+	101+	47	64	38	62	101+	47.98
+61	Vanderbilt University	USA	41	101+	101+	101+	53	40	60	40	47.80
+62	Sapienza University of Rome	Italy	1	101+	101+	31	76	101+	101+	101+	47.75
+63	Washington University in St. Louis	USA	42	101+	101+	101+	36	20	32	101+	47.72
+64	École normale supérieure - Paris	France	3	8	101+	57	101+	101+	101+	101+	47.70
+65	University of California, Irvine	USA	43	101+	101+	39	69	67	61	101+	47.52
+66	Technion – Israel Institute of Technology	Israel	4	50	101+	36	101+	101+	101+	73	47.45
+67	Ludwig Maximilian University of Munich	Germany	1	62	101+	92	67	49	67	101+	47.25
+68	University of Copenhagen	Denmark	1	101+	101+	63	42	43	51	101+	47.12
+69	University of Pittsburgh - Pittsburgh Campus	USA	44	80	101+	101+	24	33	28	44	47.08
+70	Keio University	Japan	4	101+	6	101+	101+	101+	101+	73	47.05
+71	University of Virginia	USA	45	101+	24	101+	88	73	68	63	46.92
+72	University of Manchester	United Kingdom	6	101+	101+	76	47	63	57	101+	46.85
+73	Arizona State University	USA	46	101+	101+	73	101+	101+	89	20	46.72
+74	University of Zurich	Switzerland	3	101+	101+	82	59	48	52	101+	46.54
+75	King's College London	United Kingdom	7	41	101+	101+	45	45	44	101+	46.53
+76	University of Rochester	USA	47	63	80	101+	101+	86	66	51	46.44
+77	Brown University	USA	48	59	52	67	101+	89	96	101+	46.43
+78	University of Arizona	USA	49	101+	101+	90	60	57	49	101+	46.39
+79	Ruprecht Karl University of Heidelberg	Germany	2	73	101+	55	82	59	100	101+	46.24
+80	Texas A&M University, College Station	USA	50	101+	101+	50	72	101+	88	101+	46.17
+81	University of Oslo	Norway	1	101+	101+	40	101+	101+	101+	101+	46.10
+82	Dartmouth College	USA	51	45	20	101+	101+	101+	101+	78	46.04
+83	Swiss Federal Institute of Technology in Lausanne	Switzerland	4	101+	101+	85	101+	101+	83	54	45.73
+84	Utrecht University	Netherlands	1	101+	101+	101+	39	44	47	101+	45.73
+85	Indiana University - Bloomington	USA	52	101+	48	101+	50	72	59	101+	45.71
+86	École Polytechnique	France	4	101+	4	101+	101+	101+	101+	101+	45.38
+87	National University of Singapore	Singapore	1	101+	101+	101+	44	101+	50	27	45.20
+88	University of Texas MD Anderson Cancer Center	USA	53	101+	101+	101+	90	32	56	101+	45.12
+89	Stony Brook University	USA	54	101+	101+	68	101+	101+	98	90	45.01
+90	Lomonosov Moscow State University	Russia	1	14	101+	51	101+	101+	101+	101+	44.93
+91	Nagoya University	Japan	5	72	101+	71	101+	101+	101+	58	44.78
+92	University of Sydney	Australia	1	101+	101+	101+	61	101+	101+	48	44.77
+93	Emory University	USA	55	101+	101+	101+	66	41	53	81	44.53
+94	Rice University	USA	56	51	101+	97	101+	101+	64	81	44.53
+95	Tohoku University	Japan	6	43	101+	101+	65	101+	91	26	44.52
+96	Australian National University	Australia	2	101+	101+	43	101+	101+	101+	101+	44.50
+97	University of Alberta	Canada	4	101+	101+	101+	68	101+	92	81	44.50
+98	University of Helsinki	Finland	1	69	101+	81	74	79	71	101+	44.39
+99	Paris Diderot University - Paris 7	France	5	28	101+	72	101+	87	101+	101+	44.36
+100	Georgia Institute of Technology	USA	57	101+	85	101+	97	101+	43	32	44.26
+

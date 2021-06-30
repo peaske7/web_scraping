@@ -1,0 +1,31 @@
+{
+  "school_name": "harvard university",
+  "school_forbes_uri": "harvard-university",
+  "school_forbes_abs_uri": "https://www.forbes.com/colleges/harvard-university",
+  "rankings": [
+    {
+      "category_name": "Best Employers for New Grads 2021",
+      "category_ranking": "127"
+    },
+    {
+      "category_name": "Best Employers for Diversity 2021",
+      "category_ranking": "234"
+    },
+    {
+      "category_name": "America's Best Employers 2021",
+      "category_ranking": "51"
+    },
+    {
+      "category_name": "Best Employers for Women 2020",
+      "category_ranking": "47"
+    },
+    { "category_name": "Top Colleges 2019", "category_ranking": "1" },
+    { "category_name": "In Private Colleges", "category_ranking": "1" },
+    { "category_name": "In Research Universities", "category_ranking": "1" },
+    { "category_name": "In The Northeast", "category_ranking": "1" },
+    {
+      "category_name": "America's Best Value Colleges 2019",
+      "category_ranking": "7"
+    }
+  ]
+}

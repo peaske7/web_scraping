@@ -1,0 +1,4002 @@
+[
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "1",
+    "name": "Harvard University",
+    "country": "United States",
+    "score": "98.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "2",
+    "name": "University of Oxford",
+    "country": "United Kingdom",
+    "score": "95.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "3",
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "score": "94.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "4",
+    "name": "Stanford University",
+    "country": "United States",
+    "score": "93.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "5",
+    "name": "Johns Hopkins University",
+    "country": "United States",
+    "score": "93.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "6",
+    "name": "Massachusetts Institute of Technology (MIT) ",
+    "country": "United States",
+    "score": "92.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "7",
+    "name": "University of California, San Francisco",
+    "country": "United States",
+    "score": "90.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "8",
+    "name": "University of California, Los Angeles (UCLA)",
+    "country": "United States",
+    "score": "90.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "9",
+    "name": "Karolinska Institutet",
+    "country": "Sweden",
+    "score": "90.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "10",
+    "name": "UCL",
+    "country": "United Kingdom",
+    "score": "89.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "11",
+    "name": "University of Toronto",
+    "country": "Canada",
+    "score": "89.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "12",
+    "name": "Yale University",
+    "country": "United States",
+    "score": "89.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "13",
+    "name": "University of California, San Diego (UCSD)",
+    "country": "United States",
+    "score": "87.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=14",
+    "name": "Imperial College London",
+    "country": "United Kingdom",
+    "score": "87.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=14",
+    "name": "University of California, Berkeley (UCB)",
+    "country": "United States",
+    "score": "87.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "16",
+    "name": "University of Pennsylvania",
+    "country": "United States",
+    "score": "87.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "17",
+    "name": "Columbia University",
+    "country": "United States",
+    "score": "86.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "18",
+    "name": "Duke University",
+    "country": "United States",
+    "score": "86.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=19",
+    "name": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "score": "86.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=19",
+    "name": "University of Washington",
+    "country": "United States",
+    "score": "86.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "21",
+    "name": "The University of Melbourne",
+    "country": "Australia",
+    "score": "86.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "22",
+    "name": "King's College London",
+    "country": "United Kingdom",
+    "score": "86"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=23",
+    "name": "Cornell University",
+    "country": "United States",
+    "score": "85.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=23",
+    "name": "The University of Sydney",
+    "country": "Australia",
+    "score": "85.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "25",
+    "name": "University of Copenhagen",
+    "country": "Denmark",
+    "score": "85.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "26",
+    "name": "National University of Singapore (NUS)",
+    "country": "Singapore",
+    "score": "85.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "27",
+    "name": "University of Michigan-Ann Arbor",
+    "country": "United States",
+    "score": "85.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "28",
+    "name": "McGill University",
+    "country": "Canada",
+    "score": "85.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "29",
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "score": "84.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "30",
+    "name": "Washington University in St. Louis",
+    "country": "United States",
+    "score": "84.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "31",
+    "name": "University of British Columbia",
+    "country": "Canada",
+    "score": "84.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "32",
+    "name": "University of North Carolina, Chapel Hill",
+    "country": "United States",
+    "score": "83.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "33",
+    "name": "The University of Queensland",
+    "country": "Australia",
+    "score": "82.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "34",
+    "name": "Monash University",
+    "country": "Australia",
+    "score": "82.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=35",
+    "name": "Seoul National University",
+    "country": "South Korea",
+    "score": "82.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=35",
+    "name": "University of Amsterdam",
+    "country": "Netherlands",
+    "score": "82.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "37",
+    "name": "University of Chicago",
+    "country": "United States",
+    "score": "82.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "38",
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "country": "Germany",
+    "score": "82.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "39",
+    "name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+    "country": "Germany",
+    "score": "82"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "40",
+    "name": "New York University (NYU)",
+    "country": "United States",
+    "score": "81.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "41",
+    "name": "Boston University",
+    "country": "United States",
+    "score": "81.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=42",
+    "name": "The University of Manchester",
+    "country": "United Kingdom",
+    "score": "81.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=42",
+    "name": "University of Zurich",
+    "country": "Switzerland",
+    "score": "81.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=44",
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "81.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=44",
+    "name": "Utrecht University",
+    "country": "Netherlands",
+    "score": "81.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "46",
+    "name": "ETH Zurich - Swiss Federal Institute of Technology",
+    "country": "Switzerland",
+    "score": "81"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "47",
+    "name": "University of Glasgow",
+    "country": "United Kingdom",
+    "score": "80.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "48",
+    "name": "University of Pittsburgh",
+    "country": "United States",
+    "score": "80.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "49",
+    "name": "University of California, Davis",
+    "country": "United States",
+    "score": "80.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=50",
+    "name": "Erasmus University Rotterdam ",
+    "country": "Netherlands",
+    "score": "80.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=50",
+    "name": "Kyoto University",
+    "country": "Japan",
+    "score": "80.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=50",
+    "name": "McMaster University",
+    "country": "Canada",
+    "score": "80.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "53",
+    "name": "University of Geneva",
+    "country": "Switzerland",
+    "score": "80.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "54",
+    "name": "London School of Hygiene & Tropical Medicine",
+    "country": "United Kingdom",
+    "score": "80.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "55",
+    "name": "University of Helsinki",
+    "country": "Finland",
+    "score": "80"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "56",
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "score": "79.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "57",
+    "name": "Uppsala University",
+    "country": "Sweden",
+    "score": "79.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "58",
+    "name": "Peking University",
+    "country": "China (Mainland)",
+    "score": "79.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "59",
+    "name": "National Taiwan University (NTU)",
+    "country": "Taiwan",
+    "score": "79.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "60",
+    "name": "Northwestern University",
+    "country": "United States",
+    "score": "79.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "61",
+    "name": "University of Bristol",
+    "country": "United Kingdom",
+    "score": "79.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=62",
+    "name": "Emory University",
+    "country": "United States",
+    "score": "79"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=62",
+    "name": "Universitat de Barcelona",
+    "country": "Spain",
+    "score": "79"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=62",
+    "name": "University of Basel",
+    "country": "Switzerland",
+    "score": "79"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "65",
+    "name": "University of Wisconsin-Madison",
+    "country": "United States",
+    "score": "78.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "66",
+    "name": "Leiden University",
+    "country": "Netherlands",
+    "score": "78.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "67",
+    "name": "Wageningen University & Research",
+    "country": "Netherlands",
+    "score": "78.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=68",
+    "name": "Baylor College of Medicine",
+    "country": "United States",
+    "score": "78.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=68",
+    "name": "The University of New South Wales (UNSW Sydney)",
+    "country": "Australia",
+    "score": "78.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=68",
+    "name": "The University of Texas M. D. Anderson Cancer Center ",
+    "country": "United States",
+    "score": "78.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=68",
+    "name": "University of Groningen",
+    "country": "Netherlands",
+    "score": "78.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "72",
+    "name": "The University of Texas Southwestern Medical Center at Dallas ",
+    "country": "United States",
+    "score": "78.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "73",
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "score": "78"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "74",
+    "name": "University of Milan",
+    "country": "Italy",
+    "score": "77.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=75",
+    "name": "Aarhus University",
+    "country": "Denmark",
+    "score": "77.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=75",
+    "name": "The Ohio State University",
+    "country": "United States",
+    "score": "77.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=77",
+    "name": "Lund University",
+    "country": "Sweden",
+    "score": "77.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=77",
+    "name": "University of Nottingham",
+    "country": "United Kingdom",
+    "score": "77.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=77",
+    "name": "Universit\u00e9 de Montr\u00e9al ",
+    "country": "Canada",
+    "score": "77.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=77",
+    "name": "University of Minnesota Twin Cities",
+    "country": "United States",
+    "score": "77.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "81",
+    "name": "Fudan University",
+    "country": "China (Mainland)",
+    "score": "77.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "82",
+    "name": "Vanderbilt University",
+    "country": "United States",
+    "score": "77.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "83",
+    "name": "Queen Mary University of London",
+    "country": "United Kingdom",
+    "score": "76.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=84",
+    "name": "Osaka University",
+    "country": "Japan",
+    "score": "76.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=84",
+    "name": "The Chinese University of Hong Kong (CUHK)",
+    "country": "Hong Kong SAR",
+    "score": "76.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=84",
+    "name": "The University of Western Australia",
+    "country": "Australia",
+    "score": "76.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=84",
+    "name": "University of Birmingham",
+    "country": "United Kingdom",
+    "score": "76.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "88",
+    "name": "Ghent University",
+    "country": "Belgium",
+    "score": "76.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "89",
+    "name": "Trinity College Dublin, The University of Dublin",
+    "country": "Ireland",
+    "score": "76.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=90",
+    "name": "Sorbonne University",
+    "country": "France",
+    "score": "76.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=90",
+    "name": "University of Oslo",
+    "country": "Norway",
+    "score": "76.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "92",
+    "name": "Medical University of Vienna",
+    "country": "Austria",
+    "score": "76.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "93",
+    "name": "Universidade de S\u00e3o Paulo",
+    "country": "Brazil",
+    "score": "76.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=94",
+    "name": "University of Lausanne",
+    "country": "Switzerland",
+    "score": "76.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=94",
+    "name": "University of Otago",
+    "country": "New Zealand",
+    "score": "76.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "96",
+    "name": "Alma Mater Studiorum - University of Bologna",
+    "country": "Italy",
+    "score": "76"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=97",
+    "name": "Radboud University ",
+    "country": "Netherlands",
+    "score": "75.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=97",
+    "name": "University of Alberta",
+    "country": "Canada",
+    "score": "75.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "99",
+    "name": "Maastricht University ",
+    "country": "Netherlands",
+    "score": "75.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "100",
+    "name": "University of Southampton",
+    "country": "United Kingdom",
+    "score": "75.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=101",
+    "name": "The University of Auckland",
+    "country": "New Zealand",
+    "score": "75.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=101",
+    "name": "Goethe-University Frankfurt am Main",
+    "country": "Germany",
+    "score": "75.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=101",
+    "name": "Universit\u00e9 Paris Descartes",
+    "country": "France",
+    "score": "75.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "104",
+    "name": "The University of Adelaide",
+    "country": "Australia",
+    "score": "75.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "105",
+    "name": "University of Bern",
+    "country": "Switzerland",
+    "score": "75.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=106",
+    "name": "Shanghai Jiao Tong University",
+    "country": "China (Mainland)",
+    "score": "75.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=106",
+    "name": "University of Florida",
+    "country": "United States",
+    "score": "75.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=108",
+    "name": "University of Gothenburg",
+    "country": "Sweden",
+    "score": "75"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=108",
+    "name": "University of Southern California",
+    "country": "United States",
+    "score": "75"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=110",
+    "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen",
+    "country": "Germany",
+    "score": "74.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=110",
+    "name": "Newcastle University",
+    "country": "United Kingdom",
+    "score": "74.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=112",
+    "name": "Universit\u00e0\u00a0di Padova",
+    "country": "Italy",
+    "score": "74.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=112",
+    "name": "Albert-Ludwigs-Universitaet Freiburg",
+    "country": "Germany",
+    "score": "74.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=112",
+    "name": "University of Cape Town",
+    "country": "South Africa",
+    "score": "74.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=115",
+    "name": "California Institute of Technology (Caltech)",
+    "country": "United States",
+    "score": "74.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=115",
+    "name": "Yonsei University",
+    "country": "South Korea",
+    "score": "74.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=117",
+    "name": "Brown University",
+    "country": "United States",
+    "score": "74.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=117",
+    "name": "Cardiff University",
+    "country": "United Kingdom",
+    "score": "74.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=117",
+    "name": "University of Calgary",
+    "country": "Canada",
+    "score": "74.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=120",
+    "name": "The Australian National University",
+    "country": "Australia",
+    "score": "74.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=120",
+    "name": "EPFL",
+    "country": "Switzerland",
+    "score": "74.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=120",
+    "name": "University of G\u00f6ttingen",
+    "country": "Germany",
+    "score": "74.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=123",
+    "name": "Icahn School of Medicine at Mount Sinai ",
+    "country": "United States",
+    "score": "74.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=123",
+    "name": "Sungkyunkwan University(SKKU)",
+    "country": "South Korea",
+    "score": "74.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=125",
+    "name": "The University of Sheffield",
+    "country": "United Kingdom",
+    "score": "73.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=125",
+    "name": "Universit\u00e9 catholique de Louvain (UCLouvain)",
+    "country": "Belgium",
+    "score": "73.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=125",
+    "name": "University of Liverpool",
+    "country": "United Kingdom",
+    "score": "73.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "128",
+    "name": "Princeton University",
+    "country": "United States",
+    "score": "73.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "129",
+    "name": "Pennsylvania State University",
+    "country": "United States",
+    "score": "73.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=130",
+    "name": "The Rockefeller University",
+    "country": "United States",
+    "score": "73.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=130",
+    "name": "Sapienza University of Rome",
+    "country": "Italy",
+    "score": "73.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=130",
+    "name": "Tufts University",
+    "country": "United States",
+    "score": "73.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=130",
+    "name": "Universit\u00e4t Hamburg",
+    "country": "Germany",
+    "score": "73.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=134",
+    "name": "University of California, Irvine",
+    "country": "United States",
+    "score": "73.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=134",
+    "name": "University of Miami",
+    "country": "United States",
+    "score": "73.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=136",
+    "name": "Case Western Reserve University",
+    "country": "United States",
+    "score": "73.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=136",
+    "name": "Tsinghua University",
+    "country": "China (Mainland)",
+    "score": "73.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=138",
+    "name": "Rheinische Friedrich-Wilhelms-Universit\u00e4t Bonn",
+    "country": "Germany",
+    "score": "73.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=138",
+    "name": "University of Illinois at Chicago (UIC)",
+    "country": "United States",
+    "score": "73.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=138",
+    "name": "University of Leeds",
+    "country": "United Kingdom",
+    "score": "73.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=141",
+    "name": "Medizinische Hochschule Hannover",
+    "country": "Germany",
+    "score": "73"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=141",
+    "name": "Nanyang Technological University, Singapore (NTU)",
+    "country": "Singapore",
+    "score": "73"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=141",
+    "name": "University of Texas at Austin",
+    "country": "United States",
+    "score": "73"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=144",
+    "name": "Michigan State University",
+    "country": "United States",
+    "score": "72.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=144",
+    "name": "University of Maryland, College Park",
+    "country": "United States",
+    "score": "72.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=146",
+    "name": "Universit\u00e9 Paris-Saclay",
+    "country": "France",
+    "score": "72.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=146",
+    "name": "University of Colorado, Denver ",
+    "country": "United States",
+    "score": "72.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=148",
+    "name": "Mahidol University",
+    "country": "Thailand",
+    "score": "72.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=148",
+    "name": "Universitat Aut\u00f2noma de Barcelona",
+    "country": "Spain",
+    "score": "72.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=148",
+    "name": "University of Iowa",
+    "country": "United States",
+    "score": "72.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "151",
+    "name": " University of Dundee",
+    "country": "United Kingdom",
+    "score": "72.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "152",
+    "name": "Tohoku University",
+    "country": "Japan",
+    "score": "72.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "153",
+    "name": "University of Virginia",
+    "country": "United States",
+    "score": "71.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "154",
+    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico  (UNAM)",
+    "country": "Mexico",
+    "score": "71.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "155",
+    "name": "Technische Universit\u00e4t Dresden",
+    "country": "Germany",
+    "score": "71.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=156",
+    "name": "Korea University",
+    "country": "South Korea",
+    "score": "71.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=156",
+    "name": "Nagoya University",
+    "country": "Japan",
+    "score": "71.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=156",
+    "name": "University of Rochester",
+    "country": "United States",
+    "score": "71.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=156",
+    "name": "Western University",
+    "country": "Canada",
+    "score": "71.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=156",
+    "name": "Zhejiang University",
+    "country": "China (Mainland)",
+    "score": "71.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "161",
+    "name": "Sun Yat-sen University",
+    "country": "China (Mainland)",
+    "score": "71.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=162",
+    "name": "The Hebrew University of Jerusalem",
+    "country": "Israel",
+    "score": "71"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=162",
+    "name": "Kyushu University",
+    "country": "Japan",
+    "score": "71"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=162",
+    "name": "Universit\u00e9 de Montpellier",
+    "country": "France",
+    "score": "71"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=162",
+    "name": "Universit\u00e9 Diderot  Paris 7",
+    "country": "France",
+    "score": "71"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=162",
+    "name": "University College Dublin",
+    "country": "Ireland",
+    "score": "71"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "167",
+    "name": "National Yang Ming University",
+    "country": "Taiwan",
+    "score": "70.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=168",
+    "name": "Keio University",
+    "country": "Japan",
+    "score": "70.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=168",
+    "name": "Universit\u00e9 Laval",
+    "country": "Canada",
+    "score": "70.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=168",
+    "name": "University of Ottawa",
+    "country": "Canada",
+    "score": "70.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "171",
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "score": "70.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "172",
+    "name": "University of Cologne",
+    "country": "Germany",
+    "score": "70.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "173",
+    "name": "University of Illinois at Urbana-Champaign",
+    "country": "United States",
+    "score": "70.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "174",
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "score": "70.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=175",
+    "name": "University of Massachusetts Medical School - Worcester ",
+    "country": "United States",
+    "score": "70.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=175",
+    "name": "Vrije Universiteit Amsterdam",
+    "country": "Netherlands",
+    "score": "70.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "177",
+    "name": "University of Turin",
+    "country": "Italy",
+    "score": "70.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=178",
+    "name": "Texas A&M University",
+    "country": "United States",
+    "score": "70"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=178",
+    "name": "Aix-Marseille University",
+    "country": "France",
+    "score": "70"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=178",
+    "name": "University at Buffalo SUNY",
+    "country": "United States",
+    "score": "70"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "181",
+    "name": "Universit\u00e9 PSL",
+    "country": "France",
+    "score": "69.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=182",
+    "name": "Universiti Malaya (UM)",
+    "country": "Malaysia",
+    "score": "69.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=182",
+    "name": "University of Utah",
+    "country": "United States",
+    "score": "69.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=184",
+    "name": "Tokyo Medical and Dental University (TMDU)",
+    "country": "Japan",
+    "score": "69.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=184",
+    "name": "Universidad de Buenos Aires (UBA)",
+    "country": "Argentina",
+    "score": "69.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=184",
+    "name": "University of Bergen",
+    "country": "Norway",
+    "score": "69.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=187",
+    "name": "Dartmouth College",
+    "country": "United States",
+    "score": "69.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=187",
+    "name": "Julius-Maximilians-Universit\u00e4t W\u00fcrzburg",
+    "country": "Germany",
+    "score": "69.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=187",
+    "name": "Universit\u00e0\u00a0Cattolica del Sacro Cuore",
+    "country": "Italy",
+    "score": "69.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "190",
+    "name": "The University of Arizona",
+    "country": "United States",
+    "score": "69.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=191",
+    "name": "Purdue University",
+    "country": "United States",
+    "score": "69.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=191",
+    "name": "Universit\u00e9 Claude Bernard Lyon 1",
+    "country": "France",
+    "score": "69.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=193",
+    "name": "University of Aberdeen",
+    "country": "United Kingdom",
+    "score": "69.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=193",
+    "name": "University of Leicester",
+    "country": "United Kingdom",
+    "score": "69.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=193",
+    "name": "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster ",
+    "country": "Germany",
+    "score": "69.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=196",
+    "name": "Dalhousie University",
+    "country": "Canada",
+    "score": "69"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=196",
+    "name": "Complutense University of Madrid",
+    "country": "Spain",
+    "score": "69"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "198",
+    "name": "Universite libre de Bruxelles",
+    "country": "Belgium",
+    "score": "68.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=199",
+    "name": "Georgetown University",
+    "country": "United States",
+    "score": "68.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=199",
+    "name": "University Duesseldorf",
+    "country": "Germany",
+    "score": "68.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=199",
+    "name": "University of Alabama at Birmingham ",
+    "country": "United States",
+    "score": "68.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=199",
+    "name": "Weizmann Institute of Science",
+    "country": "Israel",
+    "score": "68.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=203",
+    "name": "King Abdulaziz University (KAU)",
+    "country": "Saudi Arabia",
+    "score": "68.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=203",
+    "name": "The Scripps Research Institute (TSRI)",
+    "country": "United States",
+    "score": "68.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "205",
+    "name": "The University of Newcastle, Australia (UON)",
+    "country": "Australia",
+    "score": "68.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=206",
+    "name": "Pontificia Universidad Cat\u00f3lica de Chile (UC)",
+    "country": "Chile",
+    "score": "68.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=206",
+    "name": "University College Cork",
+    "country": "Ireland",
+    "score": "68.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "208",
+    "name": "Universidad de Chile",
+    "country": "Chile",
+    "score": "68.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "209",
+    "name": "Taipei Medical University (TMU)",
+    "country": "Taiwan",
+    "score": "68.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=210",
+    "name": "George Washington University",
+    "country": "United States",
+    "score": "68.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=210",
+    "name": "Universidad Aut\u00f3noma de Madrid",
+    "country": "Spain",
+    "score": "68.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=210",
+    "name": "University of Antwerp",
+    "country": "Belgium",
+    "score": "68.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=210",
+    "name": "Wake Forest University",
+    "country": "United States",
+    "score": "68.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=214",
+    "name": "Humboldt-Universit\u00e4t zu Berlin",
+    "country": "Germany",
+    "score": "68.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=214",
+    "name": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "score": "68.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=216",
+    "name": "Charles University",
+    "country": "Czech Republic",
+    "score": "68"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=216",
+    "name": "Christian-Albrechts-University zu Kiel",
+    "country": "Germany",
+    "score": "68"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=216",
+    "name": "Tel Aviv University",
+    "country": "Israel",
+    "score": "68"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=216",
+    "name": "University of Florence",
+    "country": "Italy",
+    "score": "68"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=216",
+    "name": "University of Naples - Federico II",
+    "country": "Italy",
+    "score": "68"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "221",
+    "name": "University of York",
+    "country": "United Kingdom",
+    "score": "67.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=222",
+    "name": "Umea University",
+    "country": "Sweden",
+    "score": "67.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=222",
+    "name": "Universidade Estadual de Campinas (Unicamp)",
+    "country": "Brazil",
+    "score": "67.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=224",
+    "name": "The University of Warwick",
+    "country": "United Kingdom",
+    "score": "67.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=224",
+    "name": "University of Turku",
+    "country": "Finland",
+    "score": "67.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "226",
+    "name": "The University of Exeter",
+    "country": "United Kingdom",
+    "score": "67.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "227",
+    "name": "Freie Universitaet Berlin",
+    "country": "Germany",
+    "score": "67.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "228",
+    "name": "University of Colorado Boulder",
+    "country": "United States",
+    "score": "67.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=229",
+    "name": "Stockholm University",
+    "country": "Sweden",
+    "score": "67.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=229",
+    "name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+    "country": "Germany",
+    "score": "67.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=231",
+    "name": "Nanjing University",
+    "country": "China (Mainland)",
+    "score": "66.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=231",
+    "name": "National and Kapodistrian University of Athens",
+    "country": "Greece",
+    "score": "66.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=231",
+    "name": "Queen's University at Kingston",
+    "country": "Canada",
+    "score": "66.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=231",
+    "name": "University of Vienna",
+    "country": "Austria",
+    "score": "66.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "235",
+    "name": "KAIST - Korea Advanced Institute of Science & Technology",
+    "country": "South Korea",
+    "score": "66.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=236",
+    "name": "Kyung Hee University",
+    "country": "South Korea",
+    "score": "66.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=236",
+    "name": "Universit\u00e4t  Leipzig",
+    "country": "Germany",
+    "score": "66.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=236",
+    "name": "University of Witwatersrand",
+    "country": "South Africa",
+    "score": "66.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "239",
+    "name": "Queen's University Belfast",
+    "country": "United Kingdom",
+    "score": "66.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=240",
+    "name": "Cairo University",
+    "country": "Egypt",
+    "score": "66.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=240",
+    "name": "University of Manitoba",
+    "country": "Canada",
+    "score": "66.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "242",
+    "name": "Universit\u00e9 de Strasbourg",
+    "country": "France",
+    "score": "66.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=243",
+    "name": "University of Connecticut",
+    "country": "United States",
+    "score": "66.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=243",
+    "name": "University of Eastern Finland",
+    "country": "Finland",
+    "score": "66.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=245",
+    "name": "Rutgers University\u2013New Brunswick",
+    "country": "United States",
+    "score": "66.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=245",
+    "name": "University Ulm",
+    "country": "Germany",
+    "score": "66.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=245",
+    "name": "University of Kansas",
+    "country": "United States",
+    "score": "66.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=245",
+    "name": "Universit\u00e9 de Li\u00e8ge",
+    "country": "Belgium",
+    "score": "66.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=249",
+    "name": "Universit\u00e4t Duisburg-Essen",
+    "country": "Germany",
+    "score": "66.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=249",
+    "name": "University of Cincinnati",
+    "country": "United States",
+    "score": "66.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=249",
+    "name": "University of Guelph",
+    "country": "Canada",
+    "score": "66.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=249",
+    "name": "The University of Tennessee, Knoxville",
+    "country": "United States",
+    "score": "66.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "253",
+    "name": "The University of Georgia",
+    "country": "United States",
+    "score": "66"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "254",
+    "name": "King Saud University",
+    "country": "Saudi Arabia",
+    "score": "65.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=255",
+    "name": "Mayo Medical School",
+    "country": "United States",
+    "score": "65.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=255",
+    "name": "The University of Texas Health Science Center at Houston",
+    "country": "United States",
+    "score": "65.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=255",
+    "name": "University of Pisa",
+    "country": "Italy",
+    "score": "65.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=258",
+    "name": "Deakin University",
+    "country": "Australia",
+    "score": "65.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=258",
+    "name": "University of Lisbon ",
+    "country": "Portugal",
+    "score": "65.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=260",
+    "name": "North Carolina State University",
+    "country": "United States",
+    "score": "65.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=260",
+    "name": "University of Porto",
+    "country": "Portugal",
+    "score": "65.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=262",
+    "name": "Johannes Gutenberg Universit\u00e4t Mainz",
+    "country": "Germany",
+    "score": "65.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=262",
+    "name": "Universitat de Valencia",
+    "country": "Spain",
+    "score": "65.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=262",
+    "name": "Wayne State University",
+    "country": "United States",
+    "score": "65.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=265",
+    "name": "National Cheng Kung University (NCKU)",
+    "country": "Taiwan",
+    "score": "65.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=265",
+    "name": "Universidade Federal do Rio de Janeiro",
+    "country": "Brazil",
+    "score": "65.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=267",
+    "name": "Chulalongkorn University",
+    "country": "Thailand",
+    "score": "65.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=267",
+    "name": "Stellenbosch University",
+    "country": "South Africa",
+    "score": "65.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=269",
+    "name": "Arizona State University",
+    "country": "United States",
+    "score": "65.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=269",
+    "name": "University of Bordeaux",
+    "country": "France",
+    "score": "65.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "271",
+    "name": "University of South Florida",
+    "country": "United States",
+    "score": "65.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "272",
+    "name": "China Medical University ",
+    "country": "Taiwan",
+    "score": "65"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=273",
+    "name": "Swedish University of Agricultural Sciences ",
+    "country": "Sweden",
+    "score": "64.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=273",
+    "name": "Universidade Federal de S\u00e3o Paulo",
+    "country": "Brazil",
+    "score": "64.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=275",
+    "name": "Philipps-Universit\u00e4t Marburg ",
+    "country": "Germany",
+    "score": "64.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=275",
+    "name": "St George's, University of London",
+    "country": "United Kingdom",
+    "score": "64.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "277",
+    "name": "Washington State University",
+    "country": "United States",
+    "score": "64.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "278",
+    "name": "Griffith University",
+    "country": "Australia",
+    "score": "64.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=279",
+    "name": "University of Rome Tor Vergata",
+    "country": "Italy",
+    "score": "64.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=279",
+    "name": "University of Kentucky",
+    "country": "United States",
+    "score": "64.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=279",
+    "name": "University of Missouri, Columbia",
+    "country": "United States",
+    "score": "64.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=282",
+    "name": "Georgia Institute of Technology",
+    "country": "United States",
+    "score": "64.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=282",
+    "name": "Norwegian University of Science And Technology",
+    "country": "Norway",
+    "score": "64.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=284",
+    "name": "Medical University of Graz",
+    "country": "Austria",
+    "score": "64.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=284",
+    "name": "Stony Brook University, State University of New York",
+    "country": "United States",
+    "score": "64.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=284",
+    "name": "Vrije Universiteit Brussel (VUB)",
+    "country": "Belgium",
+    "score": "64.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=287",
+    "name": "Indiana University Bloomington",
+    "country": "United States",
+    "score": "64.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=287",
+    "name": "University of East Anglia (UEA)",
+    "country": "United Kingdom",
+    "score": "64.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=287",
+    "name": "University of Southern Denmark (SDU)",
+    "country": "Denmark",
+    "score": "64.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=287",
+    "name": "Virginia Commonwealth University",
+    "country": "United States",
+    "score": "64.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=291",
+    "name": "University of Science and Technology of China",
+    "country": "China (Mainland)",
+    "score": "64.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=291",
+    "name": "Wuhan University",
+    "country": "China (Mainland)",
+    "score": "64.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "293",
+    "name": "Queensland University of Technology (QUT)",
+    "country": "Australia",
+    "score": "64"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=294",
+    "name": "Universit\u00e9 Grenoble Alpes",
+    "country": "France",
+    "score": "63.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=294",
+    "name": "University of New Mexico",
+    "country": "United States",
+    "score": "63.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=296",
+    "name": "Technical University of Denmark",
+    "country": "Denmark",
+    "score": "63.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=296",
+    "name": "Universit\u00e0 degli Studi di Pavia",
+    "country": "Italy",
+    "score": "63.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=298",
+    "name": "Huazhong University of Science and Technology",
+    "country": "China (Mainland)",
+    "score": "63.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=298",
+    "name": "Sichuan University",
+    "country": "China (Mainland)",
+    "score": "63.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "300",
+    "name": "Justus-Liebig-University Giessen",
+    "country": "Germany",
+    "score": "63.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=301",
+    "name": "Hanyang University",
+    "country": "South Korea",
+    "score": "63.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=301",
+    "name": "Universidade Federal do Rio Grande Do Sul ",
+    "country": "Brazil",
+    "score": "63.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=303",
+    "name": "Lomonosov Moscow State University",
+    "country": "Russia",
+    "score": "63.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=303",
+    "name": "Tulane University",
+    "country": "United States",
+    "score": "63.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=305",
+    "name": "Universidade Federal de Minas Gerais      ",
+    "country": "Brazil",
+    "score": "63.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=305",
+    "name": "The University of Alabama",
+    "country": "United States",
+    "score": "63.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=305",
+    "name": "Yeshiva University",
+    "country": "United States",
+    "score": "63.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=308",
+    "name": "Semmelweis University",
+    "country": "Hungary",
+    "score": "63.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=308",
+    "name": "Universit\u00e4t Jena",
+    "country": "Germany",
+    "score": "63.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=308",
+    "name": "University of California, Santa Barbara (UCSB)",
+    "country": "United States",
+    "score": "63.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=311",
+    "name": "China Agricultural University ",
+    "country": "China (Mainland)",
+    "score": "62.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=311",
+    "name": "Iowa State University",
+    "country": "United States",
+    "score": "62.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=313",
+    "name": "James Cook University",
+    "country": "Australia",
+    "score": "62.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=313",
+    "name": "Oregon State University",
+    "country": "United States",
+    "score": "62.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=313",
+    "name": "Technion - Israel Institute of Technology",
+    "country": "Israel",
+    "score": "62.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=313",
+    "name": "University of South Australia",
+    "country": "Australia",
+    "score": "62.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=317",
+    "name": "Flinders University",
+    "country": "Australia",
+    "score": "62.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=317",
+    "name": "National University of Ireland Galway",
+    "country": "Ireland",
+    "score": "62.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=319",
+    "name": "Colorado State University",
+    "country": "United States",
+    "score": "62.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=319",
+    "name": "University of Oklahoma",
+    "country": "United States",
+    "score": "62.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=319",
+    "name": "University of Oulu",
+    "country": "Finland",
+    "score": "62.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=319",
+    "name": "University of Tsukuba",
+    "country": "Japan",
+    "score": "62.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=319",
+    "name": "University of Ulsan ",
+    "country": "South Korea",
+    "score": "62.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=324",
+    "name": "Link\u00f6ping University",
+    "country": "Sweden",
+    "score": "62.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=324",
+    "name": "University of Massachusetts Amherst",
+    "country": "United States",
+    "score": "62.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=326",
+    "name": "University of Navarra",
+    "country": "Spain",
+    "score": "62.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=326",
+    "name": "Universiti Putra Malaysia (UPM)",
+    "country": "Malaysia",
+    "score": "62.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=326",
+    "name": "Universiti Sains Malaysia (USM)",
+    "country": "Malaysia",
+    "score": "62.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=329",
+    "name": "Temple University",
+    "country": "United States",
+    "score": "62.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=329",
+    "name": "Virginia Polytechnic Institute and State University",
+    "country": "United States",
+    "score": "62.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "331",
+    "name": "University of Reading",
+    "country": "United Kingdom",
+    "score": "61.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "332",
+    "name": "Istanbul University",
+    "country": "Turkey",
+    "score": "61.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=333",
+    "name": "Carnegie Mellon University",
+    "country": "United States",
+    "score": "61.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=333",
+    "name": "Chang Gung University",
+    "country": "Taiwan",
+    "score": "61.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=333",
+    "name": "Ruhr-Universit\u00e4t Bochum",
+    "country": "Germany",
+    "score": "61.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=333",
+    "name": "University of Granada",
+    "country": "Spain",
+    "score": "61.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=333",
+    "name": "University of Saskatchewan",
+    "country": "Canada",
+    "score": "61.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=338",
+    "name": "All India Institute of Medical Sciences",
+    "country": "India",
+    "score": "61.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=338",
+    "name": "Aristotle University of Thessaloniki",
+    "country": "Greece",
+    "score": "61.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=338",
+    "name": "Medical College of Wisconsin",
+    "country": "United States",
+    "score": "61.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=338",
+    "name": "University of Coimbra",
+    "country": "Portugal",
+    "score": "61.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "342",
+    "name": "University of Tasmania",
+    "country": "Australia",
+    "score": "61.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "343",
+    "name": "Hacettepe University ",
+    "country": "Turkey",
+    "score": "61.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=344",
+    "name": "City University of New York",
+    "country": "United States",
+    "score": "61.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=344",
+    "name": "Massey University",
+    "country": "New Zealand",
+    "score": "61.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=344",
+    "name": "Universit\u00e4t Regensburg",
+    "country": "Germany",
+    "score": "61.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=347",
+    "name": "Kobe University",
+    "country": "Japan",
+    "score": "61"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=347",
+    "name": "Louisiana State University",
+    "country": "United States",
+    "score": "61"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=347",
+    "name": "Universit\u00e0 Vita-Salute San Raffaele",
+    "country": "Italy",
+    "score": "61"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=347",
+    "name": "Verona University",
+    "country": "Italy",
+    "score": "61"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=351",
+    "name": "Hiroshima University",
+    "country": "Japan",
+    "score": "60.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=351",
+    "name": "Northeastern University",
+    "country": "United States",
+    "score": "60.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=351",
+    "name": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong SAR",
+    "score": "60.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=351",
+    "name": "Xi\u2019an Jiaotong University",
+    "country": "China (Mainland)",
+    "score": "60.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=355",
+    "name": "Indiana University\u2013Purdue University Indianapolis",
+    "country": "United States",
+    "score": "60.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=355",
+    "name": "La Trobe University",
+    "country": "Australia",
+    "score": "60.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=357",
+    "name": "UNESP",
+    "country": "Brazil",
+    "score": "60.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=357",
+    "name": "University of St Andrews",
+    "country": "United Kingdom",
+    "score": "60.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "359",
+    "name": "Curtin University",
+    "country": "Australia",
+    "score": "60.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=360",
+    "name": "Tongji University",
+    "country": "China (Mainland)",
+    "score": "60.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=360",
+    "name": "Universiti Kebangsaan Malaysia (UKM)",
+    "country": "Malaysia",
+    "score": "60.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=360",
+    "name": "University of Milano-Bicocca ",
+    "country": "Italy",
+    "score": "60.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=360",
+    "name": "University of Pretoria",
+    "country": "South Africa",
+    "score": "60.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "364",
+    "name": "University of South Carolina",
+    "country": "United States",
+    "score": "60.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "365",
+    "name": "Delft University of Technology",
+    "country": "Netherlands",
+    "score": "60.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "366",
+    "name": "Macquarie University",
+    "country": "Australia",
+    "score": "60"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=367",
+    "name": "Florida State University",
+    "country": "United States",
+    "score": "59.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=367",
+    "name": "University of Texas Dallas",
+    "country": "United States",
+    "score": "59.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=369",
+    "name": "Universitat Pompeu Fabra (Barcelona)",
+    "country": "Spain",
+    "score": "59.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=369",
+    "name": "University of Vermont",
+    "country": "United States",
+    "score": "59.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=371",
+    "name": "Academy of Sciences of the Czech Republic",
+    "country": "Czech Republic",
+    "score": "59.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=371",
+    "name": "Tokyo Institute of Technology (Tokyo Tech)",
+    "country": "Japan",
+    "score": "59.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=373",
+    "name": "Jagiellonian University",
+    "country": "Poland",
+    "score": "59.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=373",
+    "name": "University of Tartu",
+    "country": "Estonia",
+    "score": "59.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=375",
+    "name": "The Catholic University of Korea ",
+    "country": "South Korea",
+    "score": "59.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=375",
+    "name": "Universit\u00e4t des Saarlandes",
+    "country": "Germany",
+    "score": "59.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=375",
+    "name": "Universit\u00e9 Paul Sabatier Toulouse III",
+    "country": "France",
+    "score": "59.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=378",
+    "name": "Durham University",
+    "country": "United Kingdom",
+    "score": "59.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=378",
+    "name": "Simon Fraser University",
+    "country": "Canada",
+    "score": "59.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=378",
+    "name": "Universit\u00e9 du Qu\u00e9bec",
+    "country": "Canada",
+    "score": "59.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "381",
+    "name": "University of Waterloo",
+    "country": "Canada",
+    "score": "59.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "382",
+    "name": "Universit\u00e9 de Lorraine",
+    "country": "France",
+    "score": "59"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=383",
+    "name": "Aalborg University",
+    "country": "Denmark",
+    "score": "58.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=383",
+    "name": " Western Sydney University",
+    "country": "Australia",
+    "score": "58.8"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=385",
+    "name": "American University of Beirut (AUB)",
+    "country": "Lebanon",
+    "score": "58.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=385",
+    "name": "Shandong University",
+    "country": "China (Mainland)",
+    "score": "58.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=385",
+    "name": "University of California, Riverside",
+    "country": "United States",
+    "score": "58.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=385",
+    "name": "University of Sussex",
+    "country": "United Kingdom",
+    "score": "58.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=385",
+    "name": "University of Technology Sydney",
+    "country": "Australia",
+    "score": "58.7"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=390",
+    "name": "Kyungpook National University",
+    "country": "South Korea",
+    "score": "58.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=390",
+    "name": "Loyola University Chicago",
+    "country": "United States",
+    "score": "58.6"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "392",
+    "name": "Pusan National University",
+    "country": "South Korea",
+    "score": "58.5"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=393",
+    "name": "Ewha Womans University",
+    "country": "South Korea",
+    "score": "58.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=393",
+    "name": "University of Parma",
+    "country": "Italy",
+    "score": "58.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=393",
+    "name": "University of Zagreb",
+    "country": "Croatia",
+    "score": "58.4"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "396",
+    "name": "Drexel University",
+    "country": "United States",
+    "score": "58.3"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "397",
+    "name": "Chiba University",
+    "country": "Japan",
+    "score": "58.2"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=398",
+    "name": "Aga Khan University",
+    "country": "Pakistan",
+    "score": "58.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "=398",
+    "name": "Central South University",
+    "country": "China (Mainland)",
+    "score": "58.1"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "400",
+    "name": "University of Salamanca",
+    "country": "Spain",
+    "score": "57.9"
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Ain Shams University ",
+    "country": "Egypt",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Beijing Normal University ",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Ben-Gurion University of The Negev",
+    "country": "Israel",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Chiang Mai University",
+    "country": "Thailand",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Chonnam National University",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Chung-Ang University (CAU)",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Instituto Polit\u00e9cnico Nacional (IPN)",
+    "country": "Mexico",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Jilin University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Kanazawa University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Kansas State University ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Kaohsiung Medical University",
+    "country": "Taiwan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "KIT, Karlsruhe Institute of Technology",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Konkuk University ",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Malmo University",
+    "country": "Sweden",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Martin-Luther-Universit\u00e4t Halle-Wittenberg",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Innsbruck Medical University",
+    "country": "Austria",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Nanjing Agricultural University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "National Tsing Hua University",
+    "country": "Taiwan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Okayama University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Pohang University of Science And Technology (POSTECH)",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Rice University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Technische Universit\u00e4t Berlin (TU Berlin)",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Tehran University of Medical Sciences",
+    "country": "Iran, Islamic Republic of",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong SAR",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Universidad de Alcal\u00e1",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Universidad Nacional de Colombia",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Universidade de Santiago de Compostela",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Catania University",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Genoa",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Modena and Reggio Emilia",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Universit\u00e0 degli Studi di Perugia",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Hohenheim",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Universit\u00e9 Paris-Est Cr\u00e9teil Val de Marne",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Bari",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Bath",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of California, Santa Cruz",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Hawai\u02bbi at M\u0101noa",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Kwazulu-Natal",
+    "country": "South Africa",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Massachusetts Boston",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Mississippi",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Nebraska - Lincoln",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Oregon",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Tampere",
+    "country": "Finland",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Texas at San Antonio",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of the Philippines",
+    "country": "Philippines",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Troms\u00f8 The Arctic University of Norway",
+    "country": "Norway",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Twente",
+    "country": "Netherlands",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "University of Wollongong",
+    "country": "Australia",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "401-450",
+    "name": "Xiamen University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Alexandria University ",
+    "country": "Egypt",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Baylor University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Brandeis University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Chungnam National University",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Florida International University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Karl-Franzens-Universitaet Graz",
+    "country": "Austria",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Khon Kaen University",
+    "country": "Thailand",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "King Abdullah University of Science & Technology (KAUST)",
+    "country": "Saudi Arabia",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Kumamoto University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Lancaster University",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Makerere University",
+    "country": "Uganda",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Masaryk University",
+    "country": "Czech Republic",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Nagasaki University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Nankai University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Niigata University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Pontificia Universidad Javeriana",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Royal College of Surgeons in Ireland (RCSI)",
+    "country": "Ireland",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Royal Veterinary College , University of London ",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Soochow University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Saint Louis University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Swansea University",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Tokai University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universidad de Antioquia",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universidad de Sevilla",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universidad de Zaragoza",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universidade de Bras\u00edlia",
+    "country": "Brazil",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universidade Federal de Santa Catarina ",
+    "country": "Brazil",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universidade Federal do Paran\u00e1 - UFPR",
+    "country": "Brazil",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universidade Nova de Lisboa",
+    "country": "Portugal",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universita' degli Studi di Ferrara",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Siena",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Palermo",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Natural Resources and Applied Life Sciences Vienna ",
+    "country": "Austria",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universit\u00e9 de Nantes",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universit\u00e9 Nice Sophia Antipolis",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Belgrade",
+    "country": "Serbia",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Brescia",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Canterbury",
+    "country": "New Zealand",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Crete",
+    "country": "Greece",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Debrecen",
+    "country": "Hungary",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Delhi",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Houston",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Universitas Indonesia",
+    "country": "Indonesia",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Ljubljana",
+    "country": "Slovenia",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Notre Dame",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Strathclyde",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Surrey",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "University of Szeged",
+    "country": "Hungary",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Waseda University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "Yokohama City University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2019",
+    "category": "life_sciences_and_medicine",
+    "rank": "451-500",
+    "name": "York University",
+    "country": "Canada",
+    "score": ""
+  }
+]

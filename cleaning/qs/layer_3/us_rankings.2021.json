@@ -1,0 +1,2818 @@
+[
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "1",
+    "name": "Harvard University",
+    "country": "United States",
+    "score": "93.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "2",
+    "name": "Stanford University",
+    "country": "United States",
+    "score": "88.9"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "3",
+    "name": "Massachusetts Institute of Technology (MIT) ",
+    "country": "United States",
+    "score": "85.6"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "4",
+    "name": "University of California, Berkeley (UCB)",
+    "country": "United States",
+    "score": "77.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "5",
+    "name": "University of California, Los Angeles (UCLA)",
+    "country": "United States",
+    "score": "77.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "6",
+    "name": "Yale University",
+    "country": "United States",
+    "score": "75.4"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "7",
+    "name": "Columbia University",
+    "country": "United States",
+    "score": "75.1"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "8",
+    "name": "Princeton University",
+    "country": "United States",
+    "score": "74.1"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "9",
+    "name": "New York University (NYU)",
+    "country": "United States",
+    "score": "73.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "10",
+    "name": "University of Pennsylvania",
+    "country": "United States",
+    "score": "73.2"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "11",
+    "name": "University of Chicago",
+    "country": "United States",
+    "score": "70.4"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "12",
+    "name": "Cornell University",
+    "country": "United States",
+    "score": "69.4"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "13",
+    "name": "Duke University",
+    "country": "United States",
+    "score": "68.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "14",
+    "name": "Johns Hopkins University",
+    "country": "United States",
+    "score": "67.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "14",
+    "name": "University of Southern California",
+    "country": "United States",
+    "score": "67.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "16",
+    "name": "Northwestern University",
+    "country": "United States",
+    "score": "67.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "17",
+    "name": "Carnegie Mellon University",
+    "country": "United States",
+    "score": "67.2"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "18",
+    "name": "University of Michigan-Ann Arbor",
+    "country": "United States",
+    "score": "65.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "19",
+    "name": "Brown University",
+    "country": "United States",
+    "score": "64.9"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "20",
+    "name": "Boston University",
+    "country": "United States",
+    "score": "64.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "21",
+    "name": "California Institute of Technology (Caltech)",
+    "country": "United States",
+    "score": "63.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "22",
+    "name": "Emory University",
+    "country": "United States",
+    "score": "63.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "23",
+    "name": "Rice University",
+    "country": "United States",
+    "score": "62.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "24",
+    "name": "University of Washington",
+    "country": "United States",
+    "score": "62.6"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "25",
+    "name": "Washington University in St. Louis",
+    "country": "United States",
+    "score": "62.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "26",
+    "name": "Georgetown University",
+    "country": "United States",
+    "score": "62"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "27",
+    "name": "University of California, San Diego (UCSD)",
+    "country": "United States",
+    "score": "61.9"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "28",
+    "name": "Vanderbilt University",
+    "country": "United States",
+    "score": "60.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "29",
+    "name": "University of Texas at Austin",
+    "country": "United States",
+    "score": "60.1"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "30",
+    "name": "University of Illinois at Urbana-Champaign",
+    "country": "United States",
+    "score": "59.2"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "30",
+    "name": "University of Rochester",
+    "country": "United States",
+    "score": "59.2"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "32",
+    "name": "Dartmouth College",
+    "country": "United States",
+    "score": "58.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "32",
+    "name": "University of North Carolina, Chapel Hill",
+    "country": "United States",
+    "score": "58.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "34",
+    "name": "University of California, Davis",
+    "country": "United States",
+    "score": "58.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "35",
+    "name": "University of Florida",
+    "country": "United States",
+    "score": "58.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "36",
+    "name": "Tufts University",
+    "country": "United States",
+    "score": "57.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "36",
+    "name": "University of Illinois at Chicago (UIC)",
+    "country": "United States",
+    "score": "57.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "38",
+    "name": "Georgia Institute of Technology",
+    "country": "United States",
+    "score": "57.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "39",
+    "name": "Stony Brook University, State University of New York",
+    "country": "United States",
+    "score": "57.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "40",
+    "name": "University of Virginia",
+    "country": "United States",
+    "score": "57.4"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "41",
+    "name": "Case Western Reserve University",
+    "country": "United States",
+    "score": "56.9"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "42",
+    "name": "Rutgers University\u2013New Brunswick",
+    "country": "United States",
+    "score": "56.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "43",
+    "name": "University of California, Santa Barbara (UCSB)",
+    "country": "United States",
+    "score": "56.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "44",
+    "name": "Pennsylvania State University",
+    "country": "United States",
+    "score": "56.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "45",
+    "name": "George Washington University",
+    "country": "United States",
+    "score": "55.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "45",
+    "name": "University of California, Irvine",
+    "country": "United States",
+    "score": "55.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "47",
+    "name": "University of Notre Dame",
+    "country": "United States",
+    "score": "55.6"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "48",
+    "name": "University of Miami",
+    "country": "United States",
+    "score": "55.4"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "49",
+    "name": "Northeastern University",
+    "country": "United States",
+    "score": "55.1"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "50",
+    "name": "The Ohio State University",
+    "country": "United States",
+    "score": "54.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "50",
+    "name": "University at Buffalo SUNY",
+    "country": "United States",
+    "score": "54.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "52",
+    "name": "University of Maryland, College Park",
+    "country": "United States",
+    "score": "54.6"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "53",
+    "name": "Purdue University",
+    "country": "United States",
+    "score": "54.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "54",
+    "name": "University of Minnesota Twin Cities",
+    "country": "United States",
+    "score": "54.1"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "55",
+    "name": "Boston College",
+    "country": "United States",
+    "score": "53.9"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "55",
+    "name": "Michigan State University",
+    "country": "United States",
+    "score": "53.9"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "57",
+    "name": "University of Massachusetts Amherst",
+    "country": "United States",
+    "score": "53.6"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "58",
+    "name": "University of Wisconsin-Madison",
+    "country": "United States",
+    "score": "53.4"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "59",
+    "name": "Syracuse University",
+    "country": "United States",
+    "score": "52.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "60",
+    "name": "Lehigh University",
+    "country": "United States",
+    "score": "52"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "60",
+    "name": "University of Pittsburgh",
+    "country": "United States",
+    "score": "52"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "62",
+    "name": "Arizona State University",
+    "country": "United States",
+    "score": "51.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "62",
+    "name": "Brandeis University",
+    "country": "United States",
+    "score": "51.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "63",
+    "name": "Temple University",
+    "country": "United States",
+    "score": "51.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "64",
+    "name": "Texas A&M University",
+    "country": "United States",
+    "score": "51.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "64",
+    "name": "The University of Arizona",
+    "country": "United States",
+    "score": "51.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "66",
+    "name": "University of Houston",
+    "country": "United States",
+    "score": "51.2"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "67",
+    "name": "Binghamton University SUNY",
+    "country": "United States",
+    "score": "51"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "67",
+    "name": "Drexel University",
+    "country": "United States",
+    "score": "51"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "67",
+    "name": "North Carolina State University",
+    "country": "United States",
+    "score": "51"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "67",
+    "name": "Rensselaer Polytechnic Institute",
+    "country": "United States",
+    "score": "51"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "71",
+    "name": "University of Connecticut",
+    "country": "United States",
+    "score": "50.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "72",
+    "name": "The University of Georgia",
+    "country": "United States",
+    "score": "50.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "73",
+    "name": "Virginia Polytechnic Institute and State University",
+    "country": "United States",
+    "score": "50.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "74",
+    "name": "University of New Mexico",
+    "country": "United States",
+    "score": "50.4"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "75",
+    "name": "Indiana University Bloomington",
+    "country": "United States",
+    "score": "50.2"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "76",
+    "name": "Tulane University",
+    "country": "United States",
+    "score": "50.1"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "77",
+    "name": "University of Colorado Boulder",
+    "country": "United States",
+    "score": "50"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "78",
+    "name": "Florida State University",
+    "country": "United States",
+    "score": "49.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "78",
+    "name": "University of South Florida",
+    "country": "United States",
+    "score": "49.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "80",
+    "name": "Illinois Institute of Technology",
+    "country": "United States",
+    "score": "49.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "80",
+    "name": "University of California, Riverside",
+    "country": "United States",
+    "score": "49.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "80",
+    "name": "University of California, Santa Cruz",
+    "country": "United States",
+    "score": "49.5"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "83",
+    "name": "Howard University",
+    "country": "United States",
+    "score": "49.4"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "83",
+    "name": "University of Texas Dallas",
+    "country": "United States",
+    "score": "49.4"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "85",
+    "name": "Santa Clara University",
+    "country": "United States",
+    "score": "49.2"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "85",
+    "name": "Wake Forest University",
+    "country": "United States",
+    "score": "49.2"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "87",
+    "name": "University of Maryland, Baltimore County",
+    "country": "United States",
+    "score": "49.1"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "87",
+    "name": "University of Utah",
+    "country": "United States",
+    "score": "49.1"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "89",
+    "name": "George Mason University",
+    "country": "United States",
+    "score": "49"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "90",
+    "name": "New Jersey Institute of Technology (NJIT)",
+    "country": "United States",
+    "score": "48.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "90",
+    "name": "University of Massachusetts Boston",
+    "country": "United States",
+    "score": "48.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "92",
+    "name": "University of Kansas",
+    "country": "United States",
+    "score": "48.7"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "93",
+    "name": "University at Albany SUNY",
+    "country": "United States",
+    "score": "48.6"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "94",
+    "name": "Oregon State University",
+    "country": "United States",
+    "score": "48.3"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "95",
+    "name": "University of Delaware",
+    "country": "United States",
+    "score": "48.2"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "96",
+    "name": "University of the Pacific",
+    "country": "United States",
+    "score": "48.1"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "97",
+    "name": "Rutgers University\u2013Newark",
+    "country": "United States",
+    "score": "48"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "97",
+    "name": "University of Hawai\u02bbi at M\u0101noa",
+    "country": "United States",
+    "score": "48"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "99",
+    "name": "San Diego State University",
+    "country": "United States",
+    "score": "47.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "99",
+    "name": "University of Iowa",
+    "country": "United States",
+    "score": "47.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "99",
+    "name": "University of Oklahoma",
+    "country": "United States",
+    "score": "47.8"
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "101-110",
+    "name": "Baylor University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "101-110",
+    "name": "College of William and Mary",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "101-110",
+    "name": "Stevens Institute of Technology",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "101-110",
+    "name": "University of Central Florida",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "101-110",
+    "name": "University of Cincinnati",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "101-110",
+    "name": "University of Kentucky",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "101-110",
+    "name": "The University of Tennessee, Knoxville",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "101-110",
+    "name": "Worcester Polytechnic Institute",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "DePaul University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "Florida International University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "Georgia State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "Portland State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "Rochester Institute of Technology (RIT)",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "School of Public Health and Information Sciences University of Louisville",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "University of Nebraska - Lincoln",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "University of New Hampshire",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "University of North Texas",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "University of Oregon",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "University of San Francisco",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "111-120",
+    "name": "University of South Carolina",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "121-130",
+    "name": "Fordham University ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "121-130",
+    "name": "Loyola University Chicago",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "121-130",
+    "name": "San Francisco State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "121-130",
+    "name": "Seattle University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "121-130",
+    "name": "Southern Methodist University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "121-130",
+    "name": "University of Missouri, Columbia",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "121-130",
+    "name": "University of Vermont",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "121-130",
+    "name": "Wayne State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "American University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "Bentley University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "Clemson University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "Colorado State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "Loyola Marymount University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "Pepperdine University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "The University of Alabama",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "University of Denver",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "University of Rhode Island ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "Virginia Commonwealth University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "131-140",
+    "name": "West Virginia University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "141-150",
+    "name": "Clark University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "141-150",
+    "name": "Clarkson University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "141-150",
+    "name": "Michigan Technological University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "141-150",
+    "name": "Rowan University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "141-150",
+    "name": "San Jose State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "141-150",
+    "name": "Saint Louis University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "141-150",
+    "name": "University of Alabama at Birmingham ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "141-150",
+    "name": "University of Colorado, Denver ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "141-150",
+    "name": "University of Nevada - Reno",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "Baruch College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "CUNY Hunter College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "Hofstra University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "Kansas State University ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "Missouri University of Science and Technology",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "Oklahoma State University ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "Suffolk University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "University of Missouri, Kansas City",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "University of North Carolina at Charlotte",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "151-160",
+    "name": "Villanova University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "Andrews University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "Auburn University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "Indiana University\u2013Purdue University Indianapolis",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "Ohio University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "Pace University - New York",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "Rutgers University\u2013Camden",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "Simmons University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "St. John's University: New York City",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "University of San Diego",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "161-170",
+    "name": "Yeshiva University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "Chapman University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "Dominican University of California",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "Elon University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "Loyola University Maryland",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "Northern Arizona University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "Nova Southeastern University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "University of Memphis",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "University of North Carolina at Greensboro",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "Valparaiso University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "171-180",
+    "name": "Washington State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "Georgia Southern University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "James Madison University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "Miami University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "Rollins College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "Texas Christian University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "Texas Tech University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "The College of New Jersey",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "University of Dayton",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "University of Hartford",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "181-190",
+    "name": "University of Idaho ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "Brigham Young University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "CUNY Queens College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "California Lutheran University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "California State University - Fullerton",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "Iowa State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "Kent State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "New Mexico Institute of Mining and Technology",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "New York Institute of Technology",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "Stetson University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "University of Massachusetts Lowell ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "University of Mississippi",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "University of Scranton",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "University of Texas at San Antonio",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "191-200",
+    "name": "University of Wisconsin Milwaukee ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Ball State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Boise State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Butler University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "The City College of New York",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "California State Polytechnic University - Pomona",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "California State University - Los Angeles",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "The Catholic University of America",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Chaminade University of Honolulu",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "CUNY College of Staten Island",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Creighton University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Dominican University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "East Carolina University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Fairfield University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Florida Atlantic University - Boca Raton",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Hawaii Pacific University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Immaculata University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Ithaca College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "La Salle University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Louisiana State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Marquette University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Marymount University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Mississippi State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Montana State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "North Dakota State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Northern Illinois University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Old Dominion University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Rider University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Roosevelt University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "State University of New York at Geneseo",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "SUNY New Paltz",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Seattle Pacific University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Sonoma State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "SUNY Oswego",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Texas State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Alaska Anchorage",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Alaska Fairbanks",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Bridgeport",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Maine",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Michigan-Dearborn",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Missouri Saint Louis ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Nevada - Las Vegas",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Redlands",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of St Thomas",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of St. Thomas - Houston",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Toledo",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Tulsa",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "University of Wyoming",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Western Illinois University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "Western Washington University ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "201-250",
+    "name": "William Paterson University of New Jersey",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Adelphi University ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Alfred University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Appalachian State University (ASU)",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Augsburg University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Bryant University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "CUNY Lehman College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "California State University, San Marcos College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "California State University Northridge ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "California State University Sacramento",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "California State University - Long Beach",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "California State University - San Bernardino",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Campbell University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "College of Charleston",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Gonzaga University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Illinois State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Manhattan College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Morgan State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Northeastern Illinois University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Notre Dame of Maryland University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Oakland University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Pacific Lutheran University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Providence College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Regis University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "SUNY Brockport",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "State University of New York at Fredonia",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "SUNY Oneonta",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Saint Mary's College of California",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Saint Peter's University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "South Dakota State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "St. Edward's University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of Arkansas Fayetteville ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of Evansville",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of Illinois, Springfield (UIS)",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of La Verne",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of Massachusetts-Dartmouth",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of New Haven ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of North Florida",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of North Georgia",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of Portland",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of South Alabama (USA)",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of South Dakota",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of Texas Arlington ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "University of Wisconsin - Eau Claire",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Western Connecticut State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Western Michigan University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "251-300",
+    "name": "Wilkes University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Buffalo State College (SUNY)",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "California Polytechnic State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "California State University - Stanislaus",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "California State University Dominguez Hills",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Carthage College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Central Michigan University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Chestnut Hill College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Christian Brothers University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Delaware State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Duquesne University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Eastern University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Florida Agricultural and Mechanical University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Florida Institute of Technology",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Frostburg State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Hamline University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Hampton University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Jacksonville University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "John Carroll University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "King's College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Lamar University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Lawrence Technological University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Lynn University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Madonna University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Manhattanville College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Marist College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Mercer University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Mount St Mary's College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Nazareth College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Niagara University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Our Lady of the Lake University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Radford University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "SUNY Cortland",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "SUNY Plattsburgh",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "SUNY Potsdam",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Salisbury University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Sam Houston State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Shenandoah University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Towson University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Truman State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "University of Guam",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "University of Michigan-Flint",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "University of Montana Missoula ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "University of Nebraska \u2013 Omaha",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "University of North Carolina Wilmington",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "University of North Dakota",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "The University of Tampa",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "University of the Incarnate Word",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Utah State University ",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Waynesburg University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Wichita State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2021",
+    "category": "us_rankings",
+    "rank": "301-350",
+    "name": "Xavier University of Louisiana",
+    "country": "United States",
+    "score": ""
+  }
+]

@@ -1,0 +1,42 @@
+G_AUTHUSER_H=0;
+
+// 3. xid
+xid=871c74bc-4195-479a-84e4-14bace133319;
+
+
+_gcl_au=1.1.280946546.1621379744;
+niche_npsSurvey=0;
+niche_singleProfilePageview=1;
+niche_singleCollegePageview=1;
+niche_singleFirstPageview=1;
+_ga=GA1.2.1679892998.1621379745;
+_fbp=fb.1.1621379745228.2089252379;
+ab.storage.deviceId.97a5be8e-e2ba-4f2c-9159-9ae910fa9648=%7B%22g%22%3A%229fd834ad-2916-7c21-15f1-d34662f11ebc%22%2C%22c%22%3A1621933312985%2C%22l%22%3A1621933312985%7D;
+_scid=7dd103c9-2155-42cc-987f-0f26ffa2279d;
+_pxvid=db8bc7cb-bd37-11eb-8750-0242ac120005;
+__qca=P0-1154991925-1621933323136;
+temporaryBackpack=entityGuid%7C662f1b24-640e-4810-b8ab-0b56fb16e7ad%7CentityName%7CWest%2BKentucky%2BCommunity%2B%26%2BTechnical%2BCollege%7CentityTagline%7C2%2BYear%7CPaducah%2C%2BKY%7CentityType%7CCollege%7CentityURL%7Chttps%3A%2F%2Fwww.niche.com%2Fcolleges%2Fwest-kentucky-community--and--technical-college%2F%7CleadOrigin%7Cprofile_home_end-page_organic%5E%5E%5E%40%240%7C1%7C2%7C3%7C4%7C%405%7C6%5D%7C7%7C8%7C9%7CA%7CB%7CC%5D%5D;
+G_ENABLED_IDPS=google;
+niche_fullStory=0;
+
+// 1. experiments
+experiments=learn_more_cta_copy%7Ccontrol%7Cprofile_sticky_header%7Cvariation1%7Cgated_reviews%5E%5E%5E%240%7C1%7C2%7C3%7C4%7C3%5D;
+
+
+_sctr=1|1624719600000;
+_gid=GA1.2.1988600932.1625042003;
+pxcts=d5a371d0-d97d-11eb-905d-eb41f23190a7;
+niche_cookieConsent=true;
+hintSeenLately=true;
+
+// 2. navigation
+navigation=%7B%22location%22%3A%7B%22guid%22%3A%22ec151f4b-fbc6-4a5f-9b8c-205201ee37d8%22%2C%22type%22%3A%22State%22%2C%22name%22%3A%22Florida%22%2C%22url%22%3A%22florida%22%7D%2C%22navigationMode%22%3A%22full%22%2C%22vertical%22%3A%22colleges%22%2C%22mostRecentVertical%22%3A%22colleges%22%2C%22suffixes%22%3A%7B%22colleges%22%3A%22%2Fs%2Fflorida%2F%22%2C%22graduate-schools%22%3A%22%2Fs%2Fflorida%2F%22%2C%22k12%22%3A%22%2Fs%2Fflorida%2F%22%2C%22places-to-live%22%3A%22%2Fs%2Fflorida%2F%22%2C%22places-to-work%22%3A%22%2Fs%2Fflorida%2F%22%7D%7D;
+
+
+recentlyViewed=entityHistory%7CentityName%7CUniversity%2Bof%2BFlorida%7CentityGuid%7Ca5576ab4-5b41-41d4-a687-6a0c32318e9a%7CentityType%7CCollege%7CentityFragment%7Cuniversity-of-florida%7CSeattle%2BCentral%2BCollege%7C3709e6ab-2953-47dc-8151-5d03e0449b84%7Cseattle-central-college%7CsearchHistory%7CFlorida%7Cec151f4b-fbc6-4a5f-9b8c-205201ee37d8%7CState%7Cflorida%7CMassachusetts%7Ce08f5e71-b74a-4e28-ac28-8b4569dd5eef%7Cmassachusetts%7CWashington%7C95b0bd28-1551-4c12-9876-7abb43198184%7Cwashington%5E%5E%5E%240%7C%40%241%7C2%7C3%7C4%7C5%7C6%7C7%7C8%5D%7C%241%7C9%7C3%7CA%7C5%7C6%7C7%7CB%5D%5D%7CC%7C%40%241%7CD%7C3%7CE%7C5%7CF%7C7%7CG%5D%7C%241%7CH%7C3%7CI%7C5%7CF%7C7%7CJ%5D%7C%241%7CK%7C3%7CL%7C5%7CF%7C7%7CM%5D%5D%5D;
+niche_sessionPageCount=47;
+_uetsid=d53ecb60d97d11ebbccd55e261663044;
+_uetvid=f8d20bf0b82e11eb8eff651bec4119ce;
+ab.storage.sessionId.97a5be8e-e2ba-4f2c-9159-9ae910fa9648=%7B%22g%22%3A%224137c480-9d4e-69a0-5693-fd15fbc6ca60%22%2C%22e%22%3A1625045770659%2C%22c%22%3A1625042036946%2C%22l%22%3A1625043970659%7D;
+_px3=e627ae17b596a26d5845c55fbb6a02eeccd70eaeccf78516593e7c6ebd9ffd66:9QR8zMGq0APdHiyE6d4OztvyUw35LKaitSjpCyI5XIHU5DBAWz0Ar1e6gL2jeWK28ZQWpK8SCCir1jZHQGYUcQ==:1000:Uck3lbETdjJJ7KVRz/1sdf8vp7MIeB/RBCBuBA9FtdkJYNf7nxLJCOyBxGKg1tBzzb65KXzAqpSUNZCkDZoaSQGYvwg9WC+ZgvTPWZjtUPrxMFs5yt474iJ2afke0dc8v1qzrIpR2VhTeEciPew7z+kjwoDP316HnX1+mx4q75Lcd7EdluTvzKxL6H+Fm7bESkKLqWQ99UFuMjnqbrZORw==;
+_dc_gtm_UA-2431522-39=1

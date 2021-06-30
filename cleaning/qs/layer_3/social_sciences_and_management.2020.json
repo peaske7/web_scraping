@@ -1,0 +1,4034 @@
+[
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "1",
+    "name": "Harvard University",
+    "country": "United States",
+    "score": "98.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "2",
+    "name": "The London School of Economics and Political Science (LSE)",
+    "country": "United Kingdom",
+    "score": "94.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "3",
+    "name": "Stanford University",
+    "country": "United States",
+    "score": "94.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "4",
+    "name": "University of Oxford",
+    "country": "United Kingdom",
+    "score": "94.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "5",
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "score": "93.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "6",
+    "name": "Massachusetts Institute of Technology (MIT) ",
+    "country": "United States",
+    "score": "93.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "7",
+    "name": "University of California, Berkeley (UCB)",
+    "country": "United States",
+    "score": "91.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "8",
+    "name": "Yale University",
+    "country": "United States",
+    "score": "90.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "9",
+    "name": "University of California, Los Angeles (UCLA)",
+    "country": "United States",
+    "score": "88.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "10",
+    "name": "Columbia University",
+    "country": "United States",
+    "score": "88.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "11",
+    "name": "University of Pennsylvania",
+    "country": "United States",
+    "score": "88"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "12",
+    "name": "National University of Singapore (NUS)",
+    "country": "Singapore",
+    "score": "87.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "13",
+    "name": "New York University (NYU)",
+    "country": "United States",
+    "score": "87.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "14",
+    "name": "Princeton University",
+    "country": "United States",
+    "score": "87.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "15",
+    "name": "University of Chicago",
+    "country": "United States",
+    "score": "87.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "16",
+    "name": "Bocconi University",
+    "country": "Italy",
+    "score": "86"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "17",
+    "name": "The University of Melbourne",
+    "country": "Australia",
+    "score": "85.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "18",
+    "name": "Northwestern University",
+    "country": "United States",
+    "score": "84.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "18",
+    "name": "University of Toronto",
+    "country": "Canada",
+    "score": "84.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "20",
+    "name": "Peking University",
+    "country": "China (Mainland)",
+    "score": "84.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "21",
+    "name": "University of British Columbia",
+    "country": "Canada",
+    "score": "83.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "21",
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "83.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "23",
+    "name": "Nanyang Technological University, Singapore (NTU)",
+    "country": "Singapore",
+    "score": "83.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "23",
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "score": "83.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "25",
+    "name": "The University of Sydney",
+    "country": "Australia",
+    "score": "83.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "25",
+    "name": "UCL",
+    "country": "United Kingdom",
+    "score": "83.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "27",
+    "name": "University of Michigan-Ann Arbor",
+    "country": "United States",
+    "score": "83.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "28",
+    "name": "London Business School",
+    "country": "United Kingdom",
+    "score": "83.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "29",
+    "name": "The Australian National University",
+    "country": "Australia",
+    "score": "82.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "29",
+    "name": "Seoul National University",
+    "country": "South Korea",
+    "score": "82.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "31",
+    "name": "INSEAD",
+    "country": "France",
+    "score": "82.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "32",
+    "name": "Tsinghua University",
+    "country": "China (Mainland)",
+    "score": "81.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "33",
+    "name": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong SAR",
+    "score": "81.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "34",
+    "name": "The University of New South Wales (UNSW Sydney)",
+    "country": "Australia",
+    "score": "81.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "35",
+    "name": "University of Amsterdam",
+    "country": "Netherlands",
+    "score": "81.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "36",
+    "name": "The University of Warwick",
+    "country": "United Kingdom",
+    "score": "81.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "37",
+    "name": "Cornell University",
+    "country": "United States",
+    "score": "80.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "37",
+    "name": "Pontificia Universidad Cat\u00f3lica de Chile (UC)",
+    "country": "Chile",
+    "score": "80.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "37",
+    "name": "The University of Manchester",
+    "country": "United Kingdom",
+    "score": "80.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "39",
+    "name": "Duke University",
+    "country": "United States",
+    "score": "80.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "39",
+    "name": "Monash University",
+    "country": "Australia",
+    "score": "80.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "41",
+    "name": "The Chinese University of Hong Kong (CUHK)",
+    "country": "Hong Kong SAR",
+    "score": "80.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "42",
+    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico  (UNAM)",
+    "country": "Mexico",
+    "score": "80"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "43",
+    "name": "HEC Paris School of Management",
+    "country": "France",
+    "score": "79.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "43",
+    "name": "Korea University",
+    "country": "South Korea",
+    "score": "79.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "43",
+    "name": "McGill University",
+    "country": "Canada",
+    "score": "79.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "46",
+    "name": "Erasmus University Rotterdam ",
+    "country": "Netherlands",
+    "score": "79.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "47",
+    "name": "Fudan University",
+    "country": "China (Mainland)",
+    "score": "79"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "47",
+    "name": "University of Texas at Austin",
+    "country": "United States",
+    "score": "79"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "49",
+    "name": "King's College London",
+    "country": "United Kingdom",
+    "score": "78.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "50",
+    "name": "The University of Queensland",
+    "country": "Australia",
+    "score": "78.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "51",
+    "name": "Imperial College London",
+    "country": "United Kingdom",
+    "score": "78.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "51",
+    "name": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "score": "78.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "53",
+    "name": "Kyoto University",
+    "country": "Japan",
+    "score": "78.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "54",
+    "name": "ETH Zurich - Swiss Federal Institute of Technology",
+    "country": "Switzerland",
+    "score": "78.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "54",
+    "name": "Lomonosov Moscow State University",
+    "country": "Russia",
+    "score": "78.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "54",
+    "name": "National Taiwan University (NTU)",
+    "country": "Taiwan",
+    "score": "78.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "54",
+    "name": "Universit\u00e9 Paris 1 Panth\u00e9on-Sorbonne ",
+    "country": "France",
+    "score": "78.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "58",
+    "name": "Shanghai Jiao Tong University",
+    "country": "China (Mainland)",
+    "score": "78"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "59",
+    "name": "Humboldt-Universit\u00e4t zu Berlin",
+    "country": "Germany",
+    "score": "77.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "59",
+    "name": "HSE University",
+    "country": "Russia",
+    "score": "77.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "59",
+    "name": "Sciences Po ",
+    "country": "France",
+    "score": "77.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "59",
+    "name": "Yonsei University",
+    "country": "South Korea",
+    "score": "77.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "63",
+    "name": "The University of Auckland",
+    "country": "New Zealand",
+    "score": "77.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "63",
+    "name": "Universidade de S\u00e3o Paulo",
+    "country": "Brazil",
+    "score": "77.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "65",
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "score": "77.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "66",
+    "name": "University of Zurich",
+    "country": "Switzerland",
+    "score": "77.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "67",
+    "name": "University of Wisconsin-Madison",
+    "country": "United States",
+    "score": "76.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "68",
+    "name": "Universit\u00e9 PSL",
+    "country": "France",
+    "score": "76.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "=69",
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "76.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "69",
+    "name": "Copenhagen Business School",
+    "country": "Denmark",
+    "score": "76.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "70",
+    "name": "Universidad de Chile",
+    "country": "Chile",
+    "score": "76.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "71",
+    "name": "Pennsylvania State University",
+    "country": "United States",
+    "score": "76.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "72",
+    "name": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong SAR",
+    "score": "76.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "73",
+    "name": "Universit\u00e4t Mannheim",
+    "country": "Germany",
+    "score": "75.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "74",
+    "name": "Boston University",
+    "country": "United States",
+    "score": "75.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "74",
+    "name": "Alma Mater Studiorum - University of Bologna",
+    "country": "Italy",
+    "score": "75.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "74",
+    "name": "Universiti Malaya (UM)",
+    "country": "Malaysia",
+    "score": "75.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "77",
+    "name": "Waseda University",
+    "country": "Japan",
+    "score": "75.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "78",
+    "name": "Sungkyunkwan University(SKKU)",
+    "country": "South Korea",
+    "score": "75.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "78",
+    "name": "University of Southern California",
+    "country": "United States",
+    "score": "75.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "80",
+    "name": "Universidad de Buenos Aires (UBA)",
+    "country": "Argentina",
+    "score": "75.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "81",
+    "name": "University of St.Gallen (HSG)",
+    "country": "Switzerland",
+    "score": "75.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "82",
+    "name": "Universidad de los Andes",
+    "country": "Colombia",
+    "score": "75.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "83",
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "country": "Germany",
+    "score": "75"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "83",
+    "name": "University of Navarra",
+    "country": "Spain",
+    "score": "75"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "83",
+    "name": "Universitat Pompeu Fabra (Barcelona)",
+    "country": "Spain",
+    "score": "75"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "86",
+    "name": "Carnegie Mellon University",
+    "country": "United States",
+    "score": "74.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "86",
+    "name": "Durham University",
+    "country": "United Kingdom",
+    "score": "74.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "86",
+    "name": "Tecnol\u00f3gico de Monterrey",
+    "country": "Mexico",
+    "score": "74.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "89",
+    "name": "KAIST - Korea Advanced Institute of Science & Technology",
+    "country": "South Korea",
+    "score": "74.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "89",
+    "name": "Renmin (People's) University of China",
+    "country": "China (Mainland)",
+    "score": "74.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "89",
+    "name": "Zhejiang University",
+    "country": "China (Mainland)",
+    "score": "74.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "92",
+    "name": "Tilburg University",
+    "country": "Netherlands",
+    "score": "74.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "92",
+    "name": "Universidad Carlos III de Madrid (UC3M)",
+    "country": "Spain",
+    "score": "74.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "94",
+    "name": "Georgetown University",
+    "country": "United States",
+    "score": "74.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "94",
+    "name": "Singapore Management University",
+    "country": "Singapore",
+    "score": "74.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "96",
+    "name": "Freie Universitaet Berlin",
+    "country": "Germany",
+    "score": "74.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "96",
+    "name": "Hitotsubashi University",
+    "country": "Japan",
+    "score": "74.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "98",
+    "name": "Stockholm School of Economics",
+    "country": "Sweden",
+    "score": "74.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "98",
+    "name": "University of Illinois at Urbana-Champaign",
+    "country": "United States",
+    "score": "74.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "98",
+    "name": "University of North Carolina, Chapel Hill",
+    "country": "United States",
+    "score": "74.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "101",
+    "name": "University of Copenhagen",
+    "country": "Denmark",
+    "score": "74.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "102",
+    "name": "The Ohio State University",
+    "country": "United States",
+    "score": "74"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "102",
+    "name": "University of California, San Diego (UCSD)",
+    "country": "United States",
+    "score": "74"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "104",
+    "name": "Universit\u00e9 catholique de Louvain (UCLouvain)",
+    "country": "Belgium",
+    "score": "73.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "104",
+    "name": "University of Washington",
+    "country": "United States",
+    "score": "73.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "106",
+    "name": "University of Glasgow",
+    "country": "United Kingdom",
+    "score": "73.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "107",
+    "name": "Keio University",
+    "country": "Japan",
+    "score": "73.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "107",
+    "name": "University of Leeds",
+    "country": "United Kingdom",
+    "score": "73.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "109",
+    "name": "Leiden University",
+    "country": "Netherlands",
+    "score": "73.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "110",
+    "name": "Trinity College Dublin, The University of Dublin",
+    "country": "Ireland",
+    "score": "73.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "111",
+    "name": "University of Birmingham",
+    "country": "United Kingdom",
+    "score": "73.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "112",
+    "name": "Politecnico di Milano",
+    "country": "Italy",
+    "score": "73.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "112",
+    "name": "Universit\u00e9 de Montr\u00e9al ",
+    "country": "Canada",
+    "score": "73.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "112",
+    "name": "University of Bristol",
+    "country": "United Kingdom",
+    "score": "73.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "115",
+    "name": "University of Minnesota Twin Cities",
+    "country": "United States",
+    "score": "73.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "116",
+    "name": "Brown University",
+    "country": "United States",
+    "score": "73"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "116",
+    "name": "Utrecht University",
+    "country": "Netherlands",
+    "score": "73"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "118",
+    "name": "Hanyang University",
+    "country": "South Korea",
+    "score": "72.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "118",
+    "name": "Universitat Ramon Llull",
+    "country": "Spain",
+    "score": "72.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "120",
+    "name": "Lund University",
+    "country": "Sweden",
+    "score": "72.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "120",
+    "name": "University College Dublin",
+    "country": "Ireland",
+    "score": "72.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "122",
+    "name": "Lancaster University",
+    "country": "United Kingdom",
+    "score": "72.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "122",
+    "name": "Western University",
+    "country": "Canada",
+    "score": "72.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "124",
+    "name": "Universitat Aut\u00f2noma de Barcelona",
+    "country": "Spain",
+    "score": "72.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "125",
+    "name": "University of Technology Sydney",
+    "country": "Australia",
+    "score": "72.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "126",
+    "name": "University of Nottingham",
+    "country": "United Kingdom",
+    "score": "72.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "126",
+    "name": "University of Vienna",
+    "country": "Austria",
+    "score": "72.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "128",
+    "name": "University of Virginia",
+    "country": "United States",
+    "score": "72.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "129",
+    "name": "Complutense University of Madrid",
+    "country": "Spain",
+    "score": "72"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "129",
+    "name": "Universidad Nacional de Colombia",
+    "country": "Colombia",
+    "score": "72"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "131",
+    "name": "California Institute of Technology (Caltech)",
+    "country": "United States",
+    "score": "71.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "131",
+    "name": "Oxford Brookes University",
+    "country": "United Kingdom",
+    "score": "71.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "133",
+    "name": "The University of Western Australia",
+    "country": "Australia",
+    "score": "71.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "134",
+    "name": "Johns Hopkins University",
+    "country": "United States",
+    "score": "71.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "134",
+    "name": "University of Maryland, College Park",
+    "country": "United States",
+    "score": "71.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "136",
+    "name": "The University of Exeter",
+    "country": "United Kingdom",
+    "score": "71.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "137",
+    "name": "ESSEC Business School",
+    "country": "France",
+    "score": "71.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "137",
+    "name": "Saint Petersburg State University",
+    "country": "Russia",
+    "score": "71.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "137",
+    "name": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "score": "71.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "140",
+    "name": "Osaka University",
+    "country": "Japan",
+    "score": "71.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "140",
+    "name": "The University of Sheffield",
+    "country": "United Kingdom",
+    "score": "71.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "142",
+    "name": "Universitat de Barcelona",
+    "country": "Spain",
+    "score": "71.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "142",
+    "name": "University of Bath",
+    "country": "United Kingdom",
+    "score": "71.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "142",
+    "name": "University of Groningen",
+    "country": "Netherlands",
+    "score": "71.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "145",
+    "name": "Aarhus University",
+    "country": "Denmark",
+    "score": "71.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "145",
+    "name": "Universite libre de Bruxelles",
+    "country": "Belgium",
+    "score": "71.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "147",
+    "name": "Cardiff University",
+    "country": "United Kingdom",
+    "score": "71.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "147",
+    "name": "Queen Mary University of London",
+    "country": "United Kingdom",
+    "score": "71.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "147",
+    "name": "Sapienza University of Rome",
+    "country": "Italy",
+    "score": "71.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "150",
+    "name": "Stockholm University",
+    "country": "Sweden",
+    "score": "71"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "151",
+    "name": "Beijing Normal University ",
+    "country": "China (Mainland)",
+    "score": "70.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "151",
+    "name": "George Washington University",
+    "country": "United States",
+    "score": "70.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "153",
+    "name": "Universidad Aut\u00f3noma de Madrid",
+    "country": "Spain",
+    "score": "70.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "153",
+    "name": "Vrije Universiteit Amsterdam",
+    "country": "Netherlands",
+    "score": "70.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "155",
+    "name": "University of Florida",
+    "country": "United States",
+    "score": "70.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "155",
+    "name": "University of Geneva",
+    "country": "Switzerland",
+    "score": "70.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "157",
+    "name": "Georgia Institute of Technology",
+    "country": "United States",
+    "score": "70.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "157",
+    "name": "Maastricht University ",
+    "country": "Netherlands",
+    "score": "70.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "157",
+    "name": "Goethe-University Frankfurt am Main",
+    "country": "Germany",
+    "score": "70.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "160",
+    "name": "Purdue University",
+    "country": "United States",
+    "score": "70.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "160",
+    "name": "Queensland University of Technology (QUT)",
+    "country": "Australia",
+    "score": "70.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "160",
+    "name": "Texas A&M University",
+    "country": "United States",
+    "score": "70.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "160",
+    "name": "University of Alberta",
+    "country": "Canada",
+    "score": "70.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "160",
+    "name": "University of Delhi",
+    "country": "India",
+    "score": "70.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "160",
+    "name": "University of Helsinki",
+    "country": "Finland",
+    "score": "70.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "166",
+    "name": "Arizona State University",
+    "country": "United States",
+    "score": "70.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "166",
+    "name": "Deakin University",
+    "country": "Australia",
+    "score": "70.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "168",
+    "name": "Loughborough University",
+    "country": "United Kingdom",
+    "score": "70.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "168",
+    "name": "Universidade Estadual de Campinas (Unicamp)",
+    "country": "Brazil",
+    "score": "70.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "168",
+    "name": "Wuhan University",
+    "country": "China (Mainland)",
+    "score": "70.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "171",
+    "name": "University of Lausanne",
+    "country": "Switzerland",
+    "score": "70"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "171",
+    "name": "York University",
+    "country": "Canada",
+    "score": "70"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "173",
+    "name": "Boston College",
+    "country": "United States",
+    "score": "69.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "173",
+    "name": "University of Oslo",
+    "country": "Norway",
+    "score": "69.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "175",
+    "name": "Pontificia Universidad Javeriana",
+    "country": "Colombia",
+    "score": "69.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "175",
+    "name": "Sorbonne University",
+    "country": "France",
+    "score": "69.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "175",
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "score": "69.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "178",
+    "name": "Central European University",
+    "country": "Austria",
+    "score": "69.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "178",
+    "name": "The University of Adelaide",
+    "country": "Australia",
+    "score": "69.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "178",
+    "name": "Essex, University of",
+    "country": "United Kingdom",
+    "score": "69.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "181",
+    "name": "Dartmouth College",
+    "country": "United States",
+    "score": "69.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "181",
+    "name": "Universit\u00e0\u00a0di Padova",
+    "country": "Italy",
+    "score": "69.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "183",
+    "name": "Delft University of Technology",
+    "country": "Netherlands",
+    "score": "69.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "183",
+    "name": "Indian Institute of Technology Delhi (IITD)",
+    "country": "India",
+    "score": "69.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "183",
+    "name": "Newcastle University",
+    "country": "United Kingdom",
+    "score": "69.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "183",
+    "name": "RMIT University",
+    "country": "Australia",
+    "score": "69.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "183",
+    "name": "Universit\u00e0\u00a0Cattolica del Sacro Cuore",
+    "country": "Italy",
+    "score": "69.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "188",
+    "name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+    "country": "Germany",
+    "score": "69.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "188",
+    "name": "University of Otago",
+    "country": "New Zealand",
+    "score": "69.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "188",
+    "name": "University of Sussex",
+    "country": "United Kingdom",
+    "score": "69.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "188",
+    "name": "Uppsala University",
+    "country": "Sweden",
+    "score": "69.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "192",
+    "name": "Chulalongkorn University",
+    "country": "Thailand",
+    "score": "69.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "192",
+    "name": "Kyung Hee University",
+    "country": "South Korea",
+    "score": "69.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "192",
+    "name": "National Cheng Kung University (NCKU)",
+    "country": "Taiwan",
+    "score": "69.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "192",
+    "name": "National Chengchi University",
+    "country": "Taiwan",
+    "score": "69.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "196",
+    "name": "Macquarie University",
+    "country": "Australia",
+    "score": "69"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "196",
+    "name": "Nanjing University",
+    "country": "China (Mainland)",
+    "score": "69"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "196",
+    "name": "University of Wollongong",
+    "country": "Australia",
+    "score": "69"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "199",
+    "name": "Florida State University",
+    "country": "United States",
+    "score": "68.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "199",
+    "name": "Sun Yat-sen University",
+    "country": "China (Mainland)",
+    "score": "68.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "199",
+    "name": "Universiti Putra Malaysia (UPM)",
+    "country": "Malaysia",
+    "score": "68.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "199",
+    "name": "University of Notre Dame",
+    "country": "United States",
+    "score": "68.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "203",
+    "name": "Indian Institute of Technology Bombay (IITB)",
+    "country": "India",
+    "score": "68.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "203",
+    "name": "Universitas Indonesia",
+    "country": "Indonesia",
+    "score": "68.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "203",
+    "name": "University of St Andrews",
+    "country": "United Kingdom",
+    "score": "68.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "205",
+    "name": "Aalto University",
+    "country": "Finland",
+    "score": "68.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "206",
+    "name": "University of Waterloo",
+    "country": "Canada",
+    "score": "68.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "207",
+    "name": "Griffith University",
+    "country": "Australia",
+    "score": "68.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "207",
+    "name": "Instituto Tecnol\u00f3gico Aut\u00f3nomo de M\u00e9xico (ITAM)",
+    "country": "Mexico",
+    "score": "68.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "207",
+    "name": "University of Milan",
+    "country": "Italy",
+    "score": "68.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "207",
+    "name": "Universiti Kebangsaan Malaysia (UKM)",
+    "country": "Malaysia",
+    "score": "68.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "207",
+    "name": "University of California, Davis",
+    "country": "United States",
+    "score": "68.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "207",
+    "name": "University of Massachusetts Amherst",
+    "country": "United States",
+    "score": "68.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "213",
+    "name": "Ecole Polytechnique",
+    "country": "France",
+    "score": "68.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "214",
+    "name": "Funda\u00e7\u00e3o Getulio Vargas (FGV)",
+    "country": "Brazil",
+    "score": "68.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "214",
+    "name": "Universidade Federal do Rio de Janeiro",
+    "country": "Brazil",
+    "score": "68.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "214",
+    "name": "Universiti Sains Malaysia (USM)",
+    "country": "Malaysia",
+    "score": "68.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "217",
+    "name": "University of Cologne",
+    "country": "Germany",
+    "score": "68"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "217",
+    "name": "University of Strathclyde",
+    "country": "United Kingdom",
+    "score": "68"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "219",
+    "name": "Ghent University",
+    "country": "Belgium",
+    "score": "67.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "220",
+    "name": "Universidade Nova de Lisboa",
+    "country": "Portugal",
+    "score": "67.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "220",
+    "name": "University of Canterbury",
+    "country": "New Zealand",
+    "score": "67.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "220",
+    "name": "University of York",
+    "country": "United Kingdom",
+    "score": "67.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "223",
+    "name": "Pontificia Universidad Cat\u00f3lica del Per\u00fa",
+    "country": "Peru",
+    "score": "67.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "223",
+    "name": "Universit\u00e4t Hamburg",
+    "country": "Germany",
+    "score": "67.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "225",
+    "name": "The University of Georgia",
+    "country": "United States",
+    "score": "67.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "226",
+    "name": "University of Calgary",
+    "country": "Canada",
+    "score": "67.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "227",
+    "name": "University of South Australia",
+    "country": "Australia",
+    "score": "67.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "228",
+    "name": "University of Illinois at Chicago (UIC)",
+    "country": "United States",
+    "score": "67.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "229",
+    "name": "Curtin University",
+    "country": "Australia",
+    "score": "67.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "229",
+    "name": "European University Institute",
+    "country": "Italy",
+    "score": "67.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "229",
+    "name": "Rutgers University\u2013New Brunswick",
+    "country": "United States",
+    "score": "67.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "229",
+    "name": "SOAS University of London ",
+    "country": "United Kingdom",
+    "score": "67.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "229",
+    "name": "Tohoku University",
+    "country": "Japan",
+    "score": "67.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "229",
+    "name": "Tokyo Institute of Technology (Tokyo Tech)",
+    "country": "Japan",
+    "score": "67.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "229",
+    "name": "University of Southampton",
+    "country": "United Kingdom",
+    "score": "67.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "229",
+    "name": "University of Surrey",
+    "country": "United Kingdom",
+    "score": "67.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "237",
+    "name": "University of Lisbon ",
+    "country": "Portugal",
+    "score": "67"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "237",
+    "name": "Vanderbilt University",
+    "country": "United States",
+    "score": "67"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "239",
+    "name": "University of Gothenburg",
+    "country": "Sweden",
+    "score": "66.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "240",
+    "name": "Rheinische Friedrich-Wilhelms-Universit\u00e4t Bonn",
+    "country": "Germany",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "240",
+    "name": "Universidad Adolfo Ib\u00e1\u00f1ez",
+    "country": "Chile",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "240",
+    "name": "The University of Arizona",
+    "country": "United States",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "240",
+    "name": "University of California, Irvine",
+    "country": "United States",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "244",
+    "name": "Kobe University",
+    "country": "Japan",
+    "score": "66.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "244",
+    "name": "Simon Fraser University",
+    "country": "Canada",
+    "score": "66.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "244",
+    "name": "University of Reading",
+    "country": "United Kingdom",
+    "score": "66.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "247",
+    "name": "King Abdulaziz University (KAU)",
+    "country": "Saudi Arabia",
+    "score": "66.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "247",
+    "name": "University of Pittsburgh",
+    "country": "United States",
+    "score": "66.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "249",
+    "name": "National Tsing Hua University",
+    "country": "Taiwan",
+    "score": "66.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "250",
+    "name": "The American University in Cairo",
+    "country": "Egypt",
+    "score": "66.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "250",
+    "name": "University of Trento",
+    "country": "Italy",
+    "score": "66.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "252",
+    "name": "American University of Beirut (AUB)",
+    "country": "Lebanon",
+    "score": "66.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "252",
+    "name": "Universiti Teknologi Malaysia ",
+    "country": "Malaysia",
+    "score": "66.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "254",
+    "name": "The University of Newcastle, Australia (UON)",
+    "country": "Australia",
+    "score": "66.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "255",
+    "name": "City University of New York",
+    "country": "United States",
+    "score": "66"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "255",
+    "name": "Plekhanov Russian University of Economics",
+    "country": "Russia",
+    "score": "66"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "255",
+    "name": "University of Rome Tor Vergata",
+    "country": "Italy",
+    "score": "66"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "258",
+    "name": "Aston University",
+    "country": "United Kingdom",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "258",
+    "name": "Athens University of Economics and Business",
+    "country": "Greece",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "258",
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "258",
+    "name": "McMaster University",
+    "country": "Canada",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "258",
+    "name": "Middle East Technical University",
+    "country": "Turkey",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "258",
+    "name": "University of Bern",
+    "country": "Switzerland",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "258",
+    "name": "University of Rochester",
+    "country": "United States",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "258",
+    "name": "University of the Philippines",
+    "country": "Philippines",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "266",
+    "name": "Gadjah Mada University",
+    "country": "Indonesia",
+    "score": "65.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "267",
+    "name": "American University",
+    "country": "United States",
+    "score": "65.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "267",
+    "name": "University of Liverpool",
+    "country": "United Kingdom",
+    "score": "65.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "269",
+    "name": "Luiss University",
+    "country": "Italy",
+    "score": "65.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "269",
+    "name": "Massey University",
+    "country": "New Zealand",
+    "score": "65.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "271",
+    "name": "Cairo University",
+    "country": "Egypt",
+    "score": "65.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "271",
+    "name": "Goldsmiths, University of London",
+    "country": "United Kingdom",
+    "score": "65.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "271",
+    "name": "Nagoya University",
+    "country": "Japan",
+    "score": "65.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "271",
+    "name": "University of Leicester",
+    "country": "United Kingdom",
+    "score": "65.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "271",
+    "name": "University of Ottawa",
+    "country": "Canada",
+    "score": "65.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "271",
+    "name": "University of Warsaw ",
+    "country": "Poland",
+    "score": "65.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "277",
+    "name": "Rice University",
+    "country": "United States",
+    "score": "65.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "277",
+    "name": "Albert-Ludwigs-Universitaet Freiburg",
+    "country": "Germany",
+    "score": "65.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "277",
+    "name": "University of California, Santa Barbara (UCSB)",
+    "country": "United States",
+    "score": "65.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "277",
+    "name": "Virginia Polytechnic Institute and State University",
+    "country": "United States",
+    "score": "65.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "281",
+    "name": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro",
+    "country": "Brazil",
+    "score": "65.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "281",
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "score": "65.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "281",
+    "name": "Sogang University",
+    "country": "South Korea",
+    "score": "65.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "284",
+    "name": "Jawaharlal Nehru University",
+    "country": "India",
+    "score": "65.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "285",
+    "name": "University of Miami",
+    "country": "United States",
+    "score": "65.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "286",
+    "name": "Charles University",
+    "country": "Czech Republic",
+    "score": "65"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "286",
+    "name": "Syracuse University",
+    "country": "United States",
+    "score": "65"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "286",
+    "name": "University of Kent",
+    "country": "United Kingdom",
+    "score": "65"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "289",
+    "name": "Bogazi\u00e7i \u00dcniversitesi",
+    "country": "Turkey",
+    "score": "64.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "289",
+    "name": "Indian Institute of Management (IIM) - Ahmedabad",
+    "country": "India",
+    "score": "64.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "289",
+    "name": "Kyushu University",
+    "country": "Japan",
+    "score": "64.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "289",
+    "name": "Universidad de Santiago de Chile (USACH)",
+    "country": "Chile",
+    "score": "64.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "289",
+    "name": "University College Cork",
+    "country": "Ireland",
+    "score": "64.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "294",
+    "name": "The Hebrew University of Jerusalem",
+    "country": "Israel",
+    "score": "64.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "294",
+    "name": "National Sun Yat-sen University",
+    "country": "Taiwan",
+    "score": "64.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "294",
+    "name": "University of Porto",
+    "country": "Portugal",
+    "score": "64.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "297",
+    "name": "MGIMO University",
+    "country": "Russia",
+    "score": "64.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "297",
+    "name": "National Taiwan University of Science and Technology (Taiwan Tech)",
+    "country": "Taiwan",
+    "score": "64.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "297",
+    "name": "Universidad Torcuato Di Tella",
+    "country": "Argentina",
+    "score": "64.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "297",
+    "name": "University of Twente",
+    "country": "Netherlands",
+    "score": "64.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "301",
+    "name": "Dublin City University",
+    "country": "Ireland",
+    "score": "64.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "302",
+    "name": "Indian Institute of Management (IIM) - Bangalore",
+    "country": "India",
+    "score": "64.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "302",
+    "name": "KTH Royal Institute of Technology ",
+    "country": "Sweden",
+    "score": "64.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "302",
+    "name": "University of Witwatersrand",
+    "country": "South Africa",
+    "score": "64.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "305",
+    "name": "Thammasat University",
+    "country": "Thailand",
+    "score": "64.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "305",
+    "name": "Universitat de Valencia",
+    "country": "Spain",
+    "score": "64.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "305",
+    "name": "University of Science and Technology of China",
+    "country": "China (Mainland)",
+    "score": "64.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "308",
+    "name": "Aristotle University of Thessaloniki",
+    "country": "Greece",
+    "score": "64.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "308",
+    "name": "Queen's University Belfast",
+    "country": "United Kingdom",
+    "score": "64.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "308",
+    "name": "Universit\u00e9 du Qu\u00e9bec",
+    "country": "Canada",
+    "score": "64.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "308",
+    "name": "University of Colorado Boulder",
+    "country": "United States",
+    "score": "64.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "308",
+    "name": "Xi\u2019an Jiaotong University",
+    "country": "China (Mainland)",
+    "score": "64.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "313",
+    "name": "Cranfield University",
+    "country": "United Kingdom",
+    "score": "64.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "313",
+    "name": "Ca' Foscari University of Venice ",
+    "country": "Italy",
+    "score": "64.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "313",
+    "name": "University of Aberdeen",
+    "country": "United Kingdom",
+    "score": "64.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "313",
+    "name": " Western Sydney University",
+    "country": "Australia",
+    "score": "64.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "317",
+    "name": "La Trobe University",
+    "country": "Australia",
+    "score": "64.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "317",
+    "name": "Universiti Teknologi MARA - UiTM",
+    "country": "Malaysia",
+    "score": "64.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "317",
+    "name": "University of Jordan",
+    "country": "Jordan",
+    "score": "64.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "320",
+    "name": "Auckland University of Technology (AUT)",
+    "country": "New Zealand",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "320",
+    "name": "Bandung Institute of Technology (ITB)",
+    "country": "Indonesia",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "320",
+    "name": "Georgia State University",
+    "country": "United States",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "320",
+    "name": "National University of Ireland Galway",
+    "country": "Ireland",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "320",
+    "name": "Technische Universit\u00e4t Berlin (TU Berlin)",
+    "country": "Germany",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "320",
+    "name": "Universidad Diego Portales (UDP)",
+    "country": "Chile",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "320",
+    "name": "University of Pretoria",
+    "country": "South Africa",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "320",
+    "name": "University of Waikato",
+    "country": "New Zealand",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "328",
+    "name": "Stellenbosch University",
+    "country": "South Africa",
+    "score": "63.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "328",
+    "name": "Vilnius Gediminas Technical University",
+    "country": "Lithuania",
+    "score": "63.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "328",
+    "name": "Vrije Universiteit Brussel (VUB)",
+    "country": "Belgium",
+    "score": "63.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "331",
+    "name": "BI Norwegian Business School",
+    "country": "Norway",
+    "score": "63.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "331",
+    "name": "Indian Institute of Technology Kharagpur (IIT-KGP)",
+    "country": "India",
+    "score": "63.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "331",
+    "name": "Ko\u00e7 University",
+    "country": "Turkey",
+    "score": "63.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "334",
+    "name": "Bilkent University",
+    "country": "Turkey",
+    "score": "63.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "335",
+    "name": "Florida International University",
+    "country": "United States",
+    "score": "63.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "335",
+    "name": "Paris School of Economics ",
+    "country": "France",
+    "score": "63.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "335",
+    "name": "Tomsk State University",
+    "country": "Russia",
+    "score": "63.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "335",
+    "name": "University of Bergen",
+    "country": "Norway",
+    "score": "63.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "335",
+    "name": "Wageningen University & Research",
+    "country": "Netherlands",
+    "score": "63.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "340",
+    "name": "American University of Sharjah",
+    "country": "United Arab Emirates",
+    "score": "63.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "340",
+    "name": "National Taiwan Normal University",
+    "country": "Taiwan",
+    "score": "63.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "340",
+    "name": "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster ",
+    "country": "Germany",
+    "score": "63.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "343",
+    "name": "Washington State University",
+    "country": "United States",
+    "score": "63.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "344",
+    "name": "Hong Kong Baptist University",
+    "country": "Hong Kong SAR",
+    "score": "63.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "345",
+    "name": "Northeastern University",
+    "country": "United States",
+    "score": "63.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "345",
+    "name": "University of Antwerp",
+    "country": "Belgium",
+    "score": "63.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "347",
+    "name": "Indian Institute of Technology Madras (IITM)",
+    "country": "India",
+    "score": "63.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "347",
+    "name": "Royal Holloway University of London",
+    "country": "United Kingdom",
+    "score": "63.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "347",
+    "name": "University of Naples - Federico II",
+    "country": "Italy",
+    "score": "63.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "347",
+    "name": "University of Texas Dallas",
+    "country": "United States",
+    "score": "63.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "351",
+    "name": "Aalborg University",
+    "country": "Denmark",
+    "score": "63"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "351",
+    "name": "Al-Farabi Kazakh National University",
+    "country": "Kazakhstan",
+    "score": "63"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "351",
+    "name": "Emory University",
+    "country": "United States",
+    "score": "63"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "351",
+    "name": "Radboud University ",
+    "country": "Netherlands",
+    "score": "63"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "351",
+    "name": "University of Limerick",
+    "country": "Ireland",
+    "score": "63"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "351",
+    "name": "Ural Federal University - UrFU",
+    "country": "Russia",
+    "score": "63"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "357",
+    "name": "University of Missouri, Columbia",
+    "country": "United States",
+    "score": "62.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "357",
+    "name": "University of Tartu",
+    "country": "Estonia",
+    "score": "62.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "359",
+    "name": "Temple University",
+    "country": "United States",
+    "score": "62.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "359",
+    "name": "University of Turin",
+    "country": "Italy",
+    "score": "62.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "359",
+    "name": "University of South Carolina",
+    "country": "United States",
+    "score": "62.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "362",
+    "name": "Instituto Polit\u00e9cnico Nacional (IPN)",
+    "country": "Mexico",
+    "score": "62.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "362",
+    "name": "ISCTE-IUL",
+    "country": "Portugal",
+    "score": "62.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "362",
+    "name": "University of Iowa",
+    "country": "United States",
+    "score": "62.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "365",
+    "name": "Kazan (Volga region) Federal University",
+    "country": "Russia",
+    "score": "62.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "365",
+    "name": "North Carolina State University",
+    "country": "United States",
+    "score": "62.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "365",
+    "name": "University of Granada",
+    "country": "Spain",
+    "score": "62.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "365",
+    "name": "University of Turku",
+    "country": "Finland",
+    "score": "62.6"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "369",
+    "name": "Concordia University",
+    "country": "Canada",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "369",
+    "name": "Coventry University",
+    "country": "United Kingdom",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "369",
+    "name": "Ewha Womans University",
+    "country": "South Korea",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "369",
+    "name": "King Saud University",
+    "country": "Saudi Arabia",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "369",
+    "name": "Tel Aviv University",
+    "country": "Israel",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "369",
+    "name": "Universidad de Antioquia",
+    "country": "Colombia",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "369",
+    "name": "UNESP",
+    "country": "Brazil",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "369",
+    "name": "University of Florence",
+    "country": "Italy",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "369",
+    "name": "University of Central Florida",
+    "country": "United States",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "378",
+    "name": "Prague University of Economics and Business",
+    "country": "Czech Republic",
+    "score": "62.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "378",
+    "name": "University of Milano-Bicocca ",
+    "country": "Italy",
+    "score": "62.4"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "380",
+    "name": "Indian Institute of Management (IIM) - Calcutta",
+    "country": "India",
+    "score": "62.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "380",
+    "name": "Universit\u00e9 Laval",
+    "country": "Canada",
+    "score": "62.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "380",
+    "name": "United Arab Emirates University",
+    "country": "United Arab Emirates",
+    "score": "62.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "380",
+    "name": "Universidade Cat\u00f3lica Portuguesa - UCP",
+    "country": "Portugal",
+    "score": "62.3"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "384",
+    "name": "emlyon business school",
+    "country": "France",
+    "score": "62.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "384",
+    "name": "University of Southern Denmark (SDU)",
+    "country": "Denmark",
+    "score": "62.2"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "386",
+    "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen",
+    "country": "Germany",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "386",
+    "name": "Universidad Iberoamericana IBERO",
+    "country": "Mexico",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "386",
+    "name": "Universitat Polit\u00e8cnica de Catalunya \u00b7 BarcelonaTech (UPC)",
+    "country": "Spain",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "386",
+    "name": "University of Ljubljana",
+    "country": "Slovenia",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "390",
+    "name": "National Central University",
+    "country": "Taiwan",
+    "score": "61.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "390",
+    "name": "Universidad de Sevilla",
+    "country": "Spain",
+    "score": "61.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "390",
+    "name": "Universidade de Bras\u00edlia",
+    "country": "Brazil",
+    "score": "61.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "390",
+    "name": "Universit\u00e4t Konstanz",
+    "country": "Germany",
+    "score": "61.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "390",
+    "name": "WHU - Otto Beisheim School of Management ",
+    "country": "Germany",
+    "score": "61.9"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "395",
+    "name": "Chung-Ang University (CAU)",
+    "country": "South Korea",
+    "score": "61.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "395",
+    "name": "University of G\u00f6ttingen",
+    "country": "Germany",
+    "score": "61.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "395",
+    "name": "Novosibirsk State University",
+    "country": "Russia",
+    "score": "61.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "395",
+    "name": "University of Salamanca",
+    "country": "Spain",
+    "score": "61.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "395",
+    "name": "Universidad Polit\u00e9cnica de Madrid (UPM)",
+    "country": "Spain",
+    "score": "61.8"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "400",
+    "name": "Taylor's University",
+    "country": "Malaysia",
+    "score": "61.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "400",
+    "name": "University of Hawai\u02bbi at M\u0101noa",
+    "country": "United States",
+    "score": "61.7"
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Brunel University London",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Case Western Reserve University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "CentraleSup\u00e9lec",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Chalmers University of Technology",
+    "country": "Sweden",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Corvinus University of Budapest",
+    "country": "Hungary",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "De La Salle University",
+    "country": "Philippines",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "George Mason University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Heriot-Watt University",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Huazhong University of Science and Technology",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Indian Institute of Technology Kanpur (IITK)",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "International Islamic University Malaysia (IIUM)",
+    "country": "Malaysia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Iowa State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Jagiellonian University",
+    "country": "Poland",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "King Fahd University of Petroleum & Minerals",
+    "country": "Saudi Arabia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Kingston University, London",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "KIT, Karlsruhe Institute of Technology",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Lahore University of Management Sciences (LUMS)",
+    "country": "Pakistan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Link\u00f6ping University",
+    "country": "Sweden",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Mahidol University",
+    "country": "Thailand",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Nankai University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Norwegian University of Science And Technology",
+    "country": "Norway",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Nottingham Trent University",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "country": "Chile",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Ritsumeikan University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "RUDN University",
+    "country": "Russia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Sabanci University",
+    "country": "Turkey",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Shanghai University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Shanghai University of Finance and Economics",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Tongji University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Tufts University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Universidad Aut\u00f3noma Metropolitana (UAM)",
+    "country": "Mexico",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Universidad del Rosario",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Universidad EAFIT",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Universidade Federal de Minas Gerais      ",
+    "country": "Brazil",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Universidade Federal do Rio Grande Do Sul ",
+    "country": "Brazil",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University of Pisa",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Aix-Marseille University",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Universit\u00e9 Grenoble Alpes",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University Paris 2 Panth\u00e9on-Assas",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Universiti Utara Malaysia (UUM)",
+    "country": "Malaysia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "The University of Alabama",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University of Basel",
+    "country": "Switzerland",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University of Coimbra",
+    "country": "Portugal",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University of Dhaka",
+    "country": "Bangladesh",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University of Houston",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University of Oregon",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University of Stirling",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University of Tsukuba",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "University of Westminster",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Vilnius University ",
+    "country": "Lithuania",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "401-450",
+    "name": "Xiamen University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Ateneo de Manila University",
+    "country": "Philippines",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Babes-Bolyai University",
+    "country": "Romania",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Barcelona Graduate School of Economics",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Brigham Young University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Chiang Mai University",
+    "country": "Thailand",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Financial University under the Government of the Russian Federation",
+    "country": "Russia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Grenoble Ecole de Management",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "HUFS - Hankuk (Korea) University of Foreign Studies ",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Indian Institute of Technology Roorkee (IITR)",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "KEDGE Business School",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Murdoch University",
+    "country": "Australia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "National University of Sciences And Technology (NUST) Islamabad",
+    "country": "Pakistan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Northumbria University at Newcastle",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Pusan National University",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Qatar University",
+    "country": "Qatar",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Ryerson University",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Shandong University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Technische Universit\u00e4t Dresden",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Technische Universit\u00e4t Wien",
+    "country": "Austria",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "The Open University",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Russian Presidential Academy of National Economy and Public Administration",
+    "country": "Russia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universidad de Concepci\u00f3n",
+    "country": "Chile",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universidad de Guadalajara (UDG)",
+    "country": "Mexico",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universidad de La Sabana",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universidad Externado de Colombia ",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universidad Nacional de La Plata (UNLP)",
+    "country": "Argentina",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universitat Polit\u00e8cnica de Val\u00e8ncia",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universit\u00e4t Bremen",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universit\u00e4t Innsbruck",
+    "country": "Austria",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universit\u00e9 de Montpellier",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University at Albany SUNY",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University at Buffalo SUNY",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Bucharest",
+    "country": "Romania",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Canberra ",
+    "country": "Australia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Connecticut",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of East Anglia (UEA)",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Johannesburg",
+    "country": "South Africa",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Kansas",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Kentucky",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universit\u00e9 de Li\u00e8ge",
+    "country": "Belgium",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Macau",
+    "country": "Macau SAR",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Massachusetts Boston",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Nevada - Las Vegas",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "Universit\u00e9 de Paris",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of South Florida",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Tasmania",
+    "country": "Australia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "The University of Tennessee, Knoxville",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Utah",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "social_sciences_and_management",
+    "rank": "451-500",
+    "name": "University of Victoria (UVic)",
+    "country": "Canada",
+    "score": ""
+  }
+]

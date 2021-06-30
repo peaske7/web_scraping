@@ -1,0 +1,4034 @@
+[
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "1",
+    "name": "University of Oxford",
+    "country": "United Kingdom",
+    "score": "98.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "2",
+    "name": "Harvard University",
+    "country": "United States",
+    "score": "98.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "3",
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "score": "96.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "4",
+    "name": "University of California, Berkeley (UCB)",
+    "country": "United States",
+    "score": "93.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "5",
+    "name": "Stanford University",
+    "country": "United States",
+    "score": "92.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "6",
+    "name": "Yale University",
+    "country": "United States",
+    "score": "92.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "7",
+    "name": "New York University (NYU)",
+    "country": "United States",
+    "score": "90.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "8",
+    "name": "University of California, Los Angeles (UCLA)",
+    "country": "United States",
+    "score": "90.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "9",
+    "name": "Princeton University",
+    "country": "United States",
+    "score": "89.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "10",
+    "name": "Columbia University",
+    "country": "United States",
+    "score": "89.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "11",
+    "name": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "score": "88.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "12",
+    "name": "UCL",
+    "country": "United Kingdom",
+    "score": "88.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "13",
+    "name": "Massachusetts Institute of Technology (MIT) ",
+    "country": "United States",
+    "score": "87.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "13",
+    "name": "University of Chicago",
+    "country": "United States",
+    "score": "87.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "15",
+    "name": "Humboldt-Universit\u00e4t zu Berlin",
+    "country": "Germany",
+    "score": "87.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "16",
+    "name": "The Australian National University",
+    "country": "Australia",
+    "score": "86.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "16",
+    "name": "The University of Melbourne",
+    "country": "Australia",
+    "score": "86.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "18",
+    "name": "University of Toronto",
+    "country": "Canada",
+    "score": "86.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "19",
+    "name": "National University of Singapore (NUS)",
+    "country": "Singapore",
+    "score": "86.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "20",
+    "name": "The London School of Economics and Political Science (LSE)",
+    "country": "United Kingdom",
+    "score": "86.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "21",
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "score": "85.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "22",
+    "name": "The University of Sydney",
+    "country": "Australia",
+    "score": "85.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "23",
+    "name": "Freie Universitaet Berlin",
+    "country": "Germany",
+    "score": "85.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "24",
+    "name": "University of British Columbia",
+    "country": "Canada",
+    "score": "84.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "25",
+    "name": "King's College London",
+    "country": "United Kingdom",
+    "score": "84.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "26",
+    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico  (UNAM)",
+    "country": "Mexico",
+    "score": "84.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "27",
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "84.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "28",
+    "name": "Cornell University",
+    "country": "United States",
+    "score": "84"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "29",
+    "name": "University of Amsterdam",
+    "country": "Netherlands",
+    "score": "83.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "30",
+    "name": "McGill University",
+    "country": "Canada",
+    "score": "83.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "31",
+    "name": "University of Michigan-Ann Arbor",
+    "country": "United States",
+    "score": "83"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "32",
+    "name": "Leiden University",
+    "country": "Netherlands",
+    "score": "82.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "32",
+    "name": "Universit\u00e9 Paris 1 Panth\u00e9on-Sorbonne ",
+    "country": "France",
+    "score": "82.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "32",
+    "name": "University of Pennsylvania",
+    "country": "United States",
+    "score": "82.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "35",
+    "name": "Universidad de Buenos Aires (UBA)",
+    "country": "Argentina",
+    "score": "82.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "36",
+    "name": "Seoul National University",
+    "country": "South Korea",
+    "score": "81.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "37",
+    "name": "University of Texas at Austin",
+    "country": "United States",
+    "score": "81.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "38",
+    "name": "Peking University",
+    "country": "China (Mainland)",
+    "score": "81.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "39",
+    "name": "Durham University",
+    "country": "United Kingdom",
+    "score": "81.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "39",
+    "name": "The Chinese University of Hong Kong (CUHK)",
+    "country": "Hong Kong SAR",
+    "score": "81.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "39",
+    "name": "The University of Manchester",
+    "country": "United Kingdom",
+    "score": "81.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "42",
+    "name": "The University of New South Wales (UNSW Sydney)",
+    "country": "Australia",
+    "score": "80.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "42",
+    "name": "The University of Warwick",
+    "country": "United Kingdom",
+    "score": "80.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "44",
+    "name": "Duke University",
+    "country": "United States",
+    "score": "80.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "45",
+    "name": "University of St Andrews",
+    "country": "United Kingdom",
+    "score": "80.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "46",
+    "name": "Brown University",
+    "country": "United States",
+    "score": "80.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "47",
+    "name": "Lomonosov Moscow State University",
+    "country": "Russia",
+    "score": "80.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "48",
+    "name": "Monash University",
+    "country": "Australia",
+    "score": "80.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "49",
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+    "country": "Germany",
+    "score": "80.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "49",
+    "name": "SOAS University of London ",
+    "country": "United Kingdom",
+    "score": "80.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "51",
+    "name": "Pontificia Universidad Cat\u00f3lica de Chile (UC)",
+    "country": "Chile",
+    "score": "80"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "52",
+    "name": "Sorbonne University",
+    "country": "France",
+    "score": "79.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "53",
+    "name": "Trinity College Dublin, The University of Dublin",
+    "country": "Ireland",
+    "score": "79.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "54",
+    "name": "Waseda University",
+    "country": "Japan",
+    "score": "79.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "55",
+    "name": "University of Birmingham",
+    "country": "United Kingdom",
+    "score": "79.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "56",
+    "name": "Tsinghua University",
+    "country": "China (Mainland)",
+    "score": "79.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "57",
+    "name": "The University of Auckland",
+    "country": "New Zealand",
+    "score": "79.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "58",
+    "name": "Alma Mater Studiorum - University of Bologna",
+    "country": "Italy",
+    "score": "79"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "58",
+    "name": "University of Vienna",
+    "country": "Austria",
+    "score": "79"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "60",
+    "name": "University of Leeds",
+    "country": "United Kingdom",
+    "score": "78.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "61",
+    "name": "Nanyang Technological University, Singapore (NTU)",
+    "country": "Singapore",
+    "score": "78.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "62",
+    "name": "University of Glasgow",
+    "country": "United Kingdom",
+    "score": "78.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "63",
+    "name": "Universidade de S\u00e3o Paulo",
+    "country": "Brazil",
+    "score": "78.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "63",
+    "name": "University of Helsinki",
+    "country": "Finland",
+    "score": "78.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "65",
+    "name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+    "country": "Germany",
+    "score": "78.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "66",
+    "name": "University of Copenhagen",
+    "country": "Denmark",
+    "score": "78.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "67",
+    "name": "Kyoto University",
+    "country": "Japan",
+    "score": "78.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "68",
+    "name": "Fudan University",
+    "country": "China (Mainland)",
+    "score": "78"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "68",
+    "name": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "score": "78"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "70",
+    "name": "Georgetown University",
+    "country": "United States",
+    "score": "77.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "71",
+    "name": "Universit\u00e9 Sorbonne Nouvelle Paris 3",
+    "country": "France",
+    "score": "77.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "71",
+    "name": "University of York",
+    "country": "United Kingdom",
+    "score": "77.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "73",
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "score": "77.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "74",
+    "name": "University of Wisconsin-Madison",
+    "country": "United States",
+    "score": "77.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "75",
+    "name": "The University of Sheffield",
+    "country": "United Kingdom",
+    "score": "77.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "76",
+    "name": "Korea University",
+    "country": "South Korea",
+    "score": "77"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "76",
+    "name": "Complutense University of Madrid",
+    "country": "Spain",
+    "score": "77"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "76",
+    "name": "Universit\u00e9 PSL",
+    "country": "France",
+    "score": "77"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "76",
+    "name": "University of Bristol",
+    "country": "United Kingdom",
+    "score": "77"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "76",
+    "name": "University of Zurich",
+    "country": "Switzerland",
+    "score": "77"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "81",
+    "name": "National Taiwan University (NTU)",
+    "country": "Taiwan",
+    "score": "76.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "81",
+    "name": "Sapienza University of Rome",
+    "country": "Italy",
+    "score": "76.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "83",
+    "name": "Northwestern University",
+    "country": "United States",
+    "score": "76.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "83",
+    "name": "University of Southern California",
+    "country": "United States",
+    "score": "76.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "85",
+    "name": "The University of Queensland",
+    "country": "Australia",
+    "score": "76.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "86",
+    "name": "Lancaster University",
+    "country": "United Kingdom",
+    "score": "76.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "87",
+    "name": "Johns Hopkins University",
+    "country": "United States",
+    "score": "76"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "88",
+    "name": "Universidad de Chile",
+    "country": "Chile",
+    "score": "75.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "88",
+    "name": "Yonsei University",
+    "country": "South Korea",
+    "score": "75.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "90",
+    "name": "City University of New York",
+    "country": "United States",
+    "score": "75.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "90",
+    "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen",
+    "country": "Germany",
+    "score": "75.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "92",
+    "name": "Indiana University Bloomington",
+    "country": "United States",
+    "score": "75.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "93",
+    "name": "Queen Mary University of London",
+    "country": "United Kingdom",
+    "score": "75.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "93",
+    "name": "Rutgers University\u2013New Brunswick",
+    "country": "United States",
+    "score": "75.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "93",
+    "name": "Universitat de Barcelona",
+    "country": "Spain",
+    "score": "75.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "96",
+    "name": "Boston University",
+    "country": "United States",
+    "score": "75"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "96",
+    "name": "Pennsylvania State University",
+    "country": "United States",
+    "score": "75"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "98",
+    "name": "Delft University of Technology",
+    "country": "Netherlands",
+    "score": "74.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "98",
+    "name": "The University of Exeter",
+    "country": "United Kingdom",
+    "score": "74.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "98",
+    "name": "University of Virginia",
+    "country": "United States",
+    "score": "74.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "101",
+    "name": "Albert-Ludwigs-Universitaet Freiburg",
+    "country": "Germany",
+    "score": "74.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "102",
+    "name": "RMIT University",
+    "country": "Australia",
+    "score": "74.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "103",
+    "name": "Saint Petersburg State University",
+    "country": "Russia",
+    "score": "74.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "103",
+    "name": "University of California, San Diego (UCSD)",
+    "country": "United States",
+    "score": "74.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "105",
+    "name": "Universiti Malaya (UM)",
+    "country": "Malaysia",
+    "score": "74.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "105",
+    "name": "University College Dublin",
+    "country": "Ireland",
+    "score": "74.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "105",
+    "name": "University of Notre Dame",
+    "country": "United States",
+    "score": "74.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "108",
+    "name": "Carnegie Mellon University",
+    "country": "United States",
+    "score": "74.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "108",
+    "name": "ETH Zurich - Swiss Federal Institute of Technology",
+    "country": "Switzerland",
+    "score": "74.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "110",
+    "name": "Aarhus University",
+    "country": "Denmark",
+    "score": "74.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "110",
+    "name": "Renmin (People's) University of China",
+    "country": "China (Mainland)",
+    "score": "74.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "110",
+    "name": "University of North Carolina, Chapel Hill",
+    "country": "United States",
+    "score": "74.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "113",
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "74.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "113",
+    "name": "Macquarie University",
+    "country": "Australia",
+    "score": "74.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "113",
+    "name": "Universit\u00e9 catholique de Louvain (UCLouvain)",
+    "country": "Belgium",
+    "score": "74.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "113",
+    "name": "Utrecht University",
+    "country": "Netherlands",
+    "score": "74.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "117",
+    "name": "Goldsmiths, University of London",
+    "country": "United Kingdom",
+    "score": "74.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "117",
+    "name": "University of Geneva",
+    "country": "Switzerland",
+    "score": "74.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "117",
+    "name": "University of Illinois at Urbana-Champaign",
+    "country": "United States",
+    "score": "74.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "120",
+    "name": "Central European University",
+    "country": "Austria",
+    "score": "73.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "120",
+    "name": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong SAR",
+    "score": "73.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "120",
+    "name": "University of Washington",
+    "country": "United States",
+    "score": "73.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "123",
+    "name": "The Ohio State University",
+    "country": "United States",
+    "score": "73.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "124",
+    "name": "University of Nottingham",
+    "country": "United Kingdom",
+    "score": "73.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "125",
+    "name": "Stockholm University",
+    "country": "Sweden",
+    "score": "73.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "126",
+    "name": "Keio University",
+    "country": "Japan",
+    "score": "73.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "126",
+    "name": "Universidad Nacional de Colombia",
+    "country": "Colombia",
+    "score": "73.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "128",
+    "name": "Sungkyunkwan University(SKKU)",
+    "country": "South Korea",
+    "score": "73.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "128",
+    "name": "University of Pittsburgh",
+    "country": "United States",
+    "score": "73.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "130",
+    "name": "Ca' Foscari University of Venice ",
+    "country": "Italy",
+    "score": "73.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "130",
+    "name": "Universitat Aut\u00f2noma de Barcelona",
+    "country": "Spain",
+    "score": "73.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "132",
+    "name": "University of Oslo",
+    "country": "Norway",
+    "score": "73.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "133",
+    "name": "Universidade Estadual de Campinas (Unicamp)",
+    "country": "Brazil",
+    "score": "73.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "133",
+    "name": "Goethe-University Frankfurt am Main",
+    "country": "Germany",
+    "score": "73.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "135",
+    "name": "Uppsala University",
+    "country": "Sweden",
+    "score": "73"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "136",
+    "name": "Cardiff University",
+    "country": "United Kingdom",
+    "score": "72.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "136",
+    "name": "University of Technology Sydney",
+    "country": "Australia",
+    "score": "72.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "138",
+    "name": "Lund University",
+    "country": "Sweden",
+    "score": "72.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "138",
+    "name": "Newcastle University",
+    "country": "United Kingdom",
+    "score": "72.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "138",
+    "name": "University of Groningen",
+    "country": "Netherlands",
+    "score": "72.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "141",
+    "name": "Politecnico di Milano",
+    "country": "Italy",
+    "score": "72.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "142",
+    "name": "University of Lisbon ",
+    "country": "Portugal",
+    "score": "72.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "143",
+    "name": "University of Alberta",
+    "country": "Canada",
+    "score": "72.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "143",
+    "name": "Ghent University",
+    "country": "Belgium",
+    "score": "72.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "145",
+    "name": "HSE University",
+    "country": "Russia",
+    "score": "72.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "146",
+    "name": "Universidad de los Andes",
+    "country": "Colombia",
+    "score": "72.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "146",
+    "name": "Universidade Federal do Rio de Janeiro",
+    "country": "Brazil",
+    "score": "72.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "146",
+    "name": "Universit\u00e4t Hamburg",
+    "country": "Germany",
+    "score": "72.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "146",
+    "name": "University of Liverpool",
+    "country": "United Kingdom",
+    "score": "72.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "150",
+    "name": "Beijing Normal University ",
+    "country": "China (Mainland)",
+    "score": "72"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "150",
+    "name": "Ecole des Hautes Etudes en Sciences Sociales",
+    "country": "France",
+    "score": "72"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "150",
+    "name": "University of California, Santa Barbara (UCSB)",
+    "country": "United States",
+    "score": "72"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "150",
+    "name": "University of Massachusetts Amherst",
+    "country": "United States",
+    "score": "72"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "154",
+    "name": "Michigan State University",
+    "country": "United States",
+    "score": "71.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "155",
+    "name": "Universidad Aut\u00f3noma de Madrid",
+    "country": "Spain",
+    "score": "71.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "155",
+    "name": "Universit\u00e9 de Montr\u00e9al ",
+    "country": "Canada",
+    "score": "71.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "155",
+    "name": "University of Reading",
+    "country": "United Kingdom",
+    "score": "71.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "158",
+    "name": "The University of Western Australia",
+    "country": "Australia",
+    "score": "71.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "159",
+    "name": "University of Milan",
+    "country": "Italy",
+    "score": "71.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "160",
+    "name": "Nanjing University",
+    "country": "China (Mainland)",
+    "score": "71.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "161",
+    "name": "University of G\u00f6ttingen",
+    "country": "Germany",
+    "score": "71.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "162",
+    "name": "Jawaharlal Nehru University",
+    "country": "India",
+    "score": "71.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "162",
+    "name": "Universit\u00e0\u00a0di Padova",
+    "country": "Italy",
+    "score": "71.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "164",
+    "name": "Shanghai Jiao Tong University",
+    "country": "China (Mainland)",
+    "score": "71.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "164",
+    "name": "University of Cologne",
+    "country": "Germany",
+    "score": "71.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "164",
+    "name": "University of Maryland, College Park",
+    "country": "United States",
+    "score": "71.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "164",
+    "name": "Zhejiang University",
+    "country": "China (Mainland)",
+    "score": "71.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "168",
+    "name": "University of Cape Town",
+    "country": "South Africa",
+    "score": "71"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "169",
+    "name": "University of Warsaw ",
+    "country": "Poland",
+    "score": "70.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "170",
+    "name": "Osaka University",
+    "country": "Japan",
+    "score": "70.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "170",
+    "name": "Sciences Po ",
+    "country": "France",
+    "score": "70.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "170",
+    "name": "University of the Arts London",
+    "country": "United Kingdom",
+    "score": "70.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "173",
+    "name": "University of Otago",
+    "country": "New Zealand",
+    "score": "70.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "174",
+    "name": "Universit\u00e0\u00a0Cattolica del Sacro Cuore",
+    "country": "Italy",
+    "score": "70.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "175",
+    "name": "The University of Arizona",
+    "country": "United States",
+    "score": "70.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "176",
+    "name": "University of California, Irvine",
+    "country": "United States",
+    "score": "70.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "177",
+    "name": "Hanyang University",
+    "country": "South Korea",
+    "score": "70.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "177",
+    "name": "Royal Holloway University of London",
+    "country": "United Kingdom",
+    "score": "70.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "179",
+    "name": "Deakin University",
+    "country": "Australia",
+    "score": "70"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "179",
+    "name": "The University of Adelaide",
+    "country": "Australia",
+    "score": "70"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "179",
+    "name": "University of Kent",
+    "country": "United Kingdom",
+    "score": "70"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "179",
+    "name": "University of Lausanne",
+    "country": "Switzerland",
+    "score": "70"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "183",
+    "name": "University of Hawai\u02bbi at M\u0101noa",
+    "country": "United States",
+    "score": "69.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "184",
+    "name": "HUFS - Hankuk (Korea) University of Foreign Studies ",
+    "country": "South Korea",
+    "score": "69.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "184",
+    "name": "Radboud University ",
+    "country": "Netherlands",
+    "score": "69.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "184",
+    "name": "University of Minnesota Twin Cities",
+    "country": "United States",
+    "score": "69.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "184",
+    "name": "York University",
+    "country": "Canada",
+    "score": "69.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "188",
+    "name": "KAIST - Korea Advanced Institute of Science & Technology",
+    "country": "South Korea",
+    "score": "69.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "189",
+    "name": "Charles University",
+    "country": "Czech Republic",
+    "score": "69.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "190",
+    "name": "Queensland University of Technology (QUT)",
+    "country": "Australia",
+    "score": "69.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "191",
+    "name": "Vrije Universiteit Amsterdam",
+    "country": "Netherlands",
+    "score": "69.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "192",
+    "name": "Boston College",
+    "country": "United States",
+    "score": "69.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "193",
+    "name": "Imperial College London",
+    "country": "United Kingdom",
+    "score": "69.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "193",
+    "name": "Pontificia Universidad Javeriana",
+    "country": "Colombia",
+    "score": "69.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "193",
+    "name": "Rice University",
+    "country": "United States",
+    "score": "69.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "193",
+    "name": "Universit\u00e9 du Qu\u00e9bec",
+    "country": "Canada",
+    "score": "69.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "193",
+    "name": "University of Sussex",
+    "country": "United Kingdom",
+    "score": "69.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "198",
+    "name": "University of Illinois at Chicago (UIC)",
+    "country": "United States",
+    "score": "69.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "199",
+    "name": "Birkbeck, University of London",
+    "country": "United Kingdom",
+    "score": "68.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "200",
+    "name": "American University of Beirut (AUB)",
+    "country": "Lebanon",
+    "score": "68.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "200",
+    "name": "University of Navarra",
+    "country": "Spain",
+    "score": "68.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "202",
+    "name": "University of Bern",
+    "country": "Switzerland",
+    "score": "68.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "202",
+    "name": "University of California, Davis",
+    "country": "United States",
+    "score": "68.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "202",
+    "name": "University of Southampton",
+    "country": "United Kingdom",
+    "score": "68.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "202",
+    "name": "Washington University in St. Louis",
+    "country": "United States",
+    "score": "68.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "206",
+    "name": "Arizona State University",
+    "country": "United States",
+    "score": "68.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "206",
+    "name": "The American University in Cairo",
+    "country": "Egypt",
+    "score": "68.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "208",
+    "name": "Queen's University Belfast",
+    "country": "United Kingdom",
+    "score": "68.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "208",
+    "name": "Universitat Pompeu Fabra (Barcelona)",
+    "country": "Spain",
+    "score": "68.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "208",
+    "name": "University of Bergen",
+    "country": "Norway",
+    "score": "68.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "208",
+    "name": "University of Ottawa",
+    "country": "Canada",
+    "score": "68.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "212",
+    "name": "Concordia University",
+    "country": "Canada",
+    "score": "68.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "212",
+    "name": "Oxford Brookes University",
+    "country": "United Kingdom",
+    "score": "68.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "212",
+    "name": "Pontificia Universidad Cat\u00f3lica del Per\u00fa",
+    "country": "Peru",
+    "score": "68.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "215",
+    "name": "Chulalongkorn University",
+    "country": "Thailand",
+    "score": "68.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "215",
+    "name": "Emory University",
+    "country": "United States",
+    "score": "68.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "215",
+    "name": "University of Pisa",
+    "country": "Italy",
+    "score": "68.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "215",
+    "name": "University of Calgary",
+    "country": "Canada",
+    "score": "68.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "219",
+    "name": "Tongji University",
+    "country": "China (Mainland)",
+    "score": "68.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "219",
+    "name": "University of Basel",
+    "country": "Switzerland",
+    "score": "68.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "219",
+    "name": "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster ",
+    "country": "Germany",
+    "score": "68.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "222",
+    "name": "National Taiwan Normal University",
+    "country": "Taiwan",
+    "score": "68"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "222",
+    "name": "University of Salamanca",
+    "country": "Spain",
+    "score": "68"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "224",
+    "name": "Dartmouth College",
+    "country": "United States",
+    "score": "67.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "224",
+    "name": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro",
+    "country": "Brazil",
+    "score": "67.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "224",
+    "name": "Tohoku University",
+    "country": "Japan",
+    "score": "67.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "224",
+    "name": "Wuhan University",
+    "country": "China (Mainland)",
+    "score": "67.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "228",
+    "name": "University of Aberdeen",
+    "country": "United Kingdom",
+    "score": "67.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "229",
+    "name": "George Washington University",
+    "country": "United States",
+    "score": "67.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "229",
+    "name": "Syracuse University",
+    "country": "United States",
+    "score": "67.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "231",
+    "name": "Aristotle University of Thessaloniki",
+    "country": "Greece",
+    "score": "67.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "231",
+    "name": "California Institute of Technology (Caltech)",
+    "country": "United States",
+    "score": "67.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "231",
+    "name": "Loughborough University",
+    "country": "United Kingdom",
+    "score": "67.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "231",
+    "name": "Sun Yat-sen University",
+    "country": "China (Mainland)",
+    "score": "67.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "231",
+    "name": "University of Delhi",
+    "country": "India",
+    "score": "67.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "236",
+    "name": "Jagiellonian University",
+    "country": "Poland",
+    "score": "67.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "236",
+    "name": "University of Antwerp",
+    "country": "Belgium",
+    "score": "67.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "238",
+    "name": "Simon Fraser University",
+    "country": "Canada",
+    "score": "67.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "238",
+    "name": "Tomsk State University",
+    "country": "Russia",
+    "score": "67.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "238",
+    "name": "Universiti Kebangsaan Malaysia (UKM)",
+    "country": "Malaysia",
+    "score": "67.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "241",
+    "name": "The Hebrew University of Jerusalem",
+    "country": "Israel",
+    "score": "67.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "241",
+    "name": "Universite libre de Bruxelles",
+    "country": "Belgium",
+    "score": "67.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "243",
+    "name": "Purdue University",
+    "country": "United States",
+    "score": "67.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "244",
+    "name": "Ewha Womans University",
+    "country": "South Korea",
+    "score": "67"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "244",
+    "name": "Tecnol\u00f3gico de Monterrey",
+    "country": "Mexico",
+    "score": "67"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "246",
+    "name": "University of Gothenburg",
+    "country": "Sweden",
+    "score": "66.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "247",
+    "name": "Universit\u00e4t Konstanz",
+    "country": "Germany",
+    "score": "66.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "247",
+    "name": "University of Iowa",
+    "country": "United States",
+    "score": "66.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "247",
+    "name": "University of Leicester",
+    "country": "United Kingdom",
+    "score": "66.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "250",
+    "name": "Griffith University",
+    "country": "Australia",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "250",
+    "name": "Hong Kong Baptist University",
+    "country": "Hong Kong SAR",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "250",
+    "name": "Texas A&M University",
+    "country": "United States",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "250",
+    "name": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong SAR",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "250",
+    "name": "Universit\u00e4t  Leipzig",
+    "country": "Germany",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "250",
+    "name": "Universiti Sains Malaysia (USM)",
+    "country": "Malaysia",
+    "score": "66.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "256",
+    "name": "Aix-Marseille University",
+    "country": "France",
+    "score": "66.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "256",
+    "name": " Western Sydney University",
+    "country": "Australia",
+    "score": "66.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "258",
+    "name": "Queen's University at Kingston",
+    "country": "Canada",
+    "score": "66.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "258",
+    "name": "University of Wollongong",
+    "country": "Australia",
+    "score": "66.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "260",
+    "name": "University of Florence",
+    "country": "Italy",
+    "score": "66.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "260",
+    "name": "Western University",
+    "country": "Canada",
+    "score": "66.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "262",
+    "name": "Fordham University ",
+    "country": "United States",
+    "score": "66.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "262",
+    "name": "National Chengchi University",
+    "country": "Taiwan",
+    "score": "66.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "262",
+    "name": "Sogang University",
+    "country": "South Korea",
+    "score": "66.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "262",
+    "name": "Universit\u00e9 Paris-Nanterre",
+    "country": "France",
+    "score": "66.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "266",
+    "name": "Karl-Franzens-Universitaet Graz",
+    "country": "Austria",
+    "score": "66.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "266",
+    "name": "La Trobe University",
+    "country": "Australia",
+    "score": "66.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "266",
+    "name": "National Tsing Hua University",
+    "country": "Taiwan",
+    "score": "66.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "269",
+    "name": "Erasmus University Rotterdam ",
+    "country": "Netherlands",
+    "score": "66.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "269",
+    "name": "Georgia Institute of Technology",
+    "country": "United States",
+    "score": "66.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "269",
+    "name": "Universidad Nacional de La Plata (UNLP)",
+    "country": "Argentina",
+    "score": "66.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "269",
+    "name": "University of Canterbury",
+    "country": "New Zealand",
+    "score": "66.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "273",
+    "name": "University of Porto",
+    "country": "Portugal",
+    "score": "66"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "274",
+    "name": "Gadjah Mada University",
+    "country": "Indonesia",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "274",
+    "name": "University of Witwatersrand",
+    "country": "South Africa",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "274",
+    "name": "Ural Federal University - UrFU",
+    "country": "Russia",
+    "score": "65.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "277",
+    "name": "Al-Farabi Kazakh National University",
+    "country": "Kazakhstan",
+    "score": "65.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "277",
+    "name": "Universidade Nova de Lisboa",
+    "country": "Portugal",
+    "score": "65.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "277",
+    "name": "University College Cork",
+    "country": "Ireland",
+    "score": "65.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "277",
+    "name": "University of Florida",
+    "country": "United States",
+    "score": "65.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "281",
+    "name": "McMaster University",
+    "country": "Canada",
+    "score": "65.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "281",
+    "name": "University of Granada",
+    "country": "Spain",
+    "score": "65.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "281",
+    "name": "University of California, Santa Cruz",
+    "country": "United States",
+    "score": "65.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "284",
+    "name": "Rhode Island School of Design (RISD)",
+    "country": "United States",
+    "score": "65.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "284",
+    "name": "Scuola Normale Superiore",
+    "country": "Italy",
+    "score": "65.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "286",
+    "name": "Kyung Hee University",
+    "country": "South Korea",
+    "score": "65.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "286",
+    "name": "Universitas Indonesia",
+    "country": "Indonesia",
+    "score": "65.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "288",
+    "name": "Eindhoven University of Technology",
+    "country": "Netherlands",
+    "score": "65.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "288",
+    "name": "University of Turin",
+    "country": "Italy",
+    "score": "65.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "288",
+    "name": "University of Coimbra",
+    "country": "Portugal",
+    "score": "65.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "288",
+    "name": "University of Tartu",
+    "country": "Estonia",
+    "score": "65.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "288",
+    "name": "Vanderbilt University",
+    "country": "United States",
+    "score": "65.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "293",
+    "name": "Florida State University",
+    "country": "United States",
+    "score": "65.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "293",
+    "name": "National Cheng Kung University (NCKU)",
+    "country": "Taiwan",
+    "score": "65.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "293",
+    "name": "Essex, University of",
+    "country": "United Kingdom",
+    "score": "65.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "296",
+    "name": "Cairo University",
+    "country": "Egypt",
+    "score": "65"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "296",
+    "name": "Technische Universit\u00e4t Berlin (TU Berlin)",
+    "country": "Germany",
+    "score": "65"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "296",
+    "name": "University of Waterloo",
+    "country": "Canada",
+    "score": "65"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "299",
+    "name": "Universidad de Santiago de Chile (USACH)",
+    "country": "Chile",
+    "score": "64.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "299",
+    "name": "University of Rochester",
+    "country": "United States",
+    "score": "64.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "301",
+    "name": "National and Kapodistrian University of Athens",
+    "country": "Greece",
+    "score": "64.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "301",
+    "name": "University of Connecticut",
+    "country": "United States",
+    "score": "64.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "301",
+    "name": "University of Turku",
+    "country": "Finland",
+    "score": "64.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "304",
+    "name": "Johannes Gutenberg Universit\u00e4t Mainz",
+    "country": "Germany",
+    "score": "64.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "304",
+    "name": "University of the Philippines",
+    "country": "Philippines",
+    "score": "64.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "306",
+    "name": "Universit\u00e9 de Strasbourg",
+    "country": "France",
+    "score": "64.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "306",
+    "name": "University of Oregon",
+    "country": "United States",
+    "score": "64.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "306",
+    "name": "Universit\u00e9 de Paris",
+    "country": "France",
+    "score": "64.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "309",
+    "name": "Curtin University",
+    "country": "Australia",
+    "score": "64.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "309",
+    "name": "Rheinische Friedrich-Wilhelms-Universit\u00e4t Bonn",
+    "country": "Germany",
+    "score": "64.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "309",
+    "name": "Universidad de Sevilla",
+    "country": "Spain",
+    "score": "64.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "309",
+    "name": "University of Colorado Boulder",
+    "country": "United States",
+    "score": "64.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "313",
+    "name": "The University of Georgia",
+    "country": "United States",
+    "score": "64.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "313",
+    "name": "University of Naples - Federico II",
+    "country": "Italy",
+    "score": "64.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "313",
+    "name": "University of Bath",
+    "country": "United Kingdom",
+    "score": "64.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "316",
+    "name": "Universit\u00e0 degli studi Roma Tre",
+    "country": "Italy",
+    "score": "64.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "317",
+    "name": "Stellenbosch University",
+    "country": "South Africa",
+    "score": "64.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "318",
+    "name": "European University Institute",
+    "country": "Italy",
+    "score": "64.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "318",
+    "name": "Universidad de Antioquia",
+    "country": "Colombia",
+    "score": "64.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "318",
+    "name": "University at Buffalo SUNY",
+    "country": "United States",
+    "score": "64.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "321",
+    "name": "Universitat de Valencia",
+    "country": "Spain",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "321",
+    "name": "University of Miami",
+    "country": "United States",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "321",
+    "name": "The University of Newcastle, Australia (UON)",
+    "country": "Australia",
+    "score": "64"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "324",
+    "name": "National University of Ireland Galway",
+    "country": "Ireland",
+    "score": "63.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "324",
+    "name": "University of Trento",
+    "country": "Italy",
+    "score": "63.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "324",
+    "name": "Universiti Putra Malaysia (UPM)",
+    "country": "Malaysia",
+    "score": "63.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "324",
+    "name": "University of Southern Denmark (SDU)",
+    "country": "Denmark",
+    "score": "63.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "328",
+    "name": "Swinburne University of Technology",
+    "country": "Australia",
+    "score": "63.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "329",
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "score": "63.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "329",
+    "name": "Universidad Iberoamericana IBERO",
+    "country": "Mexico",
+    "score": "63.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "329",
+    "name": "University of East Anglia (UEA)",
+    "country": "United Kingdom",
+    "score": "63.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "329",
+    "name": "University of Waikato",
+    "country": "New Zealand",
+    "score": "63.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "333",
+    "name": "KTH Royal Institute of Technology ",
+    "country": "Sweden",
+    "score": "63.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "334",
+    "name": "Tokyo Institute of Technology (Tokyo Tech)",
+    "country": "Japan",
+    "score": "63.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "334",
+    "name": "Universidad Aut\u00f3noma Metropolitana (UAM)",
+    "country": "Mexico",
+    "score": "63.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "334",
+    "name": "University of South Australia",
+    "country": "Australia",
+    "score": "63.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "337",
+    "name": "King Abdulaziz University (KAU)",
+    "country": "Saudi Arabia",
+    "score": "63.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "337",
+    "name": "Sophia University ",
+    "country": "Japan",
+    "score": "63.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "339",
+    "name": "Ritsumeikan University",
+    "country": "Japan",
+    "score": "63.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "339",
+    "name": "University of Victoria (UVic)",
+    "country": "Canada",
+    "score": "63.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "341",
+    "name": "Nagoya University",
+    "country": "Japan",
+    "score": "63.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "341",
+    "name": "Tufts University",
+    "country": "United States",
+    "score": "63.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "341",
+    "name": "Universidade de Santiago de Compostela",
+    "country": "Spain",
+    "score": "63.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "341",
+    "name": "UNESP",
+    "country": "Brazil",
+    "score": "63.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "345",
+    "name": "Kazan (Volga region) Federal University",
+    "country": "Russia",
+    "score": "63.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "345",
+    "name": "RUDN University",
+    "country": "Russia",
+    "score": "63.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "345",
+    "name": "Russian State University for the Humanities ",
+    "country": "Russia",
+    "score": "63.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "348",
+    "name": "East China Normal University",
+    "country": "China (Mainland)",
+    "score": "63"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "348",
+    "name": "Loyola University Chicago",
+    "country": "United States",
+    "score": "63"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "348",
+    "name": "Tel Aviv University",
+    "country": "Israel",
+    "score": "63"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "351",
+    "name": "Kyushu University",
+    "country": "Japan",
+    "score": "62.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "351",
+    "name": "Universidad Carlos III de Madrid (UC3M)",
+    "country": "Spain",
+    "score": "62.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "351",
+    "name": "Vrije Universiteit Brussel (VUB)",
+    "country": "Belgium",
+    "score": "62.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "354",
+    "name": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "country": "Chile",
+    "score": "62.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "354",
+    "name": "Umea University",
+    "country": "Sweden",
+    "score": "62.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "354",
+    "name": "Universidade Federal de Minas Gerais      ",
+    "country": "Brazil",
+    "score": "62.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "357",
+    "name": "Lingnan University, Hong Kong",
+    "country": "Hong Kong SAR",
+    "score": "62.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "357",
+    "name": "University of Westminster",
+    "country": "United Kingdom",
+    "score": "62.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "359",
+    "name": "Universidade Federal do Rio Grande Do Sul ",
+    "country": "Brazil",
+    "score": "62.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "359",
+    "name": "University of Rome Tor Vergata",
+    "country": "Italy",
+    "score": "62.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "359",
+    "name": "Universitat Polit\u00e8cnica de Catalunya \u00b7 BarcelonaTech (UPC)",
+    "country": "Spain",
+    "score": "62.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "362",
+    "name": "Maastricht University ",
+    "country": "Netherlands",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "362",
+    "name": "National Chiao Tung University",
+    "country": "Taiwan",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "362",
+    "name": "Universit\u00e0 degli Studi di Pavia",
+    "country": "Italy",
+    "score": "62.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "365",
+    "name": "Kingston University, London",
+    "country": "United Kingdom",
+    "score": "62.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "366",
+    "name": "Georgia State University",
+    "country": "United States",
+    "score": "62.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "366",
+    "name": "Massey University",
+    "country": "New Zealand",
+    "score": "62.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "368",
+    "name": "Dublin City University",
+    "country": "Ireland",
+    "score": "62.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "368",
+    "name": "Universit\u00e4t Innsbruck",
+    "country": "Austria",
+    "score": "62.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "368",
+    "name": "University of Ljubljana",
+    "country": "Slovenia",
+    "score": "62.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "371",
+    "name": "Adam Mickiewicz University, Pozna\u0144",
+    "country": "Poland",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "371",
+    "name": "E\u00f6tv\u00f6s Lor\u00e1nd University",
+    "country": "Hungary",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "371",
+    "name": "The New School",
+    "country": "United States",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "371",
+    "name": "Universidad Diego Portales (UDP)",
+    "country": "Chile",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "371",
+    "name": "Universidad Nacional de C\u00f3rdoba - UNC",
+    "country": "Argentina",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "371",
+    "name": "University of Kansas",
+    "country": "United States",
+    "score": "62.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "377",
+    "name": "Novosibirsk State University",
+    "country": "Russia",
+    "score": "62"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "377",
+    "name": "Universidad de Alcal\u00e1",
+    "country": "Spain",
+    "score": "62"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "379",
+    "name": "University of Genoa",
+    "country": "Italy",
+    "score": "61.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "379",
+    "name": "Washington State University",
+    "country": "United States",
+    "score": "61.9"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "381",
+    "name": "American University",
+    "country": "United States",
+    "score": "61.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "381",
+    "name": "Tampere University",
+    "country": "Finland",
+    "score": "61.8"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "383",
+    "name": "University of Cincinnati",
+    "country": "United States",
+    "score": "61.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "383",
+    "name": "University of Pretoria",
+    "country": "South Africa",
+    "score": "61.7"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "385",
+    "name": "Bogazi\u00e7i \u00dcniversitesi",
+    "country": "Turkey",
+    "score": "61.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "385",
+    "name": "Nottingham Trent University",
+    "country": "United Kingdom",
+    "score": "61.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "385",
+    "name": "Ruhr-Universit\u00e4t Bochum",
+    "country": "Germany",
+    "score": "61.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "385",
+    "name": "Universit\u00e4t Stuttgart",
+    "country": "Germany",
+    "score": "61.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "385",
+    "name": "University of Tasmania",
+    "country": "Australia",
+    "score": "61.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "385",
+    "name": "Universit\u00e9 de Toulouse II-Le Mirail",
+    "country": "France",
+    "score": "61.6"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "391",
+    "name": "Masaryk University",
+    "country": "Czech Republic",
+    "score": "61.5"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "392",
+    "name": "Stony Brook University, State University of New York",
+    "country": "United States",
+    "score": "61.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "392",
+    "name": "Temple University",
+    "country": "United States",
+    "score": "61.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "392",
+    "name": "The Open University",
+    "country": "United Kingdom",
+    "score": "61.4"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "395",
+    "name": "North Carolina State University",
+    "country": "United States",
+    "score": "61.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "395",
+    "name": "Universit\u00e4t Jena",
+    "country": "Germany",
+    "score": "61.3"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "397",
+    "name": "Dalhousie University",
+    "country": "Canada",
+    "score": "61.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "397",
+    "name": "Universit\u00e9 Grenoble Alpes",
+    "country": "France",
+    "score": "61.2"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "399",
+    "name": "El Colegio de M\u00e9xico, A.C.",
+    "country": "Mexico",
+    "score": "61.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "399",
+    "name": "University of Surrey",
+    "country": "United Kingdom",
+    "score": "61.1"
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Ateneo de Manila University",
+    "country": "Philippines",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Auckland University of Technology (AUT)",
+    "country": "New Zealand",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Bilkent University",
+    "country": "Turkey",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Carleton University",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Christian-Albrechts-University zu Kiel",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Doshisha University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Hitotsubashi University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Illinois Institute of Technology",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Indian Institute of Technology Bombay (IITB)",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Indian Institute of Technology Delhi (IITD)",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Kobe University",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universit\u00e9 Laval",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Middle East Technical University",
+    "country": "Turkey",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "National Sun Yat-sen University",
+    "country": "Taiwan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Northeastern University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Northumbria University at Newcastle",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Politecnico di Torino",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Shandong University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Tilburg University",
+    "country": "Netherlands",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Alicante",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universidad de Guadalajara (UDG)",
+    "country": "Mexico",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universidad de la Rep\u00fablica (Udelar)",
+    "country": "Uruguay",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universidad de Zaragoza",
+    "country": "Spain",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universidade Cat\u00f3lica Portuguesa - UCP",
+    "country": "Portugal",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universidade de Bras\u00edlia",
+    "country": "Brazil",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universidade Federal de Santa Catarina ",
+    "country": "Brazil",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Siena",
+    "country": "Italy",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universit\u00e4t Potsdam",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universit\u00e9 Lumi\u00e8re Lyon 2",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universiti Teknologi Malaysia ",
+    "country": "Malaysia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Bucharest",
+    "country": "Romania",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Canberra ",
+    "country": "Australia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": " University of Dundee",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Huddersfield",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Jordan",
+    "country": "Jordan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Jyv\u00e4skyl\u00e4",
+    "country": "Finland",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Universit\u00e9 de Li\u00e8ge",
+    "country": "Belgium",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Limerick",
+    "country": "Ireland",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Manitoba",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Massachusetts Boston",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Missouri, Columbia",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of North Texas",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of South Carolina",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Stirling",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "The University of Tennessee, Knoxville",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Troms\u00f8 The Arctic University of Norway",
+    "country": "Norway",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "University of Tsukuba",
+    "country": "Japan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "Vilnius University ",
+    "country": "Lithuania",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "401-450",
+    "name": "William & Mary",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Aalborg University",
+    "country": "Denmark",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Ain Shams University ",
+    "country": "Egypt",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Amherst College",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Babes-Bolyai University",
+    "country": "Romania",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Beijing Foreign Studies University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Brunel University London",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Chalmers University of Technology",
+    "country": "Sweden",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Chung-Ang University (CAU)",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "City, University of London",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "De La Salle University",
+    "country": "Philippines",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Dongguk University ",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "\u00c9cole Normale Sup\u00e9rieure de Lyon",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "European University at St. Petersburg",
+    "country": "Russia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Flinders University",
+    "country": "Australia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "George Mason University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Hongik University ",
+    "country": "South Korea",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Indian Institute of Technology Madras (IITM)",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Istanbul University",
+    "country": "Turkey",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Jadavpur University",
+    "country": "India",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "King Saud University",
+    "country": "Saudi Arabia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "KIT, Karlsruhe Institute of Technology",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Link\u00f6ping University",
+    "country": "Sweden",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Mahidol University",
+    "country": "Thailand",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Martin-Luther-Universit\u00e4t Halle-Wittenberg",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Nankai University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "National Central University",
+    "country": "Taiwan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "National Taiwan University of Science and Technology (Taiwan Tech)",
+    "country": "Taiwan",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Norwegian University of Science And Technology",
+    "country": "Norway",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Philipps-Universit\u00e4t Marburg ",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Pratt Institute",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Ryerson University",
+    "country": "Canada",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Sichuan University",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Swansea University",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Thammasat University",
+    "country": "Thailand",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Universidad Alberto Hurtado",
+    "country": "Chile",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Universidad de Concepci\u00f3n",
+    "country": "Chile",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Universidad del Valle",
+    "country": "Colombia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Bielefeld University",
+    "country": "Germany",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Paul Val\u00e9ry University Montpellier",
+    "country": "France",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "The University of Alabama",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Belgrade",
+    "country": "Serbia",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Brighton",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Haifa",
+    "country": "Israel",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Johannesburg",
+    "country": "South Africa",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Kwazulu-Natal",
+    "country": "South Africa",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of New Mexico",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Portsmouth",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Science and Technology of China",
+    "country": "China (Mainland)",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Strathclyde",
+    "country": "United Kingdom",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Utah",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "University of Wroclaw",
+    "country": "Poland",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Virginia Commonwealth University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Virginia Polytechnic Institute and State University",
+    "country": "United States",
+    "score": ""
+  },
+  {
+    "year": "2020",
+    "category": "arts_and_humanities",
+    "rank": "451-500",
+    "name": "Xiamen University",
+    "country": "China (Mainland)",
+    "score": ""
+  }
+]

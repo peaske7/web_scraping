@@ -1,0 +1,23 @@
+{
+  "school_name": "university of pennsylvania",
+  "school_forbes_uri": "university-of-pennsylvania",
+  "school_forbes_abs_uri": "https://www.forbes.com/colleges/university-of-pennsylvania",
+  "rankings": [
+    {
+      "category_name": "Best Employers for New Grads 2021",
+      "category_ranking": "211"
+    },
+    {
+      "category_name": "America's Best Employers 2021",
+      "category_ranking": "92"
+    },
+    { "category_name": "Top Colleges 2019", "category_ranking": "6" },
+    { "category_name": "In Private Colleges", "category_ranking": "6" },
+    { "category_name": "In Research Universities", "category_ranking": "6" },
+    { "category_name": "In The Northeast", "category_ranking": "5" },
+    {
+      "category_name": "America's Best Value Colleges 2019",
+      "category_ranking": "83"
+    }
+  ]
+}

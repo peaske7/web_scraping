@@ -1,0 +1,57 @@
+world university rankings
+	2019
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/397863.txt?1625009603?v=1625018924236
+	2020
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/914824.txt?1625018950?v=1625018964695
+	2021
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2057712.txt?1625010596?v=1625018995864
+us rankings
+	2020
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2055940.txt?1625018870?v=1625018881053
+	2021
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3738856.txt?1625018650?v=1625018717544
+arts & humanities
+	2018
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379677.txt?1625019036?v=1625019049448
+	2019
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894231.txt?1625019064?v=1625019078658
+	2020
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005415.txt?1625019094?v=1625019106189
+	2021
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518694.txt?1625013961?v=1625018714660
+life sciences & medicine
+	2018
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379679.txt?1625019213?v=1625019225313
+	2019
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894233.txt?1625019172?v=1625019196141
+	2020
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005417.txt?1625019138?v=1625019151312
+	2021
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518596.txt?1624891888?v=1625018717339
+social sciences & management
+	2018
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379681.txt?1625019272?v=1625019296184
+	2019
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894235.txt?1625019397?v=1625019415049
+	2020
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005419.txt?1625019445?v=1625019467182
+	2021
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518490.txt?1624946112?v=1625019553334
+natural sciences
+	2018
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379680.txt?1625019258?v=1625019278792
+	2019
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894234.txt?1625019319?v=1625019359287
+	2020
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005418.txt?1625019387?v=1625019405172
+	2021
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518540.txt?1625018650?v=1625018720746
+engineering & technology
+	2018
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/379678.txt?1625019614?v=1625019633672
+	2019
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/894232.txt?1625019583?v=1625019599868
+	2020
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/2005416.txt?1625019493?v=1625019513902
+	2021
+		https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3518640.txt?1625018647?v=1625019569873
