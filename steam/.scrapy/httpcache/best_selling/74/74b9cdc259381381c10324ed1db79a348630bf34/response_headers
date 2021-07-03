@@ -1,0 +1,7 @@
+Server: nginx
+Content-Type: text/plain; charset=utf-8
+Cache-Control: public,max-age=28800
+Expires: Sat, 03 Jul 2021 19:46:42 GMT
+Last-Modified: Tue, 14 Jul 2020 23:15:26 GMT
+Strict-Transport-Security: max-age=300
+Date: Sat, 03 Jul 2021 14:02:32 GMT
