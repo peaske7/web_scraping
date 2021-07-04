@@ -20,3 +20,13 @@ Some projects stand out to me as either having required knowledge of a new techn
 - [This project](https://github.com/DrPoppyseed/web_scraping/tree/main/steam): Flask app that scrapes the top 100 best sellings Steam games whenever the app is opened (using scrapyRT)
 - [This project](https://github.com/DrPoppyseed/web_scraping/tree/main/sanfranciscan): scrapes data from the sanfranciscan website, cleans, and outputs them in word documents
 - [And finally, this project](https://github.com/DrPoppyseed/web_scraping/tree/main/shanghairanking): a failed attempt at trying to scrape the shanghairanking site using scrapy-splash. Next attempt would use Selenium, smarter sleeping between accesses, and IP rotation maybe (though including sleeping pauses may be enough)
+
+## The stuff I used
+Here are the frameworks and libraries I used in this repo.
+
+| Stuff used | Description                                                   |
+| ----------------- | ------------------------------------------------------------- |
+| Scrapy         | Building web scrapers fast!                     |
+| Splash (+Aquarium)         | Rendering Javascript heavy websites!            |
+| Tkinter           | For builing a simple desktop app                     |
+| Flask           | For builing a simple web app                     |
