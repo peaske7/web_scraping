@@ -1,0 +1,625 @@
+{
+  "name": "Top Colleges",
+  "year": 2019,
+  "month": 8,
+  "uri": "harvard-university",
+  "description": "The first institution of higher learning in the U.S., Harvard University is often viewed as the gold standard for higher education. Part of nearly four centuries of academic excellence, undergraduate students at Harvard can choose from 50 concentrations, participate in world-class research opportunities, or take advantage of the largest academic library in the world. Students at Harvard can also delve into history: the university's museums are stewards of more than 28 million works of art, artifacts, specimens, materials and instruments. With the largest academic endowment in the world, valued at nearly $40 billion, Harvard offers several financial-aid options for students. The school’s admission policy ensures all admitted students will be able to afford a Harvard education. The Harvard College financial-aid program requires no contribution from families with annual incomes below $65,000. More than half the students at Harvard receive need-based scholarship aid. Students come from all 50 states and over 80 different countries. With over 400 different student organizations on campus, students at the university can choose from a wide variety of activities. Harvard also has a unique housing system: freshmen are expected to live in one of the dormitories in Harvard Yard and eat in Annenberg dining hall, but, after their first year, students are sorted into one of 12 houses on campus. Students typically continue to live in the house for the remainder of their time at Harvard, with 97% of students choosing to live on campus all four years. Harvard boasts numerous notable alumni, such as former Vice President Al Gore, Airbnb cofounder Nathan Blecharczyk, former Microsoft CEO Steve Ballmer,  legendary cellist Yo-Yo Ma, and actor Natalie Portman. Some of Harvard’s most successful alumni were dropouts, like Microsoft founder Bill Gates, Facebook founder Mark Zuckerberg and actor Matt Damon.",
+  "rank": 1,
+  "listUri": "top-colleges",
+  "organization": {
+    "name": "Harvard University",
+    "uri": "harvard-university",
+    "imageExists": true,
+    "squareImage": "http://specials-images.forbesimg.com/imageserve/559d7155e4b05c2c3431c0a3/416x416.jpg?background=000000&cropX1=0&cropX2=416&cropY1=0&cropY2=416"
+  },
+  "visible": true,
+  "position": 1,
+  "organizationName": "Harvard University",
+  "state": "MA",
+  "studentPopulation": 31120,
+  "undergraduatePopulation": 13844,
+  "studentToFacultyRatio": "7",
+  "graduationRate": 84.0,
+  "totalAnnualCost": 69600.0,
+  "inStateTuition": 69600.0,
+  "outOfStateTuition": 69600.0,
+  "percentOnFinancialAid": 72.0,
+  "percentAdmitted": 5.0,
+  "satCompositeRange": "1460-1590",
+  "privateCollegesRank": 1,
+  "researchUniversitiesRank": 1,
+  "regionRank": 1,
+  "attendanceStatus": [
+    {
+      "key": "partTime",
+      "value": 33.0
+    },
+    {
+      "key": "fullTime",
+      "value": 67.0
+    }
+  ],
+  "timestamp": 1572974232426,
+  "version": 7,
+  "naturalId": "fred/colleges/col/2019/8",
+  "academics": {
+    "type": "Private not-for-profit",
+    "carnegieClassification": "Doctoral Universities: Highest Research Activity",
+    "studentFacultyRatio": "7",
+    "totalStudentPopulation": 31120,
+    "undergraduatePopulation": 13844,
+    "attendanceStatus": [
+      {
+        "key": "partTime",
+        "value": 33.0
+      },
+      {
+        "key": "fullTime",
+        "value": 67.0
+      }
+    ],
+    "firstToSecondYearRetention": [
+      {
+        "key": "fullTime",
+        "value": 98.0
+      }
+    ],
+    "overallGraduationRates": [
+      {
+        "key": "4",
+        "value": 84.0
+      },
+      {
+        "key": "6",
+        "value": 96.0
+      }
+    ],
+    "enrollmentByGender": [
+      {
+        "key": "enrollmentMale",
+        "value": 50.0
+      },
+      {
+        "key": "enrollmentFemale",
+        "value": 50.0
+      },
+      {
+        "key": "AgeUnder18",
+        "value": 2.0
+      },
+      {
+        "key": "Age18to24",
+        "value": 77.0
+      },
+      {
+        "key": "Age25to64",
+        "value": 1.0
+      },
+      {
+        "key": "Age65andOver",
+        "value": 0.0
+      }
+    ],
+    "graduationRateByGender": [
+      {
+        "key": "graduationMale",
+        "value": 95.0
+      },
+      {
+        "key": "graduationFemale",
+        "value": 98.0
+      }
+    ],
+    "enrollmentByRace": [
+      {
+        "key": "americanIndian",
+        "value": 0.3
+      },
+      {
+        "key": "asian",
+        "value": 20.4
+      },
+      {
+        "key": "hawaiianPacific",
+        "value": 0.1
+      },
+      {
+        "key": "africanAmerican",
+        "value": 6.2
+      },
+      {
+        "key": "hispanic",
+        "value": 11.4
+      },
+      {
+        "key": "white",
+        "value": 44.5
+      },
+      {
+        "key": "twoRaces",
+        "value": 5.4
+      },
+      {
+        "key": "unknown",
+        "value": 3.5
+      },
+      {
+        "key": "alien",
+        "value": 8.2
+      }
+    ],
+    "graduationRateByRace": [
+      {
+        "key": "americanIndian",
+        "value": 100.0
+      },
+      {
+        "key": "asian",
+        "value": 96.0
+      },
+      {
+        "key": "hawaiianPacific",
+        "value": 100.0
+      },
+      {
+        "key": "africanAmerican",
+        "value": 97.0
+      },
+      {
+        "key": "hispanic",
+        "value": 96.0
+      },
+      {
+        "key": "white",
+        "value": 97.0
+      },
+      {
+        "key": "twoRaces",
+        "value": 98.0
+      },
+      {
+        "key": "unknown",
+        "value": 92.0
+      },
+      {
+        "key": "alien",
+        "value": 97.0
+      }
+    ]
+  },
+  "admissions": {
+    "undergraduateAppFee": 75.0,
+    "applications": [
+      {
+        "key": "total",
+        "value1": {
+          "key": "numberApplicants",
+          "value": 39506.0
+        },
+        "value2": {
+          "key": "percentAdmitted",
+          "value": 5.0
+        },
+        "value3": {
+          "key": "percentEnrolled",
+          "value": 83.0
+        }
+      },
+      {
+        "key": "male",
+        "value1": {
+          "key": "numberApplicants",
+          "value": 19782.0
+        },
+        "value2": {
+          "key": "percentAdmitted",
+          "value": 5.0
+        },
+        "value3": {
+          "key": "percentEnrolled",
+          "value": 82.0
+        }
+      },
+      {
+        "key": "female",
+        "value1": {
+          "key": "numberApplicants",
+          "value": 19724.0
+        },
+        "value2": {
+          "key": "percentAdmitted",
+          "value": 5.0
+        },
+        "value3": {
+          "key": "percentEnrolled",
+          "value": 83.0
+        }
+      }
+    ],
+    "actscoreEnteringClass": [
+      {
+        "key": "25Percentile",
+        "value1": {
+          "key": "composite",
+          "value": 32.0
+        },
+        "value2": {
+          "key": "reading",
+          "value": 34.0
+        },
+        "value3": {
+          "key": "math",
+          "value": 31.0
+        },
+        "value4": {
+          "key": "writing"
+        }
+      },
+      {
+        "key": "75Percentile",
+        "value1": {
+          "key": "composite",
+          "value": 35.0
+        },
+        "value2": {
+          "key": "reading",
+          "value": 36.0
+        },
+        "value3": {
+          "key": "math",
+          "value": 35.0
+        },
+        "value4": {
+          "key": "writing"
+        }
+      }
+    ],
+    "percentAppSummittingACT": 53.0,
+    "percentAppSummittingSAT": 67.0,
+    "satscoreEnteringClass": [
+      {
+        "key": "25Percentile",
+        "value1": {
+          "key": "composite",
+          "value": 1460.0
+        },
+        "value2": {
+          "key": "reading",
+          "value": 730.0
+        },
+        "value3": {
+          "key": "math",
+          "value": 730.0
+        },
+        "value4": {
+          "key": "writing"
+        }
+      },
+      {
+        "key": "75Percentile",
+        "value1": {
+          "key": "composite",
+          "value": 1590.0
+        },
+        "value2": {
+          "key": "reading",
+          "value": 790.0
+        },
+        "value3": {
+          "key": "math",
+          "value": 800.0
+        },
+        "value4": {
+          "key": "writing"
+        }
+      }
+    ]
+  },
+  "athletics": {
+    "headCoachesSalaries": [
+      {
+        "key": "average",
+        "value1": {
+          "key": "menCoaches"
+        },
+        "value2": {
+          "key": "womenCoaches"
+        }
+      },
+      {
+        "key": "total",
+        "value1": {
+          "key": "menCoaches"
+        },
+        "value2": {
+          "key": "womenCoaches"
+        }
+      }
+    ],
+    "expensesByTeams": [
+      {
+        "key": "basketball",
+        "value1": {
+          "key": "menTeams"
+        },
+        "value2": {
+          "key": "womenTeams"
+        },
+        "value3": {
+          "key": "total"
+        }
+      },
+      {
+        "key": "football",
+        "value1": {
+          "key": "total"
+        }
+      },
+      {
+        "key": "allSports",
+        "value1": {
+          "key": "menTeams"
+        },
+        "value2": {
+          "key": "womenTeams"
+        },
+        "value3": {
+          "key": "total"
+        }
+      }
+    ],
+    "revenuesByTeam": [
+      {
+        "key": "basketball",
+        "value1": {
+          "key": "menTeams"
+        },
+        "value2": {
+          "key": "womenTeams"
+        },
+        "value3": {
+          "key": "total"
+        }
+      },
+      {
+        "key": "football",
+        "value1": {
+          "key": "total"
+        }
+      },
+      {
+        "key": "allSports",
+        "value1": {
+          "key": "menTeams"
+        },
+        "value2": {
+          "key": "womenTeams"
+        },
+        "value3": {
+          "key": "total"
+        }
+      }
+    ]
+  },
+  "studentLife": {
+    "calendarSystem": "Semester",
+    "studentResidence": [
+      {
+        "key": "inState",
+        "value": "64"
+      },
+      {
+        "key": "outOfState",
+        "value": "34"
+      },
+      {
+        "key": "foreign",
+        "value": "2"
+      },
+      {
+        "key": "unknown",
+        "value": "1"
+      },
+      {
+        "key": "ReligiousAffiliation",
+        "value": "Not applicable"
+      }
+    ],
+    "campusHousingOffered": "Yes"
+  },
+  "tuition": {
+    "tuitionData": [
+      {
+        "key": "inState",
+        "value": 69600.0
+      },
+      {
+        "key": "outOfState",
+        "value": 69600.0
+      },
+      {
+        "key": "booksAndSuplies",
+        "value": 1000.0
+      },
+      {
+        "key": "netPrice",
+        "value": 14327.0
+      }
+    ],
+    "livingExpenses": [
+      {
+        "key": "onCampus",
+        "value1": {
+          "key": "roomAndBoard",
+          "value": 16660.0
+        },
+        "value2": {
+          "key": "otherExpenses",
+          "value": 2991.0
+        }
+      },
+      {
+        "key": "offCampus",
+        "value1": {
+          "key": "roomAndBoard"
+        },
+        "value2": {
+          "key": "otherExpenses"
+        }
+      },
+      {
+        "key": "offCampusFamily",
+        "value1": {
+          "key": "otherExpenses"
+        }
+      }
+    ],
+    "totalCost": [
+      {
+        "key": "onCampus",
+        "value1": {
+          "key": "inState",
+          "value": 69600.0
+        },
+        "value2": {
+          "key": "outOfState",
+          "value": 69600.0
+        }
+      },
+      {
+        "key": "offCampus",
+        "value1": {
+          "key": "inState"
+        },
+        "value2": {
+          "key": "outOfState"
+        }
+      },
+      {
+        "key": "offCampusFamily",
+        "value1": {
+          "key": "inState"
+        },
+        "value2": {
+          "key": "outOfState"
+        }
+      }
+    ]
+  },
+  "financialAid": {
+    "totalGrantAid": 1.92344629e8,
+    "percentOfStudentsFinAid": 72.0,
+    "percentOfStudentsGrant": 56.0,
+    "grantAidByType": [
+      {
+        "key": "federalGrant",
+        "value": 15.0
+      },
+      {
+        "key": "pellGrant",
+        "value": 15.0
+      },
+      {
+        "key": "otherFederalGrant",
+        "value": 10.0
+      },
+      {
+        "key": "stateLocalGrant",
+        "value": 3.0
+      },
+      {
+        "key": "institutionalGrant",
+        "value": 55.0
+      }
+    ],
+    "avgGrantAidByType": [
+      {
+        "key": "anyGrant",
+        "value": 49870.0
+      },
+      {
+        "key": "federalGrant",
+        "value": 7389.0
+      },
+      {
+        "key": "pellGrant",
+        "value": 4659.0
+      },
+      {
+        "key": "otherFederalGrant",
+        "value": 3954.0
+      },
+      {
+        "key": "stateLocalGrant",
+        "value": 2729.0
+      },
+      {
+        "key": "institutionalGrant",
+        "value": 48524.0
+      }
+    ],
+    "loansByType": [
+      {
+        "key": "anyLoan",
+        "value": 9.0
+      },
+      {
+        "key": "federalLoan",
+        "value": 3.0
+      },
+      {
+        "key": "nonFederalLoan",
+        "value": 8.0
+      }
+    ],
+    "avgLoansByType": [
+      {
+        "key": "anyLoan",
+        "value": 7372.0
+      },
+      {
+        "key": "federalLoan",
+        "value": 5133.0
+      },
+      {
+        "key": "nonFederalLoan",
+        "value": 6764.0
+      }
+    ]
+  },
+  "imageExists": true,
+  "country": "United States",
+  "region": "Northeast",
+  "date": 1565841600000,
+  "campusSetting": "Urban",
+  "powerFactory": false,
+  "medianBaseSalary": 146800.0,
+  "salary": 74800.0,
+  "city": "Cambridge",
+  "actCompositeRange": "32-35",
+  "thumbnail": "http://specials-images.forbesimg.com/imageserve/559d7155e4b05c2c3431c0a3/280x425.jpg?fit=scale&background=000000",
+  "squareImage": "http://specials-images.forbesimg.com/imageserve/559d7155e4b05c2c3431c0a3/416x416.jpg?background=000000&cropX1=0&cropX2=416&cropY1=0&cropY2=416",
+  "csfDisplayFields": [
+    "rank",
+    "organizationName",
+    "state",
+    "totalAnnualCost",
+    "academics.studentPopulation",
+    "description"
+  ],
+  "geoLocation": {
+    "longitude": -71.112957,
+    "latitude": 42.374699
+  },
+  "yearFounded": 1636,
+  "phoneNumber": "617-495-1000",
+  "webSite": "www.harvard.edu",
+  "street": "Holyoke Center",
+  "stateCode": "MA",
+  "zipCode": "02138",
+  "email": "info_center@harvard.edu",
+  "requiredToLiveOnCampus": true,
+  "totalDormitoryCapacity": 13723,
+  "shortDescription": "14 billionaires on the Forbes 400 are Harvard alumni, including one of the nation's youngest, 32-year-old Airbnb cofounder Nathan Blecharczyk.",
+  "fastFacts": "98% __ Graduation rate for international students"
+}

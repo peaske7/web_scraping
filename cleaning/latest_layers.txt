@@ -1,0 +1,4 @@
+./cwur/layer_2_output.json
+./forbes/layer_3_output.json
+./qs/layer_4_output.json
+./the/layer_4_output.json

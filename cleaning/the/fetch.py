@@ -1,7 +1,9 @@
-import requests
-from time import sleep
-import random
+import json
 import os.path
+import random
+from time import sleep
+
+import requests
 
 fname = "./the.all_endpoints.txt"
 
@@ -9,7 +11,6 @@ fname = "./the.all_endpoints.txt"
 def read(fname):
     f = open(fname, "r")
     endpoints = f.readlines()
-    print(len(endpoints))
     return endpoints
 
 
@@ -19,12 +20,14 @@ def call_endpoints(endpoints_list):
     headers = {
         "Cookie": "geoCountry=JP; siteCountry=GB",
         "Cache-Control": "no-cache",
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9",
         "referer": "https://www.timeshighereducation.com/world-university-rankings/2021/world-ranking",
-        "Accept": "*/*",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
         "Connection": "keep-alive",
     }
     payload = {}
+
+    error_endpoints = []
 
     while i < length:
         url = endpoints_list[i].strip()
@@ -36,20 +39,31 @@ def call_endpoints(endpoints_list):
 
         # if file does not exist, fetch and create new file
         if not os.path.isfile(new_fname):
-            sleep(random.random() * 4)
+            sleep(random.randrange(2,5))
             response = requests.request(
                 "GET",
                 url=url,
                 headers=headers,
                 data=payload,
             )
-            with open(new_fname, "w+") as outfile:
-                outfile.write(response.text.encode().decode("unicode-escape"))
-        # if file exists, skip
+            if response.text == '404: Not Found.':
+                print(f"404 response for {new_fname}")
+                error_endpoints.append(new_fname)
+            else:
+                with open(new_fname, "w+") as outfile:
+                    outfile.write(response.text.encode().decode("unicode-escape"))
+                print(f"{new_fname} successfully created!")
+                if new_fname in error_endpoints:
+                    error_endpoints.remove(new_fname)
         else:
             print(f"file {new_fname} already exists")
-
         i += 1
+
+    errors_fname = 'layer_1_error_endpoints.json'
+    with open(errors_fname, 'w+') as errorfile:
+        errorfile.write(json.dumps(error_endpoints))
+
+    # call again ?
 
 
 def main():

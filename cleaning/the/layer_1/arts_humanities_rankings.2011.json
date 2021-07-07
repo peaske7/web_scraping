@@ -29,6 +29,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-48698023",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-48698023&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-48698023",
+        "text": "Courses"
       }
     },
     {
@@ -55,7 +59,11 @@
       "aliases": "Stanford University",
       "subjects_offered": "Languages, Literature & Linguistics,Archaeology,History, Philosophy & Theology,Architecture,Art, Performing Arts & Design",
       "closed": false,
-      "unaccredited": false
+      "unaccredited": false,
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-35756672&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-35756672",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "3",
@@ -86,6 +94,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-20795402",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-20795402&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-20795402",
+        "text": "Courses"
       }
     },
     {
@@ -112,7 +124,11 @@
       "aliases": "The University of Chicago",
       "subjects_offered": "Archaeology,Art, Performing Arts & Design,Languages, Literature & Linguistics,History, Philosophy & Theology",
       "closed": false,
-      "unaccredited": false
+      "unaccredited": false,
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-33619812&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-33619812",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "5",
@@ -143,6 +159,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-92611101",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-92611101&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-92611101",
+        "text": "Courses"
       }
     },
     {
@@ -174,6 +194,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-67516113",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-67516113&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-67516113",
+        "text": "Courses"
       }
     },
     {
@@ -205,6 +229,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-62830784",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-62830784&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-62830784",
+        "text": "Courses"
       }
     },
     {
@@ -236,6 +264,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-50018853",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-50018853&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-50018853",
+        "text": "Courses"
       }
     },
     {
@@ -267,6 +299,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-73583889",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-73583889&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-73583889",
+        "text": "Courses"
       }
     },
     {
@@ -298,6 +334,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-15171793",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-15171793&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-15171793",
+        "text": "Courses"
       }
     },
     {
@@ -329,6 +369,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-95508882",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-95508882&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-95508882",
+        "text": "Courses"
       }
     },
     {
@@ -356,7 +400,11 @@
       "subjects_offered": "Archaeology,Languages, Literature & Linguistics,Art, Performing Arts & Design,History, Philosophy & Theology,Architecture",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/register-interest/applyboard?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-67051171"
+      "apply_link": "https://www.timeshighereducation.com/student/register-interest/applyboard?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-67051171",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-67051171&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-67051171",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "13",
@@ -387,6 +435,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-98611775",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-98611775&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-98611775",
+        "text": "Courses"
       }
     },
     {
@@ -414,7 +466,11 @@
       "subjects_offered": "History, Philosophy & Theology,Art, Performing Arts & Design,Archaeology,Languages, Literature & Linguistics",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/register-interest/aecc?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-78601931"
+      "apply_link": "https://www.timeshighereducation.com/student/register-interest/aecc?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-78601931",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-78601931&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-78601931",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "15",
@@ -445,6 +501,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-53177321",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-53177321&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-53177321",
+        "text": "Courses"
       }
     },
     {
@@ -476,6 +536,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-61465682",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-61465682&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-61465682",
+        "text": "Courses"
       }
     },
     {
@@ -507,6 +571,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-70313321",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-70313321&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-70313321",
+        "text": "Courses"
       }
     },
     {
@@ -538,6 +606,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-73524078",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-73524078&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-73524078",
+        "text": "Courses"
       }
     },
     {
@@ -569,6 +641,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-48987672",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-48987672&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-48987672",
+        "text": "Courses"
       }
     },
     {
@@ -600,6 +676,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-44428293",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-44428293&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-44428293",
+        "text": "Courses"
       }
     },
     {
@@ -627,7 +707,11 @@
       "subjects_offered": "Archaeology,Architecture,Art, Performing Arts & Design,Languages, Literature & Linguistics,History, Philosophy & Theology",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/register-interest/applyboard?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-09910272"
+      "apply_link": "https://www.timeshighereducation.com/student/register-interest/applyboard?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-09910272",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-09910272&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-09910272",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "22",
@@ -654,7 +738,11 @@
       "subjects_offered": "Art, Performing Arts & Design,Architecture,Languages, Literature & Linguistics,Archaeology,History, Philosophy & Theology",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/register-interest/aecc?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-84190491"
+      "apply_link": "https://www.timeshighereducation.com/student/register-interest/aecc?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-84190491",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-84190491&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-84190491",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "23",
@@ -685,6 +773,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-95855921",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-95855921&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-95855921",
+        "text": "Courses"
       }
     },
     {
@@ -716,6 +808,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-31733092",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-31733092&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-31733092",
+        "text": "Courses"
       }
     },
     {
@@ -742,7 +838,11 @@
       "aliases": "University of Sydney UniSyd",
       "subjects_offered": "History, Philosophy & Theology,Architecture,Art, Performing Arts & Design,Languages, Literature & Linguistics,Archaeology",
       "closed": false,
-      "unaccredited": false
+      "unaccredited": false,
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-42598531&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-42598531",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "26",
@@ -773,6 +873,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-89868061",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-89868061&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-89868061",
+        "text": "Courses"
       }
     },
     {
@@ -804,6 +908,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-10310643",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-10310643&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-10310643",
+        "text": "Courses"
       }
     },
     {
@@ -831,7 +939,11 @@
       "subjects_offered": "",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/register-interest/shorelight?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-13260823"
+      "apply_link": "https://www.timeshighereducation.com/student/register-interest/shorelight?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-13260823",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-13260823&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-13260823",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "29",
@@ -858,7 +970,11 @@
       "subjects_offered": "Archaeology,Architecture,Art, Performing Arts & Design,Languages, Literature & Linguistics,History, Philosophy & Theology",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/register-interest/siuk?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-29944014"
+      "apply_link": "https://www.timeshighereducation.com/student/register-interest/siuk?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-29944014",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-29944014&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-29944014",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "29",
@@ -889,6 +1005,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-47263781",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-47263781&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-47263781",
+        "text": "Courses"
       }
     },
     {
@@ -916,7 +1036,11 @@
       "subjects_offered": "Architecture,Languages, Literature & Linguistics,History, Philosophy & Theology,Art, Performing Arts & Design",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/register-interest/shorelight?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-17534252"
+      "apply_link": "https://www.timeshighereducation.com/student/register-interest/shorelight?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-17534252",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-17534252&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-17534252",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "31",
@@ -947,6 +1071,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-49618222",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-49618222&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-49618222",
+        "text": "Courses"
       }
     },
     {
@@ -978,6 +1106,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-46645881",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-46645881&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-46645881",
+        "text": "Courses"
       }
     },
     {
@@ -1004,7 +1136,11 @@
       "aliases": "Leiden University",
       "subjects_offered": "Languages, Literature & Linguistics,History, Philosophy & Theology,Art, Performing Arts & Design,Archaeology",
       "closed": false,
-      "unaccredited": false
+      "unaccredited": false,
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-19118802&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-19118802",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "34",
@@ -1034,6 +1170,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/free-documents-verification-service?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-95814621",
         "text": "Verify Documents"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-95814621&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-95814621",
+        "text": "Courses"
       }
     },
     {
@@ -1060,7 +1200,41 @@
       "aliases": "Humboldt University of Berlin",
       "subjects_offered": "Archaeology,History, Philosophy & Theology,Art, Performing Arts & Design,Languages, Literature & Linguistics",
       "closed": false,
-      "unaccredited": false
+      "unaccredited": false,
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-97516374&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-97516374",
+        "text": "Courses"
+      }
+    },
+    {
+      "rank_order": "37",
+      "rank": "37",
+      "name": "KU Leuven",
+      "scores_overall": "58.3",
+      "scores_overall_rank": "37",
+      "scores_teaching": "62.9",
+      "scores_teaching_rank": "33",
+      "scores_international_outlook": "41.6",
+      "scores_international_outlook_rank": "36",
+      "scores_industry_income": "93.7",
+      "scores_industry_income_rank": "3",
+      "scores_research": "56.2",
+      "scores_research_rank": "43",
+      "scores_citations": "52.6",
+      "scores_citations_rank": "26",
+      "record_type": "master_account",
+      "member_level": "11",
+      "url": "/world-university-rankings/ku-leuven",
+      "nid": 531,
+      "location": "Belgium",
+      "aliases": "KU Leuven",
+      "subjects_offered": "History, Philosophy & Theology,Art, Performing Arts & Design,Architecture,Languages, Literature & Linguistics,Archaeology",
+      "closed": false,
+      "unaccredited": false,
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-14499434&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-14499434",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "37",
@@ -1087,33 +1261,11 @@
       "subjects_offered": "History, Philosophy & Theology,Architecture,Languages, Literature & Linguistics,Art, Performing Arts & Design,Archaeology",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/register-interest/shorelight?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-88328014"
-    },
-    {
-      "rank_order": "37",
-      "rank": "37",
-      "name": "KU Leuven",
-      "scores_overall": "58.3",
-      "scores_overall_rank": "37",
-      "scores_teaching": "62.9",
-      "scores_teaching_rank": "33",
-      "scores_international_outlook": "41.6",
-      "scores_international_outlook_rank": "36",
-      "scores_industry_income": "93.7",
-      "scores_industry_income_rank": "3",
-      "scores_research": "56.2",
-      "scores_research_rank": "43",
-      "scores_citations": "52.6",
-      "scores_citations_rank": "26",
-      "record_type": "master_account",
-      "member_level": "11",
-      "url": "/world-university-rankings/ku-leuven",
-      "nid": 531,
-      "location": "Belgium",
-      "aliases": "KU Leuven",
-      "subjects_offered": "History, Philosophy & Theology,Art, Performing Arts & Design,Architecture,Languages, Literature & Linguistics,Archaeology",
-      "closed": false,
-      "unaccredited": false
+      "apply_link": "https://www.timeshighereducation.com/student/register-interest/shorelight?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-88328014",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-88328014&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-88328014",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "39",
@@ -1139,7 +1291,11 @@
       "aliases": "University of Amsterdam uva",
       "subjects_offered": "Art, Performing Arts & Design,Archaeology,Languages, Literature & Linguistics,History, Philosophy & Theology",
       "closed": false,
-      "unaccredited": false
+      "unaccredited": false,
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-89925363&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-89925363",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "40",
@@ -1169,6 +1325,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-27192485",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-27192485&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-27192485",
+        "text": "Courses"
       }
     },
     {
@@ -1200,6 +1360,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-69587594",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-69587594&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-69587594",
+        "text": "Courses"
       }
     },
     {
@@ -1231,6 +1395,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-26274852",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-26274852&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-26274852",
+        "text": "Courses"
       }
     },
     {
@@ -1258,7 +1426,11 @@
       "subjects_offered": "History, Philosophy & Theology,Architecture,Languages, Literature & Linguistics,Archaeology,Art, Performing Arts & Design",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/register-interest/siuk?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-24885315"
+      "apply_link": "https://www.timeshighereducation.com/student/register-interest/siuk?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-24885315",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-24885315&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-24885315",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "44",
@@ -1289,6 +1461,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-26364423",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-26364423&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-26364423",
+        "text": "Courses"
       }
     },
     {
@@ -1320,6 +1496,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-62118223",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-62118223&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-62118223",
+        "text": "Courses"
       }
     },
     {
@@ -1351,6 +1531,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-44947751",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-44947751&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-44947751",
+        "text": "Courses"
       }
     },
     {
@@ -1378,7 +1562,11 @@
       "subjects_offered": "Languages, Literature & Linguistics,Archaeology,Architecture,History, Philosophy & Theology,Art, Performing Arts & Design",
       "closed": false,
       "unaccredited": false,
-      "apply_link": "https://www.timeshighereducation.com/student/into-university-partnerships?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-84754683"
+      "apply_link": "https://www.timeshighereducation.com/student/into-university-partnerships?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-84754683",
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-84754683&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-84754683",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "48",
@@ -1404,7 +1592,11 @@
       "aliases": "Tilburg University",
       "subjects_offered": "History, Philosophy & Theology,Languages, Literature & Linguistics",
       "closed": false,
-      "unaccredited": false
+      "unaccredited": false,
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-23564953&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-23564953",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "49",
@@ -1430,7 +1622,11 @@
       "aliases": "University of Auckland UOA Auckland University",
       "subjects_offered": "Architecture,Languages, Literature & Linguistics,Archaeology,History, Philosophy & Theology,Art, Performing Arts & Design",
       "closed": false,
-      "unaccredited": false
+      "unaccredited": false,
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-68813221&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-68813221",
+        "text": "Courses"
+      }
     },
     {
       "rank_order": "50",
@@ -1461,6 +1657,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-56154151",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-56154151&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-56154151",
+        "text": "Courses"
       }
     },
     {
@@ -1492,6 +1692,10 @@
       "cta_button": {
         "link": "https://www.timeshighereducation.com/student/register-your-free-personalised-academic-evaluation-expert-academic-advisor?utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-74975443",
         "text": "Admissions Support"
+      },
+      "courses_button": {
+        "link": "https://www.timeshighereducation.com/student/course-search?institutionText=i-74975443&utm_medium=thewebsite&utm_campaign=cta-link&utm_source=rankings&iid=i-74975443",
+        "text": "Courses"
       }
     }
   ],
@@ -1503,14 +1707,38 @@
     "3129": "Archaeology"
   },
   "locations": {
-    "AU": { "name": "Australia", "sid": "a4zw0000000GnyFAAS" },
-    "BE": { "name": "Belgium", "sid": "a4zw0000000GnxjAAC" },
-    "CA": { "name": "Canada", "sid": "a4zw0000000GnyDAAS" },
-    "DE": { "name": "Germany", "sid": "a4zw0000000GnxlAAC" },
-    "NL": { "name": "Netherlands", "sid": "a4zw0000000GnxpAAC" },
-    "NZ": { "name": "New Zealand", "sid": "a4zw0000000GnyaAAC" },
-    "GB": { "name": "United Kingdom", "sid": "a4zw0000000GnxQAAS" },
-    "US": { "name": "United States", "sid": "a4zw0000000GnyEAAS" }
+    "AU": {
+      "name": "Australia",
+      "sid": "a4zw0000000GnyFAAS"
+    },
+    "BE": {
+      "name": "Belgium",
+      "sid": "a4zw0000000GnxjAAC"
+    },
+    "CA": {
+      "name": "Canada",
+      "sid": "a4zw0000000GnyDAAS"
+    },
+    "DE": {
+      "name": "Germany",
+      "sid": "a4zw0000000GnxlAAC"
+    },
+    "NL": {
+      "name": "Netherlands",
+      "sid": "a4zw0000000GnxpAAC"
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "sid": "a4zw0000000GnyaAAC"
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "sid": "a4zw0000000GnxQAAS"
+    },
+    "US": {
+      "name": "United States",
+      "sid": "a4zw0000000GnyEAAS"
+    }
   },
   "pillars": {
     "7": {
