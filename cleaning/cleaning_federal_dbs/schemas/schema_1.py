@@ -1,8 +1,11 @@
 school_schema_layer_1 = {
-    "institution_data": {
+    "general": {
         "name_en": "INSTNM - hd2019",
         "name_jp": "",
         "uuid": "",
+        "ff_name": "",
+        "ipeds_unitid": "hd2019",
+        "aliases": "hd2019",
         "opeid": "OPEID - hd2019",
         "local_url": "",
         "campus": {
@@ -34,7 +37,9 @@ school_schema_layer_1 = {
             "financial_aid": "FAIDURL - hd2019",
             "homepage": "WEBADDR - hd2019",
         },
-        "classifications": {"carnegie_classification": "SECTOR - hd2019"},
+        "classifications": {
+            "carnegie_classification": "SECTOR - hd2019",
+        },
         "student_faculty_ratio": "STUFACR - ef2019d",
         "fulltime_retention_rate": "RET_PCF - ef2019d",
         "students": {
@@ -110,7 +115,7 @@ school_schema_layer_1 = {
             "top_3_largest_programs": "",
         },
         "sports": {
-            "is_member_of_national_athletic_association": "",
+            "is_member_of_naa": "",
             "athletic_orginizations": [],
         },
         "tuition": {

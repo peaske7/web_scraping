@@ -1,0 +1,54 @@
+{
+  "general": {
+    "name_en": "Alabama A & M University",
+    "ff_name": "alabama_a_and_m_university",
+    "ipeds_unitid": "100654",
+    "aliases": ["AAMU"],
+    "campus": {
+      "address": "4900 Meridian Street",
+      "city": "Normal",
+      "county": "Madison County, AL",
+      "state_postid": "AL",
+      "state": "Alabama",
+      "control": "Public",
+      "zip": "35762",
+      "bea_regions": "Southeast",
+      "geolocation": { "latitude": "34.783368", "longitude": "-86.568502" },
+      "school_system": "None",
+      "unbanization_level": "City: Midsize",
+      "religious_affiliates": "None"
+    },
+    "official_resources": {
+      "admissions": "https://www.aamu.edu/admissions-aid/index.html",
+      "online_applications": "https://www.aamu.edu/admissions-aid/undergraduate-admissions/apply-today.html",
+      "net_price_calculator": "www.aamu.edu/admissions-aid/tuition-fees/net-price-calculator.html",
+      "financial_aid": "https://www.aamu.edu/admissions-aid/financial-aid/",
+      "homepage": "www.aamu.edu/"
+    },
+    "classifications": {
+      "carnegie_classification": "Master's Colleges & Universities: Larger Programs"
+    },
+    "students": { "institution_size_category": "5,000 - 9,999" },
+    "admissions": { "is_open_admissions": false },
+    "education": { "calendar_system": "Semester" },
+    "sports": {
+      "is_memeber_of_naa": true,
+      "athletic_orginizations": [
+        "NCAA (National Collegiate Athletic Association)",
+        "Football - Southwestern Athletic Conference",
+        "Basketball - Southwestern Athletic Conference",
+        "Baseball - Southwestern Athletic Conference",
+        "Cross country/Track - Southwestern Athletic Conference"
+      ]
+    },
+    "housing": {
+      "provides_oncampus_housing": true,
+      "oncampus_dorm_capacity": "3220",
+      "yearly_room_charge": "3682",
+      "board_meal_plan": true,
+      "meals_per_week_in_board": "21",
+      "yearly_board_charge": "3840",
+      "yearly_room_and_board_charge": "."
+    }
+  }
+}
