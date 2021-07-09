@@ -563,7 +563,100 @@ def extract_ic2019_ay(dicts: dict) -> dict:
                                 "other_expenses_off_campus": off_other_expenses_19,
                             },
                         },
+                    }
+    return dicts
+
+
+def extract_ef2019d(dicts: dict) -> dict:
+    fname = '../resources/ef2019d.csv'
+
+    def get(val_list, key):
+        return val_list[keys.index(key)]
+
+    with open(fname, 'r') as csvfile:
+        contents = csv.reader(csvfile)
+
+        keys = []
+        for line_index, line in enumerate(contents):
+            if line_index == 0:
+                keys = line
+            else:
+                ipeds_unitid = line[0]
+
+                # general - students
+                student_faculty_ratio = line[-1]
+                fulltime_retention_rate_raw = get(line, 'RET_PCF')
+                fulltime_retention_rate = fulltime_retention_rate_raw if fulltime_retention_rate_raw != "" else '.'
+
+                dicts[ipeds_unitid]['general']['students']['student_faculty_ratio'] = student_faculty_ratio
+                dicts[ipeds_unitid]['general']['students']['fulltime_retention_rate'] = fulltime_retention_rate
+
+    return dicts
+
+
+def extract_s2019_sis(dicts: dict) -> dict:
+    fname = '../resources/s2019_sis.csv'
+
+    def get(val_list, key):
+        return val_list[keys.index(key)]
+
+    with open(fname, 'r') as csvfile:
+        contents = csv.reader(csvfile)
+        keys = []
+        for line_index, line in enumerate(contents):
+            if line_index == 0:
+                keys = line
+            else:
+                ipeds_unitid = line[0]
+
+                # general - faculty
+                fulltime_instructional_staff = get(line, 'SISTOTL')
+                professors = get(line, 'SISPROF')
+                associate_professors = get(line, 'SISASCP')
+                assistant_professors = get(line, 'SISASTP')
+                other = str(int(get(line, 'SISINST')) + int(get(line, 'SISLECT')) + int(line[-1]))
+
+                dicts[ipeds_unitid]['general']['faculty'] = {
+                    'fulltime_instructional_staff': fulltime_instructional_staff,
+                    'breakdown_by_rank': {
+                        'professors': professors,
+                        'associate_professors': associate_professors,
+                        'assistant_professors': assistant_professors,
+                        'other': other
                     },
+                }
+    return dicts
+
+
+def extract_al2019(dicts: dict) -> dict:
+    fname = '../resources/al2019.csv'
+
+    def get(val_list, key):
+        return val_list[keys.index(key)]
+
+    with open(fname, 'r') as csvfile:
+        contents = csv.reader(csvfile)
+        keys = []
+        for line_index, line in enumerate(contents):
+            if line_index == 0:
+                keys = line
+            else:
+                ipeds_unitid = line[0]
+
+                # general - library
+                physical_books = get(line, 'LPBOOKS')
+                digital_books = get(line, 'LEBOOKS')
+                digital_databases = get(line, 'LEDATAB')
+                physical_media = get(line, 'LPMEDIA')
+                digital_media = get(line, 'LEMEDIA')
+
+                dicts[ipeds_unitid]['general']['library'] = {
+                    "physical_books": physical_books,
+                    "digital_books": digital_books,
+                    "digital_databases": digital_databases,
+                    "physical_media": physical_media,
+                    "digital_media": digital_media,
+                }
     return dicts
 
 
@@ -579,8 +672,11 @@ def extract() -> None:
     adm2019_output = extract_adm2019(
         effy2019_output, '../resources/adm2019.csv')
     ic2019_ay_output = extract_ic2019_ay(adm2019_output)
+    ef2019d_output = extract_ef2019d(ic2019_ay_output)
+    s2019_sis_output = extract_s2019_sis(ef2019d_output)
+    al2019_output = extract_al2019(s2019_sis_output)
 
-    final_output = ic2019_ay_output
+    final_output = al2019_output
 
     # only output one file
     with open("../script_outputs/layer_1_output.json", "w+") as outfile:

@@ -61,7 +61,9 @@
         "white_women": "60",
         "two_or_more_men": "2",
         "two_or_more_women": "3"
-      }
+      },
+      "student_faculty_ratio": "20",
+      "fulltime_retention_rate": "57"
     },
     "admissions": {
       "is_open_admissions": false,
@@ -125,76 +127,90 @@
       "yearly_board_charge": "3840",
       "yearly_room_and_board_charge": "."
     },
-    "tuition": [
-      {
-        "in_state": {
-          "2017": {
-            "tuition_and_fees": "9857",
-            "tuition": "8379",
-            "fees": "1478"
-          },
-          "2018": {
-            "tuition_and_fees": "9744",
-            "tuition": "8610",
-            "fees": "1134"
-          },
-          "2019": {
-            "tuition_and_fees": "10024",
-            "tuition": "8610",
-            "fees": "1414"
-          }
+    "tuition": {
+      "in_state": {
+        "2017": {
+          "tuition_and_fees": "9857",
+          "tuition": "8379",
+          "fees": "1478"
         },
-        "out_of_state": {
-          "2017": {
-            "tuition_and_fees": "18236",
-            "tuition": "16758",
-            "fees": "1478"
-          },
-          "2018": {
-            "tuition_and_fees": "18354",
-            "tuition": "17220",
-            "fees": "1134"
-          },
-          "2019": {
-            "tuition_and_fees": "18634",
-            "tuition": "17220",
-            "fees": "1414"
-          }
+        "2018": {
+          "tuition_and_fees": "9744",
+          "tuition": "8610",
+          "fees": "1134"
         },
-        "books_and_supplies": {
-          "2017": "1600",
-          "2018": "1600",
-          "2019": "1600"
+        "2019": {
+          "tuition_and_fees": "10024",
+          "tuition": "8610",
+          "fees": "1414"
+        }
+      },
+      "out_of_state": {
+        "2017": {
+          "tuition_and_fees": "18236",
+          "tuition": "16758",
+          "fees": "1478"
         },
-        "on_campus": {
-          "2017": {
-            "other_expenses": "2580",
-            "room_and_board_on_campus": "9020"
-          },
-          "2018": {
-            "other_expenses": "2990",
-            "room_and_board_on_campus": "9128"
-          },
-          "2019": {
-            "other_expenses": "3090",
-            "room_and_board_on_campus": "9240"
-          }
+        "2018": {
+          "tuition_and_fees": "18354",
+          "tuition": "17220",
+          "fees": "1134"
         },
-        "off_campus": {
-          "2017": {
-            "room_and_board_off_campus": "8379",
-            "other_expenses_off_campus": "2580"
-          },
-          "2018": {
-            "room_and_board_off_campus": "9128",
-            "other_expenses_off_campus": "2990"
-          },
-          "2019": {
-            "room_and_board_off_campus": "9240",
-            "other_expenses_off_campus": "3090"
-          }
+        "2019": {
+          "tuition_and_fees": "18634",
+          "tuition": "17220",
+          "fees": "1414"
+        }
+      },
+      "books_and_supplies": {
+        "2017": "1600",
+        "2018": "1600",
+        "2019": "1600"
+      },
+      "on_campus": {
+        "2017": {
+          "other_expenses": "2580",
+          "room_and_board_on_campus": "9020"
+        },
+        "2018": {
+          "other_expenses": "2990",
+          "room_and_board_on_campus": "9128"
+        },
+        "2019": {
+          "other_expenses": "3090",
+          "room_and_board_on_campus": "9240"
+        }
+      },
+      "off_campus": {
+        "2017": {
+          "room_and_board_off_campus": "8379",
+          "other_expenses_off_campus": "2580"
+        },
+        "2018": {
+          "room_and_board_off_campus": "9128",
+          "other_expenses_off_campus": "2990"
+        },
+        "2019": {
+          "room_and_board_off_campus": "9240",
+          "other_expenses_off_campus": "3090"
         }
       }
-    ]
+    },
+    "faculty": {
+      "fulltime_instructional_staff": "104",
+      "breakdown_by_rank": {
+        "professors": "0",
+        "associate_professors": "9",
+        "assistant_professors": "50",
+        "other": "45"
+      }
+    },
+    "library": {
+      "physical_books": "405741",
+      "digital_books": "153694",
+      "digital_databases": "98",
+      "physical_media": "2728",
+      "digital_media": "38355"
+    }
   }
 }
