@@ -1,3 +1,8 @@
 **/.DS_Store
 aquarium/
 .idea/
+steam/web/templates/index.html
+shanghairanking/page2.html
+shanghairanking/response.html
+niche/response.html
+centris/index.html

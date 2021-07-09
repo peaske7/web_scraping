@@ -680,7 +680,7 @@ def extract() -> None:
 
     # only output one file
     with open("../script_outputs/layer_1_output.json", "w+") as outfile:
-        outfile.write(json.dumps(final_output["100654"]))
+        outfile.write(json.dumps(final_output))
 
 
 def main() -> None:
