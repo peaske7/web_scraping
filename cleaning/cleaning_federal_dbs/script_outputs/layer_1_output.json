@@ -3,7 +3,9 @@
     "name_en": "Alabama A & M University",
     "ff_name": "alabama_a_and_m_university",
     "ipeds_unitid": "100654",
-    "aliases": ["AAMU"],
+    "aliases": [
+      "AAMU"
+    ],
     "campus": {
       "address": "4900 Meridian Street",
       "city": "Normal",
@@ -13,9 +15,12 @@
       "control": "Public",
       "zip": "35762",
       "bea_regions": "Southeast",
-      "geolocation": { "latitude": "34.783368", "longitude": "-86.568502" },
+      "geolocation": {
+        "latitude": "34.783368",
+        "longitude": "-86.568502"
+      },
       "school_system": "None",
-      "unbanization_level": "City: Midsize",
+      "urbanization_level": "City: Midsize",
       "religious_affiliates": "None"
     },
     "official_resources": {
@@ -28,12 +33,82 @@
     "classifications": {
       "carnegie_classification": "Master's Colleges & Universities: Larger Programs"
     },
-    "students": { "institution_size_category": "5,000 - 9,999" },
-    "admissions": { "is_open_admissions": false },
-    "education": { "calendar_system": "Semester" },
+    "students": {
+      "institution_size_category": "5,000 - 9,999",
+      "total_men": "337",
+      "total_women": "819",
+      "breakdown_by_race": {
+        "hispanic_or_latino": "4",
+        "american_indian_or_alaska_native": "3",
+        "asian": "7",
+        "native_hawaiian_or_other_pacific_islander": "0",
+        "black_or_african_american": "852",
+        "white": "78",
+        "two_or_more": "5"
+      },
+      "breakdown_by_race_and_sex": {
+        "hispanic_or_latino_men": "0",
+        "hispanic_or_latino_women": "4",
+        "american_indian_or_alaska_native_men": "1",
+        "american_indian_or_alaska_native_women": "2",
+        "asian_men": "4",
+        "asian_women": "3",
+        "black_or_african_american_men": "257",
+        "black_or_african_american_women": "595",
+        "native_hawaiian_or_other_pacific_islander_men": "0",
+        "native_hawaiian_or_other_pacific_islander_women": "0",
+        "white_men": "18",
+        "white_women": "60",
+        "two_or_more_men": "2",
+        "two_or_more_women": "3"
+      }
+    },
+    "admissions": {
+      "is_open_admissions": false,
+      "requirements": {
+        "gpa": "Required",
+        "school_rank": "Recommended",
+        "school_record": "Required",
+        "college_preparatory_programs": "Recommended",
+        "recommendation_letters": "Neither required nor recommended",
+        "formal_demonstration": "Recommended",
+        "admission_test_scores": "Required",
+        "toefl": "Required",
+        "other_tests": "Neither required nor recommended"
+      },
+      "sat": {
+        "eng_25th_percentile": "430",
+        "eng_75th_percentile": "510",
+        "math_25th_percentile": "410",
+        "math_75th_percentile": "500"
+      },
+      "act": {
+        "comp_25th_percentile": "15",
+        "comp_75th_percentile": "19",
+        "eng_25th_percentile": "14",
+        "eng_75th_percentile": "20",
+        "math_25th_percentile": "15",
+        "math_75th_percentile": "18"
+      },
+      "population": {
+        "applicants_men": "3160",
+        "applicants_women": "6419",
+        "admissions_men": "2828",
+        "admissions_women": "5961",
+        "applicants_total": "9579",
+        "admissions_total": "8789",
+        "num_submitting_sat": "592",
+        "percent_submitting_sat": "35",
+        "num_submitting_act": "1251",
+        "percent_submitting_act": "73"
+      }
+    },
+    "education": {
+      "calendar_system": "Semester"
+    },
     "sports": {
-      "is_memeber_of_naa": true,
-      "athletic_orginizations": [
+      "is_member_of_naa": true,
+      "athletic_organizations": [
         "NCAA (National Collegiate Athletic Association)",
         "Football - Southwestern Athletic Conference",
         "Basketball - Southwestern Athletic Conference",
@@ -49,6 +124,77 @@
       "meals_per_week_in_board": "21",
       "yearly_board_charge": "3840",
       "yearly_room_and_board_charge": "."
-    }
+    },
+    "tuition": [
+      {
+        "in_state": {
+          "2017": {
+            "tuition_and_fees": "9857",
+            "tuition": "8379",
+            "fees": "1478"
+          },
+          "2018": {
+            "tuition_and_fees": "9744",
+            "tuition": "8610",
+            "fees": "1134"
+          },
+          "2019": {
+            "tuition_and_fees": "10024",
+            "tuition": "8610",
+            "fees": "1414"
+          }
+        },
+        "out_of_state": {
+          "2017": {
+            "tuition_and_fees": "18236",
+            "tuition": "16758",
+            "fees": "1478"
+          },
+          "2018": {
+            "tuition_and_fees": "18354",
+            "tuition": "17220",
+            "fees": "1134"
+          },
+          "2019": {
+            "tuition_and_fees": "18634",
+            "tuition": "17220",
+            "fees": "1414"
+          }
+        },
+        "books_and_supplies": {
+          "2017": "1600",
+          "2018": "1600",
+          "2019": "1600"
+        },
+        "on_campus": {
+          "2017": {
+            "other_expenses": "2580",
+            "room_and_board_on_campus": "9020"
+          },
+          "2018": {
+            "other_expenses": "2990",
+            "room_and_board_on_campus": "9128"
+          },
+          "2019": {
+            "other_expenses": "3090",
+            "room_and_board_on_campus": "9240"
+          }
+        },
+        "off_campus": {
+          "2017": {
+            "room_and_board_off_campus": "8379",
+            "other_expenses_off_campus": "2580"
+          },
+          "2018": {
+            "room_and_board_off_campus": "9128",
+            "other_expenses_off_campus": "2990"
+          },
+          "2019": {
+            "room_and_board_off_campus": "9240",
+            "other_expenses_off_campus": "3090"
+          }
+        }
+      }
+    ]
   }
 }

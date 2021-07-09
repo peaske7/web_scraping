@@ -1,4 +1,3 @@
-import os
 import csv
 import json
 import re
@@ -43,13 +42,15 @@ def extract_hd2019(dicts: dict, fname: str) -> dict:
                 state = lookup["states"].get(state_postid)
                 zip = line[keys.index("ZIP")]
                 bea_region_code = line[keys.index("OBEREG")]
-                bea_regions = lookup["bea_regions"].get(bea_region_code.strip())
+                bea_regions = lookup["bea_regions"].get(
+                    bea_region_code.strip())
                 control_code = line[keys.index("CONTROL")]
                 control = lookup["controls"].get(control_code)
                 latitude = line[keys.index("LATITUDE")]
                 longitude = line[keys.index("LONGITUD")]
                 school_system_code = line[keys.index("F1SYSCOD")]
-                school_system = lookup["school_systems"].get(school_system_code)
+                school_system = lookup["school_systems"].get(
+                    school_system_code)
                 urbanization_level_code = line[keys.index("LOCALE")]
                 urbanization_level = lookup["urbanization_levels"].get(
                     urbanization_level_code
@@ -94,7 +95,7 @@ def extract_hd2019(dicts: dict, fname: str) -> dict:
                                 "longitude": longitude,
                             },
                             "school_system": school_system,
-                            "unbanization_level": urbanization_level,
+                            "urbanization_level": urbanization_level,
                         },
                         "official_resources": {
                             "admissions": admissions,
@@ -116,8 +117,8 @@ def extract_hd2019(dicts: dict, fname: str) -> dict:
 
 
 def extract_ic2019(dicts: dict, fname: str, lookup_fname: str) -> dict:
-    def lookup_converter(input):
-        if input == "1":
+    def lookup_converter(value):
+        if value == "1":
             return True
         else:
             return False
@@ -140,11 +141,12 @@ def extract_ic2019(dicts: dict, fname: str, lookup_fname: str) -> dict:
                 religious_affiliates_code = line[keys.index("RELAFFIL")]
                 ra_value = lookup["religious_affiliates"][religious_affiliates_code]
                 religious_affiliates = (
-                    ra_value if ra_value != "-2" or ra_value == None else ""
+                    ra_value if ra_value != "-2" or ra_value is None else ""
                 )
 
                 # housing
-                provides_oncampus_housing = lookup_converter(line[keys.index("ROOM")])
+                provides_oncampus_housing = lookup_converter(
+                    line[keys.index("ROOM")])
                 oncampus_dorm_capacity = line[keys.index("ROOMCAP")]
                 yearly_room_charge = line[keys.index("ROOMAMT")]
                 board_meal_plan_code = line[keys.index("BOARD")]
@@ -159,10 +161,12 @@ def extract_ic2019(dicts: dict, fname: str, lookup_fname: str) -> dict:
 
                 # education
                 calendar_system_code = line[keys.index("CALSYS")]
-                calendar_system = lookup["calendar_systems"].get(calendar_system_code)
+                calendar_system = lookup["calendar_systems"].get(
+                    calendar_system_code)
 
                 # sports
-                is_member_of_naa = True if line[keys.index("ATHASSOC")] else False
+                is_member_of_naa = True if line[keys.index(
+                    "ATHASSOC")] else False
                 is_assoc_1 = lookup_converter(line[keys.index("ASSOC1")])
                 assoc_1 = (
                     "NCAA (National Collegiate Athletic Association)"
@@ -198,19 +202,19 @@ def extract_ic2019(dicts: dict, fname: str, lookup_fname: str) -> dict:
 
                 conf_1_code = line[keys.index("CONFNO1")]
                 conf_1_res = lookup["conference_1"].get(conf_1_code)
-                conf_1 = f"Football - { conf_1_res }" if conf_1_res != "None" else False
+                conf_1 = f"Football - {conf_1_res}" if conf_1_res != "None" else False
                 conf_2_code = line[keys.index("CONFNO2")]
                 conf_2_res = lookup["conference_2"].get(conf_2_code)
                 conf_2 = (
-                    f"Basketball - { conf_1_res }" if conf_2_res != "None" else False
+                    f"Basketball - {conf_1_res}" if conf_2_res != "None" else False
                 )
                 conf_3_code = line[keys.index("CONFNO3")]
                 conf_3_res = lookup["conference_3"].get(conf_3_code)
-                conf_3 = f"Baseball - { conf_1_res }" if conf_3_res != "None" else False
+                conf_3 = f"Baseball - {conf_1_res}" if conf_3_res != "None" else False
                 conf_4_code = line[-1]
                 conf_4_res = lookup["conference_4"].get(conf_4_code)
                 conf_4 = (
-                    f"Cross country/Track - { conf_1_res }"
+                    f"Cross country/Track - {conf_1_res}"
                     if conf_4_res != "None"
                     else False
                 )
@@ -247,8 +251,8 @@ def extract_ic2019(dicts: dict, fname: str, lookup_fname: str) -> dict:
                     "calendar_system": calendar_system
                 }
                 dicts[ipeds_unitid]["general"]["sports"] = {
-                    "is_memeber_of_naa": is_member_of_naa,
-                    "athletic_orginizations": athletic_organizations,
+                    "is_member_of_naa": is_member_of_naa,
+                    "athletic_organizations": athletic_organizations,
                 }
                 dicts[ipeds_unitid]["general"]["housing"] = {
                     "provides_oncampus_housing": provides_oncampus_housing,
@@ -264,7 +268,303 @@ def extract_ic2019(dicts: dict, fname: str, lookup_fname: str) -> dict:
 
 
 def extract_effy2019(dicts: dict, fname: str) -> dict:
-    pass
+    def get(val_list, key_name):
+        return val_list[keys.index(key_name)]
+
+    with open(fname, "r") as csvfile:
+        contents = csv.reader(csvfile)
+        keys = []
+
+        for line_index, line in enumerate(contents):
+            if line_index == 0:
+                keys = line
+            else:
+                ipeds_unitid = line[0]
+
+                # students
+                total_men = get(line, "EFYTOTLM")
+                total_women = get(line, "EFYTOTLW")
+
+                # students - breakdown by race
+                hispanic_or_latino = get(line, "EFYHISPT")
+                american_indian_or_alaska_native = get(line, "EFYAIANT")
+                asian = get(line, "EFYASIAT")
+                native_hawaiian_or_other_pacific_islander = get(
+                    line, "EFYNHPIT")
+                black_or_african_american = get(line, "EFYBKAAT")
+                white = get(line, "EFYWHITT")
+                two_or_more = get(line, "EFY2MORT")
+
+                # students - breakdown by race and sex
+                hispanic_or_latino_men = get(line, "EFYHISPM")
+                hispanic_or_latino_women = get(line, "EFYHISPW")
+                american_indian_or_alaska_native_men = get(line, "EFYAIANM")
+                american_indian_or_alaska_native_women = get(line, "EFYAIANW")
+                asian_men = get(line, "EFYASIAM")
+                asian_women = get(line, "EFYASIAW")
+                native_hawaiian_or_other_pacific_islander_men = get(
+                    line, "EFYNHPIM")
+                native_hawaiian_or_other_pacific_islander_women = get(
+                    line, "EFYNHPIW")
+                black_or_african_american_men = get(line, "EFYBKAAM")
+                black_or_african_american_women = get(line, "EFYBKAAW")
+                white_men = get(line, "EFYWHITM")
+                white_women = get(line, "EFYWHITW")
+                two_or_more_men = get(line, "EFY2MORM")
+                two_or_more_women = get(line, "EFY2MORW")
+
+                dicts[ipeds_unitid]["general"]["students"]["total_men"] = total_men
+                dicts[ipeds_unitid]["general"]["students"]["total_women"] = total_women
+                dicts[ipeds_unitid]["general"]["students"]["breakdown_by_race"] = {
+                    "hispanic_or_latino": hispanic_or_latino,
+                    "american_indian_or_alaska_native": american_indian_or_alaska_native,
+                    "asian": asian,
+                    "native_hawaiian_or_other_pacific_islander": native_hawaiian_or_other_pacific_islander,
+                    "black_or_african_american": black_or_african_american,
+                    "white": white,
+                    "two_or_more": two_or_more,
+                }
+                dicts[ipeds_unitid]["general"]["students"][
+                    "breakdown_by_race_and_sex"
+                ] = {
+                    "hispanic_or_latino_men": hispanic_or_latino_men,
+                    "hispanic_or_latino_women": hispanic_or_latino_women,
+                    "american_indian_or_alaska_native_men": american_indian_or_alaska_native_men,
+                    "american_indian_or_alaska_native_women": american_indian_or_alaska_native_women,
+                    "asian_men": asian_men,
+                    "asian_women": asian_women,
+                    "black_or_african_american_men": black_or_african_american_men,
+                    "black_or_african_american_women": black_or_african_american_women,
+                    "native_hawaiian_or_other_pacific_islander_men": native_hawaiian_or_other_pacific_islander_men,
+                    "native_hawaiian_or_other_pacific_islander_women": native_hawaiian_or_other_pacific_islander_women,
+                    "white_men": white_men,
+                    "white_women": white_women,
+                    "two_or_more_men": two_or_more_men,
+                    "two_or_more_women": two_or_more_women,
+                }
+
+    return dicts
+
+
+def extract_adm2019(dicts: dict, fname: str) -> dict:
+    lookup_fname = '../resources/adm2019_lookup.json'
+    f = open(lookup_fname, 'r')
+    lookup = json.load(f)
+
+    def get(val_list, keyword: str):
+        return val_list[keys.index(keyword)]
+
+    with open(fname, 'r') as csvfile:
+        contents = csv.reader(csvfile)
+        keys = []
+
+        for line_index, line in enumerate(contents):
+            if line_index == 0:
+                keys = line
+            else:
+                ipeds_unitid = line[0]
+
+                # general - admissions
+                gpa = lookup.get(get(line, 'ADMCON1'))
+                school_rank = lookup.get(get(line, 'ADMCON2'))
+                school_record = lookup.get(get(line, 'ADMCON3'))
+                college_preparatory_programs = lookup.get(get(line, 'ADMCON4'))
+                recommendation_letters = lookup.get(get(line, 'ADMCON5'))
+                formal_demonstration = lookup.get(get(line, 'ADMCON6'))
+                admission_test_scores = lookup.get(get(line, 'ADMCON7'))
+                toefl = lookup.get(get(line, 'ADMCON8'))
+                other_tests = lookup.get(get(line, 'ADMCON9'))
+
+                sat_eng_25th_percentile = get(line, 'SATVR25')
+                sat_eng_75th_percentile = get(line, 'SATVR75')
+                sat_math_25th_percentile = get(line, 'SATMT25')
+                sat_math_75th_percentile = get(line, 'SATMT75')
+
+                act_comp_25th_percentile = get(line, 'ACTCM25')
+                act_comp_75th_percentile = get(line, 'ACTCM75')
+                act_eng_25th_percentile = get(line, 'ACTEN25')
+                act_eng_75th_percentile = get(line, 'ACTEN75')
+                act_math_25th_percentile = get(line, 'ACTMT25')
+                act_math_75th_percentile = line[-1]
+
+                applicants_men = get(line, 'APPLCNM')
+                applicants_women = get(line, 'APPLCNW')
+                admissions_men = get(line, 'ADMSSNM')
+                admissions_women = get(line, 'ADMSSNW')
+                applicants_total = get(line, 'APPLCN')
+                admissions_total = get(line, 'ADMSSN')
+                num_submitting_sat = get(line, 'SATNUM')
+                percent_submitting_sat = get(line, 'SATPCT')
+                num_submitting_act = get(line, 'ACTNUM')
+                percent_submitting_act = get(line, 'ACTPCT')
+
+                dicts[ipeds_unitid]['general']['admissions']['requirements'] = {
+                    'gpa': gpa,
+                    'school_rank': school_rank,
+                    'school_record': school_record,
+                    'college_preparatory_programs': college_preparatory_programs,
+                    'recommendation_letters': recommendation_letters,
+                    'formal_demonstration': formal_demonstration,
+                    'admission_test_scores': admission_test_scores,
+                    'toefl': toefl,
+                    'other_tests': other_tests,
+                }
+                dicts[ipeds_unitid]['general']['admissions']['sat'] = {
+                    'eng_25th_percentile': sat_eng_25th_percentile,
+                    'eng_75th_percentile': sat_eng_75th_percentile,
+                    'math_25th_percentile': sat_math_25th_percentile,
+                    'math_75th_percentile': sat_math_75th_percentile,
+                }
+                dicts[ipeds_unitid]['general']['admissions']['act'] = {
+                    'comp_25th_percentile': act_comp_25th_percentile,
+                    'comp_75th_percentile': act_comp_75th_percentile,
+                    'eng_25th_percentile': act_eng_25th_percentile,
+                    'eng_75th_percentile': act_eng_75th_percentile,
+                    'math_25th_percentile': act_math_25th_percentile,
+                    'math_75th_percentile': act_math_75th_percentile,
+                }
+                dicts[ipeds_unitid]['general']['admissions']['population'] = {
+                    'applicants_men': applicants_men,
+                    'applicants_women': applicants_women,
+                    'admissions_men': admissions_men,
+                    'admissions_women': admissions_women,
+                    'applicants_total': applicants_total,
+                    'admissions_total': admissions_total,
+                    'num_submitting_sat': num_submitting_sat,
+                    'percent_submitting_sat': percent_submitting_sat,
+                    'num_submitting_act': num_submitting_act,
+                    'percent_submitting_act': percent_submitting_act,
+                }
+
+    return dicts
+
+
+def extract_ic2019_ay(dicts: dict) -> dict:
+    fname = '../resources/ic2019_ay.csv'
+
+    def get(val_list, key):
+        return val_list[keys.index(key)]
+
+    with open(fname, 'r') as csvfile:
+        contents = csv.reader(csvfile)
+
+        keys = []
+        for line_index, line in enumerate(contents):
+            if line_index == 0:
+                keys = line
+            else:
+                ipeds_unitid = line[0]
+
+                # general - tuition
+                in_tuition_and_fees_17 = get(line, 'CHG2AY1')  # 2017-18
+                in_tuition_and_fees_18 = get(line, 'CHG2AY2')  # 2018-19
+                in_tuition_and_fees_19 = get(line, 'CHG2AY3')  # 2019-20
+                in_tuition_17 = get(line, 'CHG2AT1')  # 2017-18
+                in_tuition_18 = get(line, 'CHG2AT2')  # 2018-19
+                in_tuition_19 = get(line, 'CHG2AT3')  # 2019-20
+                in_fees_17 = get(line, 'CHG2AF1')  # 2017-18
+                in_fees_18 = get(line, 'CHG2AF2')  # 2018-19
+                in_fees_19 = get(line, 'CHG2AF3')  # 2018-20
+
+                out_tuition_and_fees_17 = get(line, 'CHG3AY1')  # 2017-18
+                out_tuition_and_fees_18 = get(line, 'CHG3AY2')  # 2018-19
+                out_tuition_and_fees_19 = get(line, 'CHG3AY3')  # 2019-20
+                out_tuition_17 = get(line, 'CHG3AT1')  # 2017-18
+                out_tuition_18 = get(line, 'CHG3AT2')  # 2018-19
+                out_tuition_19 = get(line, 'CHG3AT3')  # 2019-20
+                out_fees_17 = get(line, 'CHG3AF1')  # 2017-18
+                out_fees_18 = get(line, 'CHG3AF2')  # 2018-19
+                out_fees_19 = get(line, 'CHG3AF3')  # 2018-20
+
+                books_and_supplies_17 = get(line, 'CHG4AY1')
+                books_and_supplies_18 = get(line, 'CHG4AY2')
+                books_and_supplies_19 = get(line, 'CHG4AY3')
+
+                other_expenses_17 = get(line, 'CHG6AY1')
+                other_expenses_18 = get(line, 'CHG6AY2')
+                other_expenses_19 = get(line, 'CHG6AY3')
+                on_room_board_17 = get(line, 'CHG5AY1')
+                on_room_board_18 = get(line, 'CHG5AY2')
+                on_room_board_19 = get(line, 'CHG5AY3')
+
+                off_room_board_17 = get(line, 'CHG7AY1')
+                off_room_board_18 = get(line, 'CHG7AY2')
+                off_room_board_19 = get(line, 'CHG7AY3')
+                off_other_expenses_17 = get(line, 'CHG8AY1')
+                off_other_expenses_18 = get(line, 'CHG8AY2')
+                off_other_expenses_19 = get(line, 'CHG8AY3')
+
+                dicts[ipeds_unitid]['general']['tuition'] = \
+                    {
+                        "in_state": {
+                            "2017": {
+                                "tuition_and_fees": in_tuition_and_fees_17,
+                                "tuition": in_tuition_17,
+                                "fees": in_fees_17,
+                            },
+                            "2018": {
+                                "tuition_and_fees": in_tuition_and_fees_18,
+                                "tuition": in_tuition_18,
+                                "fees": in_fees_18,
+                            },
+                            "2019": {
+                                "tuition_and_fees": in_tuition_and_fees_19,
+                                "tuition": in_tuition_19,
+                                "fees": in_fees_19,
+                            },
+                        },
+                        "out_of_state": {
+                            "2017": {
+                                "tuition_and_fees": out_tuition_and_fees_17,
+                                "tuition": out_tuition_17,
+                                "fees": out_fees_17,
+                            },
+                            "2018": {
+                                "tuition_and_fees": out_tuition_and_fees_18,
+                                "tuition": out_tuition_18,
+                                "fees": out_fees_18,
+                            },
+                            "2019": {
+                                "tuition_and_fees": out_tuition_and_fees_19,
+                                "tuition": out_tuition_19,
+                                "fees": out_fees_19,
+                            },
+                        },
+                        "books_and_supplies": {
+                            "2017": books_and_supplies_17,
+                            "2018": books_and_supplies_18,
+                            "2019": books_and_supplies_19,
+                        },
+                        "on_campus": {
+                            "2017": {
+                                "other_expenses": other_expenses_17,
+                                "room_and_board_on_campus": on_room_board_17,
+                            },
+                            "2018": {
+                                "other_expenses": other_expenses_18,
+                                "room_and_board_on_campus": on_room_board_18,
+                            },
+                            "2019": {
+                                "other_expenses": other_expenses_19,
+                                "room_and_board_on_campus": on_room_board_19,
+                            },
+                        },
+                        'off_campus': {
+                            '2017': {
+                                "room_and_board_off_campus": off_room_board_17,
+                                "other_expenses_off_campus": off_other_expenses_17,
+                            },
+                            '2018': {
+                                "room_and_board_off_campus": off_room_board_18,
+                                "other_expenses_off_campus": off_other_expenses_18,
+                            },
+                            '2019': {
+                                "room_and_board_off_campus": off_room_board_19,
+                                "other_expenses_off_campus": off_other_expenses_19,
+                            },
+                        },
+                    },
+    return dicts
 
 
 def extract() -> None:
@@ -274,10 +574,17 @@ def extract() -> None:
     ic2019_output = extract_ic2019(
         hd2019_output, "../resources/ic2019.csv", "../resources/ic2019_lookup.json"
     )
+    effy2019_output = extract_effy2019(
+        ic2019_output, "../resources/effy2019.csv")
+    adm2019_output = extract_adm2019(
+        effy2019_output, '../resources/adm2019.csv')
+    ic2019_ay_output = extract_ic2019_ay(adm2019_output)
+
+    final_output = ic2019_ay_output
 
     # only output one file
     with open("../script_outputs/layer_1_output.json", "w+") as outfile:
-        outfile.write(json.dumps(ic2019_output["100654"]))
+        outfile.write(json.dumps(final_output["100654"]))
 
 
 def main() -> None:

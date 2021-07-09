@@ -34,7 +34,8 @@ def extract_hd2019_dict(fname: str) -> None:
                     states[value] = label
                 elif varname == "OBEREG":
                     clean_label = " ".join(
-                        [w for w in label.split(" ") if not re.match("[A-Z]{2}", w)]
+                        [w for w in label.split(
+                            " ") if not re.match("[A-Z]{2}", w)]
                     )
                     bea_regions[value] = clean_label
                 elif varname == "CONTROL":
@@ -155,9 +156,26 @@ def extract_ic2019_dict(fname: str) -> None:
     # print(f"file already exists: {new_fname}")
 
 
+def extract_adm2019_dict() -> None:
+    new_fname = '../resources/adm2019_lookup.json'
+
+    # because all codevalue - valuelabel pairs are the same for ADMCON1 ~ 9,
+    # i'm just going to make a generic dictionary that contains the necessary values
+    reqs = {
+        '1': 'Required',
+        '2': 'Recommended',
+        '3': 'Neither required nor recommended',
+        '5': 'Considered but not required',
+    }
+
+    with open(new_fname, 'w+') as outfile:
+        outfile.write(json.dumps(reqs))
+
+
 def extract_dicts() -> None:
     extract_ic2019_dict(ic2019_dict_fname)
     extract_hd2019_dict(hd2019_dict_fname)
+    extract_adm2019_dict()
 
 
 def main() -> None:
