@@ -1,5 +1,5 @@
 # My web scraping projects
-Although it may seem like this repo has a lot of HTML in it, trust me, it's not. I stored some HTML response files alongside my web scrapers so don't mind the HTML-to-python ratio!
+After painfully trying to clean large csv files with node (async functions and accessing/writing multiple files) easily became a nightmare. I decided to learn webscraping and data cleaning with python and here are some of the projects I've been working on. I've learned a lot from online and offline(books) resources, so there are example projects and my own personal projects mixed together in this repo. However, when it comes to data cleaning, the bulk of my work in probably in /cleaning, if you're interested.
 
 ## What's inside this repo?
 The repo contains web scraping projects that can be divided into three categories:
