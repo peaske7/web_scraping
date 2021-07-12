@@ -5,6 +5,7 @@
 - latest_layers.txt ... txt file with the latest layer of cleaned data from each source(i.e. cwur, forbes, qs, and the, as of now)
 - merge_layer1.py ... python file to merge all latest files read from latest_layers.txt
 - layer_1_output.json ... json file with the cleaned data from the latest files in cwur, fobes, qs, and the folders
+- ./outputs/layer_2/merged.json ... final file with ranking info for us schools
 
 ## Intentions
 

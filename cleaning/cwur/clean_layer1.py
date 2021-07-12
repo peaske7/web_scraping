@@ -21,21 +21,37 @@ def merge_dicts(dirname):
             if ff_schoolname in dicts.keys():
                 # access dict item and append gathered data
                 for key in list(school):
-                    if key != 'Institution' and key != 'Country':
-                        if key in dicts[ff_schoolname] and key:
-                            dicts[ff_schoolname].get(key, []).append({year: school[key]})
+                    if key != 'Institution' and key != 'Country' and key != 'Score':
+                        if key in dicts[ff_schoolname]['rankings'] and key:
+                            # if category already exists in school dict, only add year
+                            new_entry = {
+                                'year': year,
+                                'ranking': school[key]
+                            }
+                            dicts[ff_schoolname]['rankings'][key][year] = new_entry
+
                         else:
-                            dicts[ff_schoolname][key] = [{year: school[key]}]
-                print('already exists ', ff_schoolname)
+                            # if category does not already exist, create a new entry w/ year
+                            new_entry = {
+                                year: {
+                                    'year': year,
+                                    'ranking': school[key]
+                                }
+                            }
+                            dicts[ff_schoolname]['rankings'][key] = new_entry
             else:
                 # create new dict item
-                new_dict = dict()
-                new_dict['name'] = schoolname
-                new_dict['country'] = school['Country']
+                new_dict = {
+                    'name': schoolname,
+                    'country': school['Country'],
+                    'rankings': {}
+                }
                 for key in list(school):
-                    if key != 'Institution' and key != 'Country':
-                        new_dict[key] = [{year: school[key]}]
-                print('not yet ', ff_schoolname)
+                    if key != 'Institution' and key != 'Country' and key != 'Score':
+                        new_dict['rankings'][key] = {
+                            year: {'year': year,
+                                   'ranking': school[key]}
+                        }
                 dicts[ff_schoolname] = new_dict
 
     with open('layer_2_output.json', 'w+') as outfile:

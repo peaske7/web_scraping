@@ -1,0 +1,198 @@
+{
+  "harvard_university": { "similar": [["harvard_university", 100]] },
+  "massachusetts_institute_of_technology": {
+    "similar": [["massachusetts_institute_of_technology", 100]]
+  },
+  "stanford_university": {
+    "similar": [
+      ["stanford_university", 100],
+      ["samford_university", 92]
+    ]
+  },
+  "university_of_cambridge": { "similar": [["university_of_cambridge", 100]] },
+  "university_of_oxford": { "similar": [["university_of_oxford", 100]] },
+  "princeton_university": { "similar": [["princeton_university", 100]] },
+  "columbia_university": { "similar": [["columbia_university", 100]] },
+  "university_of_chicago": {
+    "similar": [
+      ["university_of_chicago", 100],
+      ["the_university_of_chicago", 91]
+    ]
+  },
+  "university_of_pennsylvania": {
+    "similar": [["university_of_pennsylvania", 100]]
+  },
+  "yale_university": { "similar": [["yale_university", 100]] },
+  "california_institute_of_technology": {
+    "similar": [["california_institute_of_technology", 100]]
+  },
+  "university_of_california,_berkeley": {
+    "similar": [
+      ["university_of_california,_berkeley", 100],
+      ["university_of_california_berkeley", 99]
+    ]
+  },
+  "university_of_tokyo": { "similar": [["university_of_tokyo", 100]] },
+  "cornell_university": { "similar": [["cornell_university", 100]] },
+  "university_of_michigan,_ann_arbor": {
+    "similar": [
+      ["university_of_michigan,_ann_arbor", 100],
+      ["university_of_michigan_ann_arbor", 98],
+      ["university_of_michigan-ann_arbor", 98]
+    ]
+  },
+  "johns_hopkins_university": {
+    "similar": [["johns_hopkins_university", 100]]
+  },
+  "northwestern_university": {
+    "similar": [
+      ["northwestern_university", 100],
+      ["northeastern_university", 96],
+      ["northwest_university", 93],
+      ["north-west_university", 91],
+      ["southwestern_university", 91]
+    ]
+  },
+  "university_of_california,_los_angeles": {
+    "similar": [
+      ["university_of_california,_los_angeles", 100],
+      ["university_of_california_los_angeles", 99]
+    ]
+  },
+  "university_college_london": {
+    "similar": [["university_college_london", 100]]
+  },
+  "duke_university": { "similar": [["duke_university", 100]] },
+  "psl_university": { "similar": [["psl_university", 100]] },
+  "university_of_illinois_at_urbana\u2013champaign": {
+    "similar": [
+      ["university_of_illinois_at_urbana\u2013champaign", 100],
+      ["university_of_illinois_at_urbana-champaign", 100],
+      ["university_of_illinois_at_urbana_champaign", 98],
+      ["university_of_illinois_at_urbana_-_champaign", 98]
+    ]
+  },
+  "university_of_washington_-_seattle": {
+    "similar": [
+      ["university_of_washington_-_seattle", 100],
+      ["university_of_washington-seattle", 97]
+    ]
+  },
+  "university_of_toronto": {
+    "similar": [
+      ["university_of_toronto", 100],
+      ["university_of_trento", 93]
+    ]
+  },
+  "university_of_wisconsin\u2013madison": {
+    "similar": [
+      ["university_of_wisconsin\u2013madison", 100],
+      ["university_of_wisconsin-madison", 100],
+      ["university_of_wisconsin_madison", 97],
+      ["university_of_wisconsin_-_madison", 97],
+      ["university_of_wisconsin", 95]
+    ]
+  },
+  "new_york_university": { "similar": [["new_york_university", 100]] },
+  "mcgill_university": { "similar": [["mcgill_university", 100]] },
+  "kyoto_university": { "similar": [["kyoto_university", 100]] },
+  "eth_zurich": { "similar": [["eth_zurich", 100]] },
+  "imperial_college_london": { "similar": [["imperial_college_london", 100]] },
+  "seoul_national_university": {
+    "similar": [["seoul_national_university", 100]]
+  },
+  "paris-saclay_university": { "similar": [["paris-saclay_university", 100]] },
+  "university_of_texas_at_austin": {
+    "similar": [
+      ["university_of_texas_at_austin", 100],
+      ["the_university_of_texas_at_austin", 94]
+    ]
+  },
+  "university_of_california,_san_diego": {
+    "similar": [
+      ["university_of_california,_san_diego", 100],
+      ["university_of_california_san_diego", 99]
+    ]
+  },
+  "karolinska_institute": {
+    "similar": [
+      ["karolinska_institute", 100],
+      ["karolinska_institutet", 98]
+    ]
+  },
+  "sorbonne_university": { "similar": [["sorbonne_university", 100]] },
+  "university_of_copenhagen": {
+    "similar": [["university_of_copenhagen", 100]]
+  },
+  "university_of_california,_san_francisco": {
+    "similar": [
+      ["university_of_california,_san_francisco", 100],
+      ["university_of_california_san_francisco", 99]
+    ]
+  },
+  "university_of_north_carolina_at_chapel_hill": {
+    "similar": [
+      ["university_of_north_carolina_at_chapel_hill", 100],
+      ["university_of_north_carolina_chapel_hill", 96]
+    ]
+  },
+  "dartmouth_college": { "similar": [["dartmouth_college", 100]] },
+  "institut_polytechnique_de_paris": {
+    "similar": [["institut_polytechnique_de_paris", 100]]
+  },
+  "university_of_paris": {
+    "similar": [
+      ["university_of_paris", 100],
+      ["university_of_paris-sud", 95],
+      ["university_of_paris_13", 93],
+      ["university_of_pisa", 92],
+      ["university_of_bari", 92]
+    ]
+  },
+  "king's_college_london": {
+    "similar": [
+      ["king's_college_london", 100],
+      ["king\u2019s_college_london", 100],
+      ["king`s_college_london", 100]
+    ]
+  },
+  "ludwig_maximilian_university_of_munich": {
+    "similar": [["ludwig_maximilian_university_of_munich", 100]]
+  },
+  "university_of_edinburgh": {
+    "similar": [
+      ["university_of_edinburgh", 100],
+      ["the_university_of_edinburgh", 92]
+    ]
+  },
+  "university_of_minnesota_-_twin_cities": {
+    "similar": [
+      ["university_of_minnesota_-_twin_cities", 100],
+      ["university_of_minnesota,_twin_cities", 99],
+      ["university_of_minnesota_twin_cities", 97],
+      ["university_of_minnesota-twin_cities", 97]
+    ]
+  },
+  "washington_university_in_st._louis": {
+    "similar": [
+      ["washington_university_in_st._louis", 100],
+      ["washington_university_in_st_louis", 99]
+    ]
+  },
+  "university_of_british_columbia": {
+    "similar": [["university_of_british_columbia", 100]]
+  },
+  "rockefeller_university": {
+    "similar": [
+      ["rockefeller_university", 100],
+      ["the_rockefeller_university", 92]
+    ]
+  },
+  "rutgers_university\u2013new_brunswick": {
+    "similar": [
+      ["rutgers_university\u2013new_brunswick", 100],
+      ["rutgers_university-new_brunswick", 100],
+      ["rutgers_university_new_brunswick", 97]
+    ]
+  }
+}
