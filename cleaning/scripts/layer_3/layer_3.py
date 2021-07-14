@@ -94,15 +94,10 @@ def aggregate(keys_fname: str, edges_fname: str, lookup_fname: str) -> None:
                 os.remove(output_path)
                 with open(output_path, 'w+') as outfile:
                     outfile.write(json.dumps(data))
-                # print(f"{o_fname} success")
         else:
-            # if os.path.isfile(output_path):
-            #     print(f"{o_fname} already exists")
-            # else:
             try:
                 with open(output_path, 'w+') as outfile:
                     outfile.write(json.dumps(data))
-                    # print(f"{o_fname} success")
             except FileNotFoundError as e:
                 print(e)
 
@@ -166,17 +161,64 @@ def aggregate(keys_fname: str, edges_fname: str, lookup_fname: str) -> None:
                 print(f"{item_index}/{total_length} :: ={edge_item}")
             bar()
 
-    # output files
-    # lookup_new_fname = '../../outputs/layer_3/initial_output.json'
-    # writefile(lookup_new_fname, lookup_data)
+
+def crush_exceptions() -> None:
+    reverse_lookup_fname = '../../outputs/layer_3/reverse_lookup.json'
+    r_f = open(reverse_lookup_fname)
+    reverse_lookup = json.load(r_f)
+
+    exceptions_fname = './exceptions.json'
+    e_f = open(exceptions_fname)
+    exceptions = json.load(e_f)
+
+    initial_output_fname = '../../outputs/layer_3/initial_output.json'
+    i_f = open(initial_output_fname)
+    initial_output = json.load(i_f)
+
+    federal_db_fname = '../../cleaning_federal_dbs/script_outputs/layer_3_output.json'
+    f_f = open(federal_db_fname)
+    federal_db = json.load(f_f)
+
+    pruned_fname = '../../outputs/layer_3/pruned.output.formatted.json'
+    p_f = open(pruned_fname)
+    pruned = json.load(p_f)
+
+    output_ff_names = [
+        [initial_output[o]['general']['ff_name'], o] for o in initial_output
+    ]
+
+    for exception in exceptions:
+        original_name = exception[0]
+        exception_name = exception[1]
+        true_name = reverse_lookup.get(exception_name)
+
+        res_dict = dict()
+        for output_item in output_ff_names:
+            output_name = output_item[0]
+            output_unitid = output_item[1]
+
+            if output_name == true_name:
+                res_dict = {output_unitid: federal_db[output_unitid]}
+                output_name = output_name.replace('/', '-')
+                new_fname = f"../../outputs/layer_3/schools/{output_name}.json"
+                rankings = pruned[original_name]['rankings_by_category']
+                forbes_desc = pruned[original_name]['general']['forbes_description']
+                forbes_uri = pruned[original_name]['general']['forbes_uri']
+                res_dict[output_unitid]['rankings'] = rankings
+                res_dict[output_unitid]['general']['forbes_desc'] = forbes_desc
+                res_dict[output_unitid]['general']['forbes_desc'] = forbes_uri
+                print(original_name, output_name)
+                writefile_default(new_fname, res_dict)
 
 
 def main():
     keys_fname = '../../outputs/layer_3/pruned.output.json'
     edges_fname = '../../outputs/layer_2/merged.json'
     lookup_fname = '../../cleaning_federal_dbs/script_outputs/layer_3_output.json'
-    aggregate(keys_fname, edges_fname, lookup_fname)
+    # aggregate(keys_fname, edges_fname, lookup_fname)
     # test_fuzzy(keys_fname, lookup_fname)
+
+    crush_exceptions()
 
 
 if __name__ == '__main__':
