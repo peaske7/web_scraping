@@ -23,14 +23,15 @@ def upload_helper(dirname: str, num: int, col) -> None:
             item = json.load(f)
 
             col.insert_one(item)
+
+            bar()
             tracker += 1
             if tracker == num:
                 break
-            bar()
 
 
 def upload(num: int) -> None:
-    schools_dirname = '../../outputs/layer_5'
+    schools_dirname = '../../outputs/layer_6'
     majors_dirname = '../../cleaning_federal_dbs/script_outputs/majors_layer_1/schools'
 
     # upload num schools documents to mongo server
